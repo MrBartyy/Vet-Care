@@ -1,4 +1,3 @@
-
 ## VetCare - Sistema de Clínica Veterinária
 
 ### Cenário
@@ -70,22 +69,116 @@ A conversão do que foi estabelecido no modelo conceitual ficará assim:
 O Banco de dados físico ficará assim: 
 ![Modelagem física](https://i.imgur.com/RLjjKCr.png)
 
+Criação das tables:
 ![enter image description here](https://i.imgur.com/5s8N1t5.png)
+![enter image description here](https://i.imgur.com/2eZWmMW.png)
+
+## Códig SQL do Supabase para a criação total do Banco de Dados:
+
+    CREATE SCHEMA vetcare;
+
+    CREATE TABLE vetcare.tutor(
+    id_tutor INT PRIMARY KEY,
+    nome_tutor VARCHAR(100) NOT NULL,
+    cpf VARCHAR(14) NOT NULL,
+    email_tutor VARCHAR(120) NOT NULL,
+    rua VARCHAR(100) NOT NULL,
+    numero VARCHAR(10) NOT NULL,
+    bairro VARCHAR(80) NOT NULL,
+    cidade VARCHAR(80) NOT NULL,
+    uf CHAR(2) NOT NULL,
+    cep VARCHAR(9) NOT NULL
+    );
+
+    CREATE TABLE vetcare.telefone_tutor (
+    id_telefone INT PRIMARY KEY,
+    id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
+    numero_telefone VARCHAR(15) NOT NULL
+    );
+
+    CREATE TABLE vetcare.animal (
+    id_animal INT PRIMARY KEY,
+    id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
+    nome_animal VARCHAR(60) NOT NULL,
+    especie_animal VARCHAR(30) NOT NULL,
+    raca_animal VARCHAR(60) NOT NULL,
+    sexo_animal CHAR(1) NOT NULL CHECK (sexo_animal IN ('M','F')),
+    data_nasc DATE NOT NULL
+    );
+
+    CREATE TABLE vetcare.veterinario(
+    id_veterinario INT PRIMARY KEY NOT NULL,
+    nome_veterinario VARCHAR(150) NOT NULL,
+    crmv VARCHAR(20) NOT NULL UNIQUE,
+    especialidade VARCHAR (80) NOT NULL
+    );
+
+    CREATE TABLE vetcare.prontuario(
+    id_prontuario INT PRIMARY KEY NOT NULL,
+    id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
+    data_abertura DATE NOT NULL,
+    alergias TEXT,
+    observacoes TEXT
+    );
+
+    CREATE TABLE vetcare.consulta(
+    id_consulta INT PRIMARY KEY NOT NULL,
+    id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
+    id_veterinario INT NOT NULL REFERENCES vetcare.veterinario(id_veterinario),
+    data_hora TIMESTAMPTZ NOT NULL,
+    motivo VARCHAR(150) NOT NULL,
+    diagnostico TEXT,
+    status VARCHAR(20) NOT NULL CHECK (status IN ('Agendada', 'Realizada', 'Cancelada'))
+    );
+
+    CREATE TABLE vetcare.procedimento(
+    id_procedimento INT PRIMARY KEY NOT NULL,
+    nome_procedimento VARCHAR(100) NOT NULL,
+    descricao TEXT,
+    valor DECIMAL(10,2) NOT NULL CHECK (valor >= 0)
+    );
+
+    CREATE TABLE vetcare.consulta_procedimento (
+    id_consulta INT NOT NULL REFERENCES vetcare.consulta(id_consulta),
+    id_procedimento INT NOT NULL REFERENCES vetcare.procedimento(id_procedimento),
+    quantidade INT NOT NULL CHECK (quantidade > 0),
+    valor_unitario DECIMAL(10,2) NOT NULL CHECK (valor_unitario >= 0)
+    );
+
+
+### Estrutura de dados que entrará no banco.
+**Table - Tutor**
 ![enter image description here](https://i.imgur.com/hHBWx5d.png)
+
+**Table - Telefone - Tutor**
 ![enter image description here](https://i.imgur.com/dW14Txj.png)
+
+**Table - Animal**
 ![enter image description here](https://i.imgur.com/qo8FJXn.png)
+
+**Table - Prontuário**
 ![enter image description here](https://i.imgur.com/Q0mcBtH.png)
+
+**Table - Consulta**
 ![enter image description here](https://i.imgur.com/czgRduT.png)
+
+**Table - Veterinário**
 ![enter image description here](https://i.imgur.com/Vm6y4KR.png)
+
+**Table - Procedimento**
 ![enter image description here](https://i.imgur.com/asPBicN.png)
+
+**Table - Consulta - Procedimento**
 ![enter image description here](https://i.imgur.com/mSq3HR4.png)
-### Dados
 
-
-### CRUD
+## Dados
 
 
 
-### Relatórios.
+## CRUD
+
+
+
+## Relatórios.
 
 
