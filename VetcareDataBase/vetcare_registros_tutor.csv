@@ -1,0 +1,501 @@
+﻿id_tutor;nome_tutor;cpf;email_tutor;rua;numero;bairro;cidade;uf;cep
+1;Pedro Silva Martins;786.579.303-11;tutor1@example.com;Rua das Acácias;251;Centro;Franca;SP;14403-759
+2;Pedro Ribeiro Martins;395.310.485-43;tutor2@example.com;Rua das Flores;605;Jardim América;Franca;SP;14428-142
+3;Ana Santos Souza;890.779.946-71;tutor3@example.com;Rua dos Ipês;518;Vila Nova;Franca;SP;14486-758
+4;Carlos Martins Ribeiro;685.582.861-31;tutor4@example.com;Rua dos Lírios;226;Jardim América;Ribeirão Preto;SP;14075-432
+5;Rafael Silva Oliveira;134.126.396-80;tutor5@example.com;Rua dos Lírios;349;Jardim América;Franca;SP;14411-223
+6;Carlos Costa Santos;349.817.734-78;tutor6@example.com;Rua das Flores;390;Centro;Batatais;SP;14377-027
+7;Beatriz Gomes Pereira;702.632.297-53;tutor7@example.com;Rua das Flores;748;Jardim América;Ribeirão Preto;SP;14091-665
+8;Pedro Almeida Santos;853.041.955-48;tutor8@example.com;Rua das Acácias;850;Vila Nova;Ribeirão Preto;SP;14053-225
+9;Beatriz Gomes Souza;582.334.538-19;tutor9@example.com;Rua das Flores;47;Vila Nova;Franca;SP;14435-828
+10;Camila Santos Souza;106.977.991-22;tutor10@example.com;Rua das Flores;390;Jardim América;Batatais;SP;14389-432
+11;Beatriz Oliveira Costa;465.341.213-94;tutor11@example.com;Rua das Acácias;215;Vila Nova;Batatais;SP;14319-220
+12;João Gomes Ribeiro;919.795.579-65;tutor12@example.com;Rua dos Ipês;547;Vila Nova;Franca;SP;14413-094
+13;Mariana Ferreira Almeida;507.943.839-91;tutor13@example.com;Rua das Acácias;948;Vila Nova;Ribeirão Preto;SP;14045-867
+14;Juliana Ribeiro Costa;469.319.644-59;tutor14@example.com;Rua das Flores;235;Centro;Batatais;SP;14333-826
+15;Felipe Pereira Santos;146.654.552-77;tutor15@example.com;Rua dos Ipês;936;Vila Nova;Ribeirão Preto;SP;14068-127
+16;Bruno Souza Ribeiro;506.448.196-01;tutor16@example.com;Rua dos Lírios;406;Vila Nova;Batatais;SP;14370-300
+17;Lucas Pereira Oliveira;990.566.476-09;tutor17@example.com;Rua dos Ipês;763;Vila Nova;Ribeirão Preto;SP;14046-591
+18;Rafael Martins Gomes;306.468.299-81;tutor18@example.com;Rua dos Lírios;920;Vila Nova;Batatais;SP;14305-677
+19;Beatriz Souza Oliveira;344.703.907-94;tutor19@example.com;Rua dos Lírios;94;Centro;Franca;SP;14410-875
+20;Lucas Ribeiro Oliveira;349.957.310-61;tutor20@example.com;Rua dos Lírios;611;Centro;Batatais;SP;14348-284
+21;Felipe Gomes Ferreira;586.845.604-25;tutor21@example.com;Rua das Acácias;995;Vila Nova;Franca;SP;14420-379
+22;Pedro Ribeiro Rodrigues;481.469.012-73;tutor22@example.com;Rua das Acácias;788;Vila Nova;Batatais;SP;14385-273
+23;Pedro Pereira Almeida;853.573.823-21;tutor23@example.com;Rua dos Ipês;465;Centro;Ribeirão Preto;SP;14077-650
+24;Rafael Rodrigues Oliveira;283.758.720-78;tutor24@example.com;Rua das Flores;892;Vila Nova;Batatais;SP;14393-250
+25;Carlos Oliveira Costa;275.452.091-17;tutor25@example.com;Rua dos Ipês;553;Vila Nova;Franca;SP;14448-276
+26;Bruno Ferreira Silva;787.194.506-98;tutor26@example.com;Rua das Flores;952;Jardim América;Batatais;SP;14328-701
+27;Juliana Silva Souza;448.195.935-60;tutor27@example.com;Rua das Flores;88;Vila Nova;Batatais;SP;14329-841
+28;João Rodrigues Oliveira;134.467.368-75;tutor28@example.com;Rua dos Ipês;676;Jardim América;Ribeirão Preto;SP;14051-274
+29;Mariana Pereira Rodrigues;171.069.472-73;tutor29@example.com;Rua dos Lírios;988;Centro;Ribeirão Preto;SP;14072-897
+30;Carlos Martins Pereira;870.854.579-15;tutor30@example.com;Rua dos Lírios;688;Vila Nova;Batatais;SP;14327-671
+31;Gabriel Rodrigues Ferreira;636.045.484-16;tutor31@example.com;Rua das Flores;254;Centro;Franca;SP;14482-469
+32;Bruno Silva Gomes;253.407.200-64;tutor32@example.com;Rua dos Ipês;603;Centro;Franca;SP;14417-252
+33;João Martins Ribeiro;899.925.830-18;tutor33@example.com;Rua das Flores;235;Centro;Franca;SP;14468-269
+34;Bruno Santos Rodrigues;902.099.969-09;tutor34@example.com;Rua dos Ipês;286;Vila Nova;Batatais;SP;14354-919
+35;Carlos Rodrigues Oliveira;726.563.708-06;tutor35@example.com;Rua dos Lírios;249;Jardim América;Batatais;SP;14346-224
+36;Carlos Santos Santos;248.532.577-58;tutor36@example.com;Rua dos Lírios;363;Jardim América;Batatais;SP;14363-093
+37;Gabriel Martins Silva;911.514.914-60;tutor37@example.com;Rua das Flores;63;Jardim América;Ribeirão Preto;SP;14014-156
+38;Bruno Santos Souza;773.715.057-02;tutor38@example.com;Rua dos Ipês;195;Vila Nova;Batatais;SP;14387-432
+39;Lucas Almeida Oliveira;740.389.325-61;tutor39@example.com;Rua das Acácias;474;Centro;Franca;SP;14449-390
+40;Gabriel Rodrigues Santos;739.830.322-17;tutor40@example.com;Rua das Flores;668;Vila Nova;Franca;SP;14467-257
+41;João Souza Oliveira;694.021.782-80;tutor41@example.com;Rua dos Lírios;498;Jardim América;Franca;SP;14487-738
+42;Felipe Silva Oliveira;222.998.994-58;tutor42@example.com;Rua dos Lírios;3;Jardim América;Batatais;SP;14396-273
+43;Gabriel Pereira Almeida;925.276.600-75;tutor43@example.com;Rua dos Lírios;159;Centro;Batatais;SP;14314-300
+44;Carlos Silva Gomes;566.825.638-42;tutor44@example.com;Rua das Flores;766;Jardim América;Franca;SP;14458-003
+45;Maria Gomes Ferreira;875.340.444-14;tutor45@example.com;Rua dos Ipês;59;Vila Nova;Franca;SP;14464-780
+46;Mariana Santos Gomes;291.825.997-88;tutor46@example.com;Rua das Flores;692;Centro;Batatais;SP;14313-891
+47;Pedro Gomes Souza;771.410.971-94;tutor47@example.com;Rua das Flores;635;Centro;Batatais;SP;14381-519
+48;Bruno Pereira Souza;753.876.785-23;tutor48@example.com;Rua das Acácias;245;Jardim América;Batatais;SP;14319-382
+49;Lucas Ribeiro Ribeiro;918.739.736-72;tutor49@example.com;Rua das Acácias;469;Jardim América;Franca;SP;14469-976
+50;Ana Ferreira Gomes;936.043.811-28;tutor50@example.com;Rua das Flores;76;Vila Nova;Franca;SP;14400-613
+51;Rafael Oliveira Costa;448.059.918-67;tutor51@example.com;Rua das Flores;901;Centro;Batatais;SP;14302-114
+52;Camila Oliveira Ferreira;489.747.629-24;tutor52@example.com;Rua das Acácias;627;Vila Nova;Ribeirão Preto;SP;14030-059
+53;Ana Ribeiro Rodrigues;358.633.898-99;tutor53@example.com;Rua das Acácias;955;Vila Nova;Franca;SP;14410-087
+54;Lucas Pereira Santos;885.879.795-87;tutor54@example.com;Rua das Flores;761;Vila Nova;Franca;SP;14408-778
+55;Rafael Pereira Gomes;671.988.889-82;tutor55@example.com;Rua dos Ipês;735;Jardim América;Franca;SP;14416-675
+56;Rafael Rodrigues Ferreira;610.330.567-68;tutor56@example.com;Rua das Acácias;928;Centro;Franca;SP;14421-271
+57;Laura Pereira Silva;666.585.408-79;tutor57@example.com;Rua das Flores;342;Centro;Ribeirão Preto;SP;14054-987
+58;Rafael Oliveira Martins;327.416.584-18;tutor58@example.com;Rua dos Lírios;565;Vila Nova;Batatais;SP;14396-747
+59;Ana Santos Santos;840.739.735-13;tutor59@example.com;Rua dos Ipês;559;Centro;Batatais;SP;14391-319
+60;Lucas Almeida Oliveira;528.414.718-05;tutor60@example.com;Rua das Flores;316;Jardim América;Franca;SP;14456-921
+61;Beatriz Souza Ribeiro;655.742.829-37;tutor61@example.com;Rua dos Ipês;683;Centro;Batatais;SP;14315-253
+62;Laura Gomes Martins;341.266.931-91;tutor62@example.com;Rua dos Ipês;948;Centro;Franca;SP;14443-021
+63;Mariana Almeida Silva;731.691.672-08;tutor63@example.com;Rua dos Ipês;755;Jardim América;Batatais;SP;14329-602
+64;Juliana Pereira Oliveira;336.456.621-70;tutor64@example.com;Rua das Flores;392;Centro;Batatais;SP;14309-724
+65;Juliana Souza Ferreira;777.641.645-30;tutor65@example.com;Rua das Acácias;313;Centro;Franca;SP;14429-069
+66;Ana Ribeiro Souza;133.729.406-45;tutor66@example.com;Rua dos Lírios;337;Jardim América;Franca;SP;14409-526
+67;Rafael Costa Ribeiro;355.555.531-74;tutor67@example.com;Rua dos Lírios;696;Vila Nova;Batatais;SP;14385-497
+68;Ana Santos Pereira;330.035.022-18;tutor68@example.com;Rua dos Ipês;595;Jardim América;Franca;SP;14416-740
+69;Pedro Gomes Almeida;713.152.854-59;tutor69@example.com;Rua das Acácias;747;Jardim América;Batatais;SP;14360-248
+70;Pedro Almeida Gomes;942.478.695-77;tutor70@example.com;Rua dos Ipês;261;Centro;Ribeirão Preto;SP;14052-194
+71;Laura Silva Rodrigues;201.281.557-11;tutor71@example.com;Rua dos Ipês;373;Jardim América;Franca;SP;14484-441
+72;Bruno Gomes Costa;480.424.119-26;tutor72@example.com;Rua das Flores;738;Jardim América;Ribeirão Preto;SP;14052-478
+73;Camila Ribeiro Almeida;882.839.238-10;tutor73@example.com;Rua das Acácias;413;Vila Nova;Batatais;SP;14386-669
+74;Lucas Souza Almeida;793.830.224-51;tutor74@example.com;Rua dos Lírios;694;Vila Nova;Franca;SP;14407-412
+75;Camila Almeida Rodrigues;881.913.386-65;tutor75@example.com;Rua das Flores;312;Jardim América;Franca;SP;14413-254
+76;Laura Gomes Gomes;305.718.272-13;tutor76@example.com;Rua das Acácias;477;Jardim América;Batatais;SP;14368-459
+77;Carlos Rodrigues Ferreira;250.519.597-96;tutor77@example.com;Rua dos Ipês;675;Centro;Batatais;SP;14323-285
+78;Bruno Santos Souza;596.743.109-93;tutor78@example.com;Rua das Acácias;231;Centro;Franca;SP;14409-453
+79;Ana Silva Souza;967.607.278-98;tutor79@example.com;Rua dos Lírios;626;Centro;Batatais;SP;14312-051
+80;Laura Ribeiro Gomes;800.235.246-88;tutor80@example.com;Rua dos Ipês;736;Vila Nova;Batatais;SP;14301-992
+81;Sofia Almeida Souza;200.140.141-93;tutor81@example.com;Rua dos Ipês;672;Vila Nova;Franca;SP;14421-416
+82;Pedro Almeida Souza;621.453.189-57;tutor82@example.com;Rua dos Ipês;824;Vila Nova;Ribeirão Preto;SP;14027-885
+83;Gabriel Silva Rodrigues;530.613.729-70;tutor83@example.com;Rua dos Ipês;940;Centro;Batatais;SP;14321-388
+84;Lucas Ferreira Ribeiro;102.314.313-66;tutor84@example.com;Rua das Acácias;973;Jardim América;Ribeirão Preto;SP;14033-948
+85;Laura Rodrigues Ferreira;941.889.393-37;tutor85@example.com;Rua dos Ipês;762;Jardim América;Batatais;SP;14336-433
+86;Rafael Souza Ribeiro;847.959.430-78;tutor86@example.com;Rua das Acácias;785;Vila Nova;Batatais;SP;14384-735
+87;Juliana Pereira Ferreira;622.559.454-12;tutor87@example.com;Rua das Flores;731;Jardim América;Franca;SP;14424-303
+88;Rafael Costa Costa;333.754.555-70;tutor88@example.com;Rua das Flores;142;Centro;Franca;SP;14474-753
+89;Felipe Martins Oliveira;682.177.668-80;tutor89@example.com;Rua dos Ipês;66;Jardim América;Batatais;SP;14395-321
+90;Bruno Rodrigues Ferreira;161.380.746-60;tutor90@example.com;Rua dos Lírios;64;Centro;Batatais;SP;14374-488
+91;Felipe Gomes Martins;639.931.481-18;tutor91@example.com;Rua das Flores;878;Vila Nova;Batatais;SP;14320-058
+92;Sofia Silva Costa;645.276.696-21;tutor92@example.com;Rua das Acácias;772;Jardim América;Batatais;SP;14323-070
+93;Juliana Ferreira Souza;738.914.080-21;tutor93@example.com;Rua das Acácias;447;Jardim América;Franca;SP;14486-882
+94;Felipe Costa Ribeiro;352.548.261-36;tutor94@example.com;Rua dos Lírios;742;Centro;Batatais;SP;14315-964
+95;Lucas Gomes Rodrigues;711.684.318-43;tutor95@example.com;Rua das Flores;929;Jardim América;Ribeirão Preto;SP;14074-608
+96;Ana Santos Ribeiro;142.672.287-89;tutor96@example.com;Rua dos Lírios;139;Jardim América;Franca;SP;14410-429
+97;Maria Pereira Almeida;805.849.060-29;tutor97@example.com;Rua das Acácias;217;Jardim América;Batatais;SP;14372-535
+98;Bruno Almeida Pereira;439.699.535-14;tutor98@example.com;Rua dos Lírios;259;Centro;Batatais;SP;14326-685
+99;Ana Martins Rodrigues;869.005.091-55;tutor99@example.com;Rua das Flores;975;Jardim América;Franca;SP;14430-271
+100;João Ribeiro Silva;524.971.817-62;tutor100@example.com;Rua das Flores;973;Centro;Franca;SP;14485-660
+101;Ana Gomes Oliveira;422.119.408-27;tutor101@example.com;Rua dos Ipês;130;Jardim América;Ribeirão Preto;SP;14040-951
+102;Pedro Gomes Souza;907.308.348-71;tutor102@example.com;Rua dos Lírios;717;Jardim América;Batatais;SP;14301-469
+103;Mariana Gomes Gomes;766.964.667-69;tutor103@example.com;Rua das Flores;797;Centro;Batatais;SP;14312-075
+104;Pedro Gomes Silva;677.280.546-23;tutor104@example.com;Rua das Acácias;590;Vila Nova;Batatais;SP;14364-271
+105;Felipe Martins Souza;242.224.154-05;tutor105@example.com;Rua das Flores;607;Vila Nova;Ribeirão Preto;SP;14008-900
+106;Juliana Santos Martins;362.298.393-15;tutor106@example.com;Rua das Acácias;871;Vila Nova;Ribeirão Preto;SP;14036-161
+107;Pedro Gomes Silva;570.497.096-78;tutor107@example.com;Rua das Acácias;546;Jardim América;Ribeirão Preto;SP;14090-309
+108;Beatriz Santos Rodrigues;756.783.995-58;tutor108@example.com;Rua das Acácias;13;Jardim América;Batatais;SP;14301-683
+109;Pedro Almeida Costa;977.358.886-78;tutor109@example.com;Rua dos Lírios;725;Centro;Batatais;SP;14338-954
+110;Mariana Martins Rodrigues;812.308.209-71;tutor110@example.com;Rua das Acácias;631;Vila Nova;Batatais;SP;14317-270
+111;Gabriel Almeida Martins;223.940.587-31;tutor111@example.com;Rua das Acácias;331;Centro;Franca;SP;14495-566
+112;Rafael Ferreira Souza;266.910.922-64;tutor112@example.com;Rua dos Lírios;584;Vila Nova;Ribeirão Preto;SP;14036-619
+113;Felipe Costa Silva;326.161.867-25;tutor113@example.com;Rua dos Lírios;872;Jardim América;Franca;SP;14426-703
+114;Sofia Souza Costa;781.007.818-74;tutor114@example.com;Rua das Acácias;349;Jardim América;Ribeirão Preto;SP;14064-500
+115;Rafael Rodrigues Silva;369.639.388-70;tutor115@example.com;Rua dos Ipês;88;Centro;Ribeirão Preto;SP;14011-649
+116;Laura Ferreira Rodrigues;554.811.020-04;tutor116@example.com;Rua dos Ipês;708;Jardim América;Ribeirão Preto;SP;14005-003
+117;Sofia Ferreira Silva;458.153.605-82;tutor117@example.com;Rua das Flores;302;Centro;Batatais;SP;14381-268
+118;Juliana Pereira Ribeiro;273.497.327-97;tutor118@example.com;Rua das Acácias;485;Vila Nova;Ribeirão Preto;SP;14070-722
+119;Beatriz Almeida Martins;559.225.330-48;tutor119@example.com;Rua das Acácias;361;Vila Nova;Batatais;SP;14301-114
+120;Rafael Pereira Pereira;180.792.472-72;tutor120@example.com;Rua dos Ipês;124;Vila Nova;Franca;SP;14469-036
+121;Bruno Santos Martins;996.139.578-75;tutor121@example.com;Rua dos Ipês;197;Centro;Ribeirão Preto;SP;14074-565
+122;Sofia Pereira Martins;259.014.493-96;tutor122@example.com;Rua das Acácias;103;Centro;Batatais;SP;14316-042
+123;Juliana Costa Oliveira;430.989.881-65;tutor123@example.com;Rua das Acácias;15;Vila Nova;Ribeirão Preto;SP;14005-920
+124;Lucas Pereira Silva;484.194.737-13;tutor124@example.com;Rua das Flores;567;Jardim América;Ribeirão Preto;SP;14087-255
+125;Lucas Ribeiro Ferreira;816.114.302-21;tutor125@example.com;Rua das Flores;894;Centro;Ribeirão Preto;SP;14045-798
+126;Camila Ferreira Ferreira;701.170.349-86;tutor126@example.com;Rua dos Lírios;349;Centro;Franca;SP;14479-767
+127;Rafael Ferreira Santos;265.950.383-53;tutor127@example.com;Rua das Flores;411;Jardim América;Franca;SP;14420-999
+128;Maria Oliveira Oliveira;958.872.154-82;tutor128@example.com;Rua das Acácias;88;Centro;Franca;SP;14452-025
+129;Laura Gomes Gomes;292.587.044-05;tutor129@example.com;Rua dos Ipês;795;Vila Nova;Batatais;SP;14352-821
+130;Gabriel Ferreira Pereira;819.307.302-03;tutor130@example.com;Rua dos Lírios;313;Vila Nova;Ribeirão Preto;SP;14034-163
+131;Maria Gomes Martins;945.436.943-21;tutor131@example.com;Rua das Flores;971;Centro;Ribeirão Preto;SP;14048-893
+132;Carlos Pereira Ribeiro;141.580.226-37;tutor132@example.com;Rua das Flores;161;Centro;Franca;SP;14428-204
+133;João Oliveira Silva;976.803.188-47;tutor133@example.com;Rua dos Lírios;462;Vila Nova;Ribeirão Preto;SP;14044-312
+134;Sofia Pereira Silva;981.044.229-83;tutor134@example.com;Rua dos Ipês;296;Vila Nova;Batatais;SP;14328-024
+135;Gabriel Santos Ribeiro;808.705.238-33;tutor135@example.com;Rua dos Ipês;947;Jardim América;Ribeirão Preto;SP;14051-336
+136;Carlos Almeida Santos;399.147.754-91;tutor136@example.com;Rua dos Ipês;664;Centro;Batatais;SP;14398-285
+137;Lucas Santos Silva;477.040.284-98;tutor137@example.com;Rua dos Ipês;812;Jardim América;Ribeirão Preto;SP;14051-695
+138;Camila Ferreira Santos;675.757.257-65;tutor138@example.com;Rua dos Lírios;706;Jardim América;Ribeirão Preto;SP;14003-118
+139;Felipe Pereira Rodrigues;380.477.683-42;tutor139@example.com;Rua dos Lírios;449;Centro;Ribeirão Preto;SP;14074-985
+140;Maria Almeida Martins;385.042.337-00;tutor140@example.com;Rua das Acácias;619;Jardim América;Franca;SP;14413-610
+141;João Souza Ribeiro;566.609.283-05;tutor141@example.com;Rua das Flores;784;Vila Nova;Batatais;SP;14393-805
+142;Maria Oliveira Ferreira;436.808.455-26;tutor142@example.com;Rua dos Lírios;939;Jardim América;Franca;SP;14477-523
+143;Laura Ribeiro Ferreira;224.173.718-76;tutor143@example.com;Rua das Flores;482;Jardim América;Batatais;SP;14373-194
+144;Bruno Costa Ribeiro;373.506.211-40;tutor144@example.com;Rua das Flores;879;Centro;Batatais;SP;14390-446
+145;Laura Martins Ferreira;101.815.992-58;tutor145@example.com;Rua das Acácias;679;Jardim América;Ribeirão Preto;SP;14068-703
+146;Maria Ferreira Santos;872.482.077-73;tutor146@example.com;Rua das Acácias;259;Jardim América;Franca;SP;14446-441
+147;Felipe Rodrigues Silva;175.133.802-05;tutor147@example.com;Rua dos Lírios;424;Centro;Franca;SP;14479-321
+148;Beatriz Gomes Ferreira;812.306.873-61;tutor148@example.com;Rua dos Lírios;779;Centro;Franca;SP;14492-921
+149;Rafael Rodrigues Oliveira;422.468.580-08;tutor149@example.com;Rua das Acácias;449;Vila Nova;Batatais;SP;14339-682
+150;Pedro Silva Ribeiro;538.508.549-05;tutor150@example.com;Rua dos Ipês;727;Centro;Batatais;SP;14351-713
+151;Ana Rodrigues Almeida;417.457.352-38;tutor151@example.com;Rua das Flores;231;Centro;Batatais;SP;14316-196
+152;Pedro Ribeiro Oliveira;551.450.815-46;tutor152@example.com;Rua dos Lírios;956;Vila Nova;Batatais;SP;14386-766
+153;Rafael Almeida Ferreira;286.860.433-29;tutor153@example.com;Rua dos Lírios;250;Jardim América;Ribeirão Preto;SP;14072-308
+154;Lucas Almeida Souza;536.019.893-28;tutor154@example.com;Rua dos Ipês;885;Centro;Batatais;SP;14300-311
+155;Laura Costa Rodrigues;408.071.259-73;tutor155@example.com;Rua das Acácias;841;Centro;Batatais;SP;14355-804
+156;Camila Gomes Gomes;722.753.913-19;tutor156@example.com;Rua dos Lírios;887;Centro;Batatais;SP;14383-329
+157;Sofia Costa Costa;599.277.266-07;tutor157@example.com;Rua dos Lírios;467;Jardim América;Franca;SP;14456-691
+158;Juliana Gomes Almeida;329.460.134-58;tutor158@example.com;Rua dos Ipês;877;Jardim América;Franca;SP;14460-812
+159;Bruno Martins Ferreira;954.725.078-82;tutor159@example.com;Rua dos Lírios;396;Vila Nova;Ribeirão Preto;SP;14084-086
+160;Lucas Ferreira Silva;404.713.332-08;tutor160@example.com;Rua dos Ipês;515;Vila Nova;Batatais;SP;14384-648
+161;Pedro Ferreira Santos;764.926.227-95;tutor161@example.com;Rua dos Lírios;16;Vila Nova;Franca;SP;14411-838
+162;Laura Ribeiro Oliveira;906.528.433-93;tutor162@example.com;Rua das Flores;481;Jardim América;Batatais;SP;14386-317
+163;Felipe Ribeiro Santos;341.206.079-93;tutor163@example.com;Rua das Acácias;873;Vila Nova;Ribeirão Preto;SP;14018-025
+164;Felipe Costa Ribeiro;149.621.604-13;tutor164@example.com;Rua dos Lírios;894;Vila Nova;Franca;SP;14460-625
+165;João Souza Ribeiro;925.159.146-71;tutor165@example.com;Rua das Acácias;233;Vila Nova;Franca;SP;14458-424
+166;Laura Santos Ribeiro;776.205.431-79;tutor166@example.com;Rua das Flores;455;Centro;Ribeirão Preto;SP;14024-735
+167;Camila Silva Silva;847.704.681-76;tutor167@example.com;Rua das Acácias;816;Centro;Batatais;SP;14363-409
+168;Beatriz Costa Almeida;361.976.301-22;tutor168@example.com;Rua dos Ipês;251;Vila Nova;Batatais;SP;14383-704
+169;Mariana Oliveira Oliveira;105.953.697-91;tutor169@example.com;Rua das Flores;625;Jardim América;Ribeirão Preto;SP;14099-435
+170;Juliana Ferreira Gomes;334.978.881-62;tutor170@example.com;Rua dos Ipês;238;Jardim América;Ribeirão Preto;SP;14089-530
+171;Rafael Ferreira Pereira;598.806.645-40;tutor171@example.com;Rua das Flores;921;Jardim América;Batatais;SP;14371-255
+172;Mariana Santos Ferreira;230.307.805-07;tutor172@example.com;Rua das Acácias;602;Jardim América;Ribeirão Preto;SP;14017-820
+173;Laura Martins Pereira;598.906.879-58;tutor173@example.com;Rua dos Lírios;866;Jardim América;Franca;SP;14471-609
+174;Felipe Ferreira Santos;440.696.084-97;tutor174@example.com;Rua dos Ipês;391;Vila Nova;Batatais;SP;14378-834
+175;Camila Martins Pereira;872.314.530-88;tutor175@example.com;Rua das Flores;850;Vila Nova;Batatais;SP;14354-850
+176;Rafael Silva Gomes;688.273.030-17;tutor176@example.com;Rua das Flores;933;Vila Nova;Ribeirão Preto;SP;14020-761
+177;Sofia Pereira Souza;609.677.794-67;tutor177@example.com;Rua das Acácias;225;Vila Nova;Franca;SP;14433-769
+178;Rafael Ribeiro Martins;365.471.644-14;tutor178@example.com;Rua dos Ipês;644;Centro;Ribeirão Preto;SP;14098-796
+179;Maria Pereira Ferreira;659.741.412-97;tutor179@example.com;Rua das Flores;594;Jardim América;Ribeirão Preto;SP;14080-244
+180;Lucas Santos Pereira;394.846.763-47;tutor180@example.com;Rua das Acácias;766;Jardim América;Franca;SP;14409-730
+181;Carlos Oliveira Rodrigues;406.798.268-33;tutor181@example.com;Rua das Acácias;544;Vila Nova;Batatais;SP;14334-343
+182;Mariana Pereira Ferreira;443.285.529-18;tutor182@example.com;Rua das Acácias;765;Jardim América;Franca;SP;14410-141
+183;Gabriel Santos Oliveira;261.953.189-73;tutor183@example.com;Rua dos Ipês;881;Vila Nova;Ribeirão Preto;SP;14049-710
+184;Felipe Rodrigues Costa;264.073.400-93;tutor184@example.com;Rua das Flores;810;Jardim América;Franca;SP;14408-424
+185;Rafael Rodrigues Santos;537.656.494-15;tutor185@example.com;Rua dos Lírios;378;Vila Nova;Ribeirão Preto;SP;14069-477
+186;Rafael Gomes Almeida;546.434.187-10;tutor186@example.com;Rua das Acácias;111;Vila Nova;Franca;SP;14426-852
+187;Sofia Silva Gomes;551.125.671-56;tutor187@example.com;Rua das Acácias;938;Vila Nova;Franca;SP;14498-598
+188;João Ribeiro Ferreira;846.812.123-20;tutor188@example.com;Rua das Acácias;665;Jardim América;Franca;SP;14497-589
+189;Lucas Silva Silva;508.431.021-47;tutor189@example.com;Rua das Acácias;505;Centro;Franca;SP;14400-965
+190;Juliana Rodrigues Oliveira;477.698.143-34;tutor190@example.com;Rua dos Lírios;465;Jardim América;Ribeirão Preto;SP;14096-399
+191;Laura Gomes Martins;997.356.828-26;tutor191@example.com;Rua dos Ipês;907;Jardim América;Ribeirão Preto;SP;14068-765
+192;Pedro Ferreira Gomes;888.807.316-88;tutor192@example.com;Rua dos Lírios;962;Jardim América;Franca;SP;14477-919
+193;Beatriz Souza Ferreira;336.801.619-07;tutor193@example.com;Rua dos Lírios;974;Centro;Batatais;SP;14328-279
+194;Pedro Ribeiro Costa;567.975.319-87;tutor194@example.com;Rua das Acácias;63;Jardim América;Batatais;SP;14303-398
+195;Carlos Santos Ferreira;460.916.347-16;tutor195@example.com;Rua das Flores;679;Centro;Ribeirão Preto;SP;14092-169
+196;Ana Silva Costa;601.856.351-82;tutor196@example.com;Rua dos Ipês;129;Vila Nova;Franca;SP;14479-546
+197;João Rodrigues Souza;128.955.006-06;tutor197@example.com;Rua dos Ipês;833;Centro;Batatais;SP;14375-577
+198;Lucas Gomes Silva;811.890.569-20;tutor198@example.com;Rua das Acácias;880;Centro;Franca;SP;14410-658
+199;Rafael Oliveira Santos;560.219.456-92;tutor199@example.com;Rua das Flores;135;Centro;Batatais;SP;14359-186
+200;Juliana Gomes Costa;153.992.714-94;tutor200@example.com;Rua das Flores;179;Jardim América;Franca;SP;14448-335
+201;Lucas Martins Almeida;327.268.503-17;tutor201@example.com;Rua das Flores;764;Centro;Batatais;SP;14341-345
+202;Gabriel Costa Rodrigues;917.364.173-26;tutor202@example.com;Rua das Flores;463;Vila Nova;Franca;SP;14435-770
+203;Maria Martins Ribeiro;993.271.900-66;tutor203@example.com;Rua das Acácias;470;Vila Nova;Franca;SP;14432-854
+204;Maria Ferreira Almeida;187.946.147-27;tutor204@example.com;Rua dos Lírios;703;Centro;Batatais;SP;14302-767
+205;Gabriel Santos Santos;679.196.799-50;tutor205@example.com;Rua das Acácias;623;Centro;Franca;SP;14444-229
+206;Lucas Pereira Gomes;798.086.909-61;tutor206@example.com;Rua das Acácias;391;Vila Nova;Ribeirão Preto;SP;14099-980
+207;Camila Ferreira Rodrigues;799.816.232-60;tutor207@example.com;Rua dos Lírios;102;Vila Nova;Franca;SP;14496-031
+208;Carlos Almeida Ferreira;365.518.424-83;tutor208@example.com;Rua dos Ipês;424;Jardim América;Batatais;SP;14302-636
+209;Felipe Almeida Martins;263.619.298-13;tutor209@example.com;Rua das Flores;321;Jardim América;Batatais;SP;14316-484
+210;Rafael Costa Oliveira;818.825.964-11;tutor210@example.com;Rua dos Lírios;69;Centro;Franca;SP;14472-970
+211;João Almeida Santos;334.037.646-97;tutor211@example.com;Rua das Acácias;832;Centro;Ribeirão Preto;SP;14089-262
+212;Maria Gomes Rodrigues;923.450.567-15;tutor212@example.com;Rua das Acácias;687;Centro;Batatais;SP;14321-620
+213;Beatriz Ribeiro Almeida;752.027.025-51;tutor213@example.com;Rua das Flores;992;Jardim América;Ribeirão Preto;SP;14099-838
+214;Camila Costa Santos;275.842.194-24;tutor214@example.com;Rua dos Ipês;159;Vila Nova;Batatais;SP;14313-592
+215;Juliana Santos Costa;127.571.992-04;tutor215@example.com;Rua das Acácias;118;Jardim América;Ribeirão Preto;SP;14073-693
+216;Juliana Almeida Rodrigues;502.982.778-26;tutor216@example.com;Rua das Flores;624;Vila Nova;Ribeirão Preto;SP;14091-203
+217;Rafael Silva Oliveira;181.600.593-39;tutor217@example.com;Rua das Acácias;720;Jardim América;Batatais;SP;14388-850
+218;Beatriz Silva Oliveira;773.496.394-43;tutor218@example.com;Rua dos Ipês;580;Vila Nova;Batatais;SP;14313-713
+219;João Oliveira Martins;929.445.037-74;tutor219@example.com;Rua das Flores;94;Vila Nova;Ribeirão Preto;SP;14087-614
+220;Carlos Almeida Almeida;964.929.067-31;tutor220@example.com;Rua dos Lírios;350;Centro;Batatais;SP;14372-801
+221;Camila Martins Costa;144.097.647-45;tutor221@example.com;Rua das Flores;905;Centro;Franca;SP;14468-438
+222;Mariana Gomes Silva;810.303.128-45;tutor222@example.com;Rua das Flores;279;Jardim América;Ribeirão Preto;SP;14008-518
+223;Laura Ferreira Gomes;795.294.275-25;tutor223@example.com;Rua dos Lírios;425;Jardim América;Franca;SP;14401-869
+224;Pedro Costa Almeida;551.034.639-77;tutor224@example.com;Rua das Flores;291;Vila Nova;Ribeirão Preto;SP;14013-443
+225;Sofia Rodrigues Ribeiro;488.896.443-37;tutor225@example.com;Rua das Acácias;47;Centro;Batatais;SP;14390-156
+226;Maria Silva Souza;567.600.762-22;tutor226@example.com;Rua das Acácias;969;Centro;Franca;SP;14493-534
+227;Rafael Pereira Costa;798.423.334-04;tutor227@example.com;Rua das Flores;8;Jardim América;Ribeirão Preto;SP;14078-827
+228;Laura Oliveira Oliveira;677.858.758-17;tutor228@example.com;Rua dos Lírios;546;Vila Nova;Franca;SP;14459-446
+229;Beatriz Santos Almeida;986.625.773-99;tutor229@example.com;Rua das Flores;447;Centro;Batatais;SP;14334-330
+230;João Costa Gomes;363.598.427-31;tutor230@example.com;Rua dos Lírios;588;Jardim América;Ribeirão Preto;SP;14035-902
+231;Laura Pereira Santos;584.044.963-73;tutor231@example.com;Rua dos Lírios;22;Jardim América;Franca;SP;14496-475
+232;Gabriel Martins Costa;711.871.397-19;tutor232@example.com;Rua das Flores;448;Centro;Franca;SP;14485-388
+233;Laura Gomes Almeida;461.203.124-60;tutor233@example.com;Rua das Flores;406;Jardim América;Ribeirão Preto;SP;14063-871
+234;Bruno Souza Costa;448.981.305-92;tutor234@example.com;Rua dos Ipês;79;Vila Nova;Ribeirão Preto;SP;14062-217
+235;Pedro Rodrigues Rodrigues;480.990.401-74;tutor235@example.com;Rua dos Ipês;928;Jardim América;Batatais;SP;14343-286
+236;Lucas Souza Santos;740.116.562-84;tutor236@example.com;Rua dos Ipês;263;Centro;Franca;SP;14471-010
+237;Lucas Ribeiro Santos;654.724.287-13;tutor237@example.com;Rua dos Ipês;975;Vila Nova;Batatais;SP;14310-247
+238;Gabriel Gomes Gomes;873.174.285-96;tutor238@example.com;Rua dos Lírios;698;Vila Nova;Ribeirão Preto;SP;14062-568
+239;Bruno Ribeiro Costa;914.073.098-13;tutor239@example.com;Rua dos Ipês;451;Centro;Batatais;SP;14388-487
+240;Gabriel Ribeiro Pereira;793.532.952-57;tutor240@example.com;Rua das Acácias;606;Centro;Batatais;SP;14357-811
+241;João Pereira Ferreira;118.514.813-31;tutor241@example.com;Rua dos Lírios;39;Centro;Batatais;SP;14337-226
+242;Camila Santos Ribeiro;534.222.401-33;tutor242@example.com;Rua das Flores;630;Vila Nova;Ribeirão Preto;SP;14039-679
+243;Felipe Ferreira Gomes;724.440.558-95;tutor243@example.com;Rua das Flores;461;Vila Nova;Ribeirão Preto;SP;14060-566
+244;Carlos Costa Gomes;670.073.085-75;tutor244@example.com;Rua dos Lírios;514;Centro;Franca;SP;14454-763
+245;Gabriel Santos Costa;690.975.123-15;tutor245@example.com;Rua das Flores;517;Vila Nova;Franca;SP;14445-719
+246;Maria Souza Martins;587.205.269-44;tutor246@example.com;Rua dos Lírios;450;Vila Nova;Ribeirão Preto;SP;14039-257
+247;Mariana Costa Costa;347.538.338-21;tutor247@example.com;Rua das Acácias;397;Jardim América;Batatais;SP;14392-197
+248;Maria Ribeiro Ribeiro;438.817.025-01;tutor248@example.com;Rua das Acácias;68;Jardim América;Franca;SP;14495-548
+249;Felipe Pereira Pereira;918.394.863-62;tutor249@example.com;Rua dos Ipês;342;Centro;Ribeirão Preto;SP;14024-221
+250;Lucas Costa Pereira;893.070.706-97;tutor250@example.com;Rua dos Lírios;133;Vila Nova;Ribeirão Preto;SP;14035-741
+251;João Pereira Rodrigues;733.064.117-18;tutor251@example.com;Rua dos Lírios;659;Jardim América;Franca;SP;14476-289
+252;João Ribeiro Ribeiro;207.939.087-33;tutor252@example.com;Rua dos Lírios;521;Jardim América;Franca;SP;14437-232
+253;Beatriz Pereira Oliveira;487.493.096-52;tutor253@example.com;Rua dos Ipês;350;Jardim América;Franca;SP;14438-014
+254;Juliana Oliveira Oliveira;860.229.059-58;tutor254@example.com;Rua das Flores;303;Centro;Ribeirão Preto;SP;14016-280
+255;Maria Ribeiro Costa;148.872.110-70;tutor255@example.com;Rua dos Ipês;612;Jardim América;Franca;SP;14470-299
+256;Mariana Oliveira Martins;848.846.217-52;tutor256@example.com;Rua dos Ipês;739;Jardim América;Franca;SP;14481-889
+257;Laura Costa Ribeiro;908.304.440-97;tutor257@example.com;Rua dos Ipês;993;Jardim América;Ribeirão Preto;SP;14013-893
+258;Camila Martins Ferreira;113.169.872-19;tutor258@example.com;Rua dos Ipês;547;Centro;Batatais;SP;14336-480
+259;Sofia Souza Costa;614.015.466-07;tutor259@example.com;Rua dos Lírios;473;Jardim América;Batatais;SP;14343-188
+260;Laura Oliveira Souza;155.165.334-74;tutor260@example.com;Rua dos Ipês;894;Jardim América;Franca;SP;14461-116
+261;Sofia Costa Rodrigues;982.739.959-51;tutor261@example.com;Rua das Flores;729;Vila Nova;Franca;SP;14451-503
+262;Camila Santos Oliveira;179.545.125-59;tutor262@example.com;Rua das Acácias;461;Vila Nova;Franca;SP;14480-702
+263;Laura Santos Souza;157.562.304-92;tutor263@example.com;Rua dos Lírios;906;Jardim América;Franca;SP;14419-830
+264;Laura Silva Almeida;704.344.408-14;tutor264@example.com;Rua das Acácias;242;Jardim América;Franca;SP;14410-254
+265;Beatriz Souza Silva;227.186.396-28;tutor265@example.com;Rua das Acácias;954;Centro;Ribeirão Preto;SP;14097-426
+266;Bruno Oliveira Oliveira;751.028.618-39;tutor266@example.com;Rua das Flores;294;Jardim América;Ribeirão Preto;SP;14079-231
+267;Lucas Martins Ferreira;932.894.596-98;tutor267@example.com;Rua dos Lírios;631;Centro;Franca;SP;14448-461
+268;Ana Pereira Souza;575.368.059-44;tutor268@example.com;Rua dos Ipês;562;Vila Nova;Ribeirão Preto;SP;14075-439
+269;Laura Santos Pereira;427.899.537-89;tutor269@example.com;Rua dos Ipês;309;Centro;Franca;SP;14479-061
+270;Juliana Almeida Ribeiro;754.586.204-11;tutor270@example.com;Rua dos Lírios;65;Centro;Batatais;SP;14397-212
+271;Ana Ribeiro Rodrigues;771.641.650-33;tutor271@example.com;Rua dos Ipês;736;Centro;Batatais;SP;14333-676
+272;Laura Silva Gomes;187.174.381-92;tutor272@example.com;Rua das Acácias;247;Vila Nova;Batatais;SP;14330-177
+273;Mariana Ribeiro Ribeiro;692.697.161-81;tutor273@example.com;Rua das Flores;537;Jardim América;Franca;SP;14420-002
+274;Ana Almeida Ferreira;538.642.403-47;tutor274@example.com;Rua das Flores;651;Jardim América;Batatais;SP;14388-608
+275;Rafael Martins Silva;604.564.682-84;tutor275@example.com;Rua das Acácias;808;Centro;Batatais;SP;14304-237
+276;Juliana Martins Ribeiro;409.350.265-14;tutor276@example.com;Rua das Flores;791;Vila Nova;Ribeirão Preto;SP;14089-880
+277;Bruno Oliveira Silva;587.512.424-61;tutor277@example.com;Rua das Acácias;560;Jardim América;Ribeirão Preto;SP;14087-239
+278;Mariana Ribeiro Ferreira;384.063.364-99;tutor278@example.com;Rua dos Lírios;647;Centro;Franca;SP;14484-823
+279;João Martins Ferreira;312.406.764-06;tutor279@example.com;Rua das Flores;301;Centro;Franca;SP;14414-557
+280;Carlos Silva Costa;341.387.305-02;tutor280@example.com;Rua das Acácias;528;Jardim América;Ribeirão Preto;SP;14034-846
+281;Sofia Pereira Silva;252.725.050-61;tutor281@example.com;Rua dos Ipês;293;Jardim América;Franca;SP;14407-169
+282;Bruno Pereira Santos;951.078.441-04;tutor282@example.com;Rua das Acácias;448;Jardim América;Ribeirão Preto;SP;14076-766
+283;Gabriel Almeida Costa;985.021.282-09;tutor283@example.com;Rua dos Ipês;509;Vila Nova;Batatais;SP;14336-449
+284;Beatriz Rodrigues Pereira;233.523.720-07;tutor284@example.com;Rua das Flores;745;Jardim América;Franca;SP;14488-311
+285;Laura Gomes Oliveira;851.333.320-56;tutor285@example.com;Rua das Acácias;329;Centro;Franca;SP;14434-512
+286;Bruno Ribeiro Pereira;679.800.791-17;tutor286@example.com;Rua das Acácias;457;Vila Nova;Ribeirão Preto;SP;14056-082
+287;Laura Oliveira Martins;742.136.977-60;tutor287@example.com;Rua dos Lírios;360;Jardim América;Franca;SP;14455-752
+288;Beatriz Gomes Almeida;446.090.161-89;tutor288@example.com;Rua das Acácias;655;Centro;Franca;SP;14432-026
+289;Felipe Costa Rodrigues;198.061.499-83;tutor289@example.com;Rua dos Ipês;976;Centro;Franca;SP;14486-856
+290;Gabriel Silva Oliveira;717.615.339-79;tutor290@example.com;Rua das Flores;242;Vila Nova;Batatais;SP;14302-783
+291;Beatriz Almeida Gomes;821.856.853-14;tutor291@example.com;Rua das Flores;620;Centro;Ribeirão Preto;SP;14073-041
+292;Gabriel Costa Costa;919.382.051-92;tutor292@example.com;Rua dos Lírios;782;Centro;Ribeirão Preto;SP;14060-531
+293;Lucas Rodrigues Costa;799.552.991-17;tutor293@example.com;Rua dos Lírios;322;Vila Nova;Batatais;SP;14335-185
+294;Juliana Santos Silva;728.492.896-56;tutor294@example.com;Rua dos Ipês;512;Vila Nova;Batatais;SP;14381-833
+295;Pedro Pereira Pereira;627.986.559-31;tutor295@example.com;Rua dos Lírios;220;Vila Nova;Batatais;SP;14360-356
+296;Sofia Souza Santos;538.460.431-15;tutor296@example.com;Rua dos Ipês;874;Centro;Batatais;SP;14341-686
+297;Mariana Martins Ferreira;212.313.264-12;tutor297@example.com;Rua das Flores;830;Vila Nova;Batatais;SP;14342-421
+298;Beatriz Martins Santos;844.826.434-87;tutor298@example.com;Rua das Acácias;913;Jardim América;Franca;SP;14436-678
+299;Mariana Costa Rodrigues;529.982.328-38;tutor299@example.com;Rua dos Ipês;125;Centro;Franca;SP;14404-465
+300;Juliana Ferreira Silva;194.553.481-95;tutor300@example.com;Rua das Acácias;568;Vila Nova;Batatais;SP;14332-331
+301;Gabriel Rodrigues Oliveira;224.469.868-96;tutor301@example.com;Rua das Flores;68;Jardim América;Batatais;SP;14365-844
+302;Sofia Rodrigues Almeida;101.235.946-98;tutor302@example.com;Rua dos Lírios;844;Vila Nova;Franca;SP;14459-423
+303;Lucas Costa Ribeiro;158.201.193-23;tutor303@example.com;Rua das Flores;461;Jardim América;Ribeirão Preto;SP;14066-370
+304;Beatriz Oliveira Rodrigues;768.548.027-27;tutor304@example.com;Rua dos Ipês;787;Centro;Batatais;SP;14380-452
+305;Maria Santos Rodrigues;916.033.628-60;tutor305@example.com;Rua dos Ipês;312;Centro;Franca;SP;14426-273
+306;Bruno Martins Souza;689.720.101-52;tutor306@example.com;Rua das Acácias;971;Vila Nova;Batatais;SP;14336-448
+307;João Pereira Souza;849.740.261-97;tutor307@example.com;Rua das Acácias;129;Vila Nova;Batatais;SP;14315-029
+308;João Rodrigues Ribeiro;776.481.264-29;tutor308@example.com;Rua dos Ipês;607;Vila Nova;Franca;SP;14430-726
+309;Mariana Ribeiro Gomes;270.057.261-14;tutor309@example.com;Rua das Acácias;863;Vila Nova;Franca;SP;14470-014
+310;Ana Santos Silva;692.975.437-56;tutor310@example.com;Rua das Acácias;667;Centro;Ribeirão Preto;SP;14011-230
+311;Laura Gomes Ribeiro;221.827.951-87;tutor311@example.com;Rua das Flores;510;Vila Nova;Ribeirão Preto;SP;14015-663
+312;Camila Ribeiro Pereira;993.506.934-72;tutor312@example.com;Rua dos Lírios;251;Vila Nova;Batatais;SP;14363-955
+313;Camila Ferreira Santos;869.446.962-74;tutor313@example.com;Rua das Flores;162;Jardim América;Batatais;SP;14365-722
+314;Sofia Ferreira Souza;393.587.744-86;tutor314@example.com;Rua das Acácias;622;Centro;Batatais;SP;14361-483
+315;Bruno Martins Costa;361.704.064-17;tutor315@example.com;Rua dos Lírios;134;Jardim América;Ribeirão Preto;SP;14070-148
+316;Pedro Costa Souza;511.872.350-83;tutor316@example.com;Rua dos Lírios;126;Jardim América;Batatais;SP;14376-520
+317;Juliana Oliveira Santos;901.325.519-22;tutor317@example.com;Rua das Flores;298;Jardim América;Ribeirão Preto;SP;14008-282
+318;Laura Souza Oliveira;929.653.607-46;tutor318@example.com;Rua das Acácias;957;Vila Nova;Ribeirão Preto;SP;14043-956
+319;Bruno Souza Oliveira;945.805.127-58;tutor319@example.com;Rua dos Lírios;528;Jardim América;Batatais;SP;14334-840
+320;Camila Ferreira Silva;102.754.426-74;tutor320@example.com;Rua das Flores;968;Jardim América;Ribeirão Preto;SP;14092-305
+321;Gabriel Souza Souza;999.232.921-29;tutor321@example.com;Rua das Acácias;50;Centro;Batatais;SP;14374-675
+322;Sofia Gomes Ribeiro;625.747.313-72;tutor322@example.com;Rua dos Lírios;293;Vila Nova;Franca;SP;14457-551
+323;Pedro Almeida Oliveira;620.057.604-25;tutor323@example.com;Rua das Acácias;745;Jardim América;Batatais;SP;14342-565
+324;Beatriz Silva Almeida;919.128.302-88;tutor324@example.com;Rua das Flores;584;Vila Nova;Franca;SP;14448-466
+325;Beatriz Rodrigues Pereira;445.505.799-53;tutor325@example.com;Rua das Flores;396;Vila Nova;Batatais;SP;14389-244
+326;Rafael Gomes Ribeiro;713.963.047-16;tutor326@example.com;Rua das Flores;132;Centro;Batatais;SP;14329-876
+327;Beatriz Costa Rodrigues;932.734.539-96;tutor327@example.com;Rua das Acácias;774;Centro;Franca;SP;14405-325
+328;Felipe Rodrigues Silva;899.621.068-57;tutor328@example.com;Rua das Flores;40;Centro;Ribeirão Preto;SP;14090-935
+329;Bruno Ferreira Rodrigues;971.243.675-76;tutor329@example.com;Rua dos Lírios;153;Vila Nova;Ribeirão Preto;SP;14049-679
+330;Lucas Costa Gomes;950.826.208-82;tutor330@example.com;Rua das Acácias;167;Jardim América;Ribeirão Preto;SP;14063-987
+331;Camila Gomes Costa;139.749.508-22;tutor331@example.com;Rua dos Lírios;726;Vila Nova;Batatais;SP;14364-988
+332;Sofia Silva Costa;733.701.411-35;tutor332@example.com;Rua das Acácias;690;Centro;Batatais;SP;14312-895
+333;Camila Martins Martins;572.775.194-31;tutor333@example.com;Rua das Flores;612;Jardim América;Batatais;SP;14367-932
+334;Juliana Martins Silva;590.622.789-10;tutor334@example.com;Rua dos Lírios;175;Vila Nova;Ribeirão Preto;SP;14092-147
+335;Felipe Oliveira Ribeiro;540.211.187-22;tutor335@example.com;Rua dos Ipês;33;Vila Nova;Ribeirão Preto;SP;14009-480
+336;Pedro Souza Silva;939.156.387-34;tutor336@example.com;Rua dos Lírios;322;Jardim América;Franca;SP;14443-638
+337;Laura Martins Souza;843.785.903-56;tutor337@example.com;Rua dos Lírios;514;Vila Nova;Batatais;SP;14383-082
+338;Maria Martins Oliveira;452.794.611-18;tutor338@example.com;Rua dos Ipês;575;Jardim América;Ribeirão Preto;SP;14048-977
+339;Sofia Rodrigues Almeida;440.012.324-47;tutor339@example.com;Rua das Acácias;980;Centro;Batatais;SP;14369-036
+340;Bruno Rodrigues Costa;762.992.051-31;tutor340@example.com;Rua das Acácias;625;Jardim América;Franca;SP;14430-646
+341;Juliana Pereira Rodrigues;834.868.441-84;tutor341@example.com;Rua das Acácias;231;Jardim América;Batatais;SP;14329-764
+342;Carlos Martins Martins;197.044.071-76;tutor342@example.com;Rua dos Lírios;325;Jardim América;Batatais;SP;14312-778
+343;Rafael Pereira Santos;780.481.547-71;tutor343@example.com;Rua dos Lírios;918;Jardim América;Batatais;SP;14356-170
+344;Lucas Pereira Silva;845.178.074-24;tutor344@example.com;Rua das Acácias;979;Vila Nova;Franca;SP;14403-047
+345;Beatriz Ferreira Ribeiro;448.294.647-90;tutor345@example.com;Rua das Acácias;766;Jardim América;Franca;SP;14437-367
+346;Carlos Rodrigues Pereira;502.482.554-46;tutor346@example.com;Rua das Acácias;141;Centro;Ribeirão Preto;SP;14018-250
+347;Juliana Souza Silva;670.335.494-56;tutor347@example.com;Rua dos Ipês;654;Centro;Franca;SP;14472-698
+348;Pedro Almeida Costa;950.961.305-42;tutor348@example.com;Rua dos Lírios;103;Vila Nova;Franca;SP;14421-179
+349;Ana Rodrigues Oliveira;184.791.618-19;tutor349@example.com;Rua dos Lírios;669;Jardim América;Batatais;SP;14348-634
+350;Carlos Pereira Costa;833.510.170-23;tutor350@example.com;Rua das Acácias;662;Centro;Franca;SP;14463-934
+351;Juliana Rodrigues Martins;726.160.204-42;tutor351@example.com;Rua das Flores;936;Centro;Batatais;SP;14329-472
+352;Mariana Silva Almeida;784.944.881-34;tutor352@example.com;Rua dos Lírios;191;Vila Nova;Batatais;SP;14358-261
+353;Maria Silva Pereira;816.014.770-90;tutor353@example.com;Rua das Flores;951;Jardim América;Batatais;SP;14359-922
+354;Gabriel Ribeiro Rodrigues;408.842.146-08;tutor354@example.com;Rua dos Lírios;911;Centro;Ribeirão Preto;SP;14020-075
+355;Gabriel Pereira Souza;574.303.740-15;tutor355@example.com;Rua das Flores;339;Centro;Ribeirão Preto;SP;14075-306
+356;Gabriel Ribeiro Pereira;786.055.206-16;tutor356@example.com;Rua dos Ipês;15;Vila Nova;Batatais;SP;14388-256
+357;Camila Gomes Ribeiro;590.523.712-44;tutor357@example.com;Rua dos Ipês;180;Vila Nova;Ribeirão Preto;SP;14025-393
+358;Felipe Almeida Rodrigues;618.840.705-31;tutor358@example.com;Rua das Acácias;89;Jardim América;Ribeirão Preto;SP;14030-390
+359;Pedro Oliveira Oliveira;714.097.318-15;tutor359@example.com;Rua dos Lírios;332;Centro;Franca;SP;14473-302
+360;Rafael Almeida Souza;850.845.198-04;tutor360@example.com;Rua dos Lírios;772;Jardim América;Batatais;SP;14302-849
+361;Camila Gomes Martins;806.768.884-36;tutor361@example.com;Rua das Flores;268;Vila Nova;Batatais;SP;14335-008
+362;Juliana Silva Ribeiro;707.661.655-70;tutor362@example.com;Rua das Flores;477;Jardim América;Franca;SP;14477-763
+363;Felipe Ribeiro Rodrigues;633.356.861-04;tutor363@example.com;Rua das Acácias;707;Centro;Ribeirão Preto;SP;14099-818
+364;Camila Costa Gomes;347.087.743-39;tutor364@example.com;Rua dos Ipês;225;Centro;Batatais;SP;14345-224
+365;Lucas Ferreira Martins;783.563.240-43;tutor365@example.com;Rua das Acácias;426;Vila Nova;Ribeirão Preto;SP;14079-256
+366;Sofia Rodrigues Ribeiro;827.744.047-32;tutor366@example.com;Rua dos Ipês;781;Centro;Ribeirão Preto;SP;14080-099
+367;João Rodrigues Ferreira;773.728.014-70;tutor367@example.com;Rua das Acácias;80;Vila Nova;Franca;SP;14439-807
+368;Maria Rodrigues Rodrigues;573.330.302-70;tutor368@example.com;Rua dos Ipês;587;Vila Nova;Franca;SP;14474-373
+369;Mariana Costa Rodrigues;886.365.312-82;tutor369@example.com;Rua dos Lírios;120;Vila Nova;Franca;SP;14411-931
+370;Sofia Santos Rodrigues;416.872.439-65;tutor370@example.com;Rua dos Lírios;829;Centro;Batatais;SP;14395-425
+371;Lucas Rodrigues Almeida;288.592.093-03;tutor371@example.com;Rua dos Lírios;578;Centro;Ribeirão Preto;SP;14016-805
+372;Gabriel Ribeiro Pereira;679.184.667-55;tutor372@example.com;Rua das Flores;406;Jardim América;Franca;SP;14467-513
+373;Carlos Gomes Santos;392.624.015-72;tutor373@example.com;Rua das Flores;434;Jardim América;Ribeirão Preto;SP;14032-935
+374;João Rodrigues Silva;985.503.942-57;tutor374@example.com;Rua das Flores;957;Jardim América;Franca;SP;14437-764
+375;Camila Almeida Oliveira;463.692.735-51;tutor375@example.com;Rua dos Ipês;785;Vila Nova;Ribeirão Preto;SP;14059-986
+376;Laura Costa Almeida;180.852.074-32;tutor376@example.com;Rua dos Lírios;891;Jardim América;Batatais;SP;14396-989
+377;João Ribeiro Ribeiro;342.251.928-06;tutor377@example.com;Rua dos Ipês;670;Jardim América;Franca;SP;14471-374
+378;Mariana Rodrigues Almeida;196.961.971-76;tutor378@example.com;Rua dos Ipês;746;Centro;Franca;SP;14401-270
+379;Ana Pereira Ferreira;676.140.134-91;tutor379@example.com;Rua dos Lírios;545;Jardim América;Franca;SP;14458-377
+380;Juliana Ferreira Costa;822.443.971-34;tutor380@example.com;Rua dos Ipês;283;Centro;Ribeirão Preto;SP;14074-390
+381;Pedro Silva Ribeiro;983.063.850-35;tutor381@example.com;Rua dos Lírios;630;Centro;Franca;SP;14413-691
+382;Carlos Santos Santos;351.064.359-47;tutor382@example.com;Rua das Flores;458;Vila Nova;Ribeirão Preto;SP;14003-634
+383;Maria Souza Martins;702.806.585-65;tutor383@example.com;Rua das Flores;412;Jardim América;Franca;SP;14478-226
+384;Carlos Silva Oliveira;795.411.453-91;tutor384@example.com;Rua das Acácias;240;Vila Nova;Ribeirão Preto;SP;14081-843
+385;Bruno Gomes Gomes;598.503.464-14;tutor385@example.com;Rua das Acácias;243;Jardim América;Franca;SP;14483-418
+386;Juliana Almeida Pereira;225.279.834-42;tutor386@example.com;Rua das Acácias;63;Vila Nova;Ribeirão Preto;SP;14005-968
+387;Mariana Ribeiro Ribeiro;139.956.218-64;tutor387@example.com;Rua dos Lírios;570;Jardim América;Franca;SP;14463-118
+388;Beatriz Ribeiro Ribeiro;204.359.116-03;tutor388@example.com;Rua dos Lírios;805;Vila Nova;Batatais;SP;14368-138
+389;Laura Almeida Oliveira;517.305.280-67;tutor389@example.com;Rua das Acácias;386;Centro;Ribeirão Preto;SP;14047-686
+390;Sofia Souza Souza;897.940.629-18;tutor390@example.com;Rua das Acácias;879;Vila Nova;Franca;SP;14453-601
+391;Gabriel Silva Rodrigues;897.005.281-12;tutor391@example.com;Rua dos Lírios;992;Jardim América;Ribeirão Preto;SP;14053-670
+392;Lucas Almeida Souza;206.323.670-57;tutor392@example.com;Rua das Acácias;209;Jardim América;Ribeirão Preto;SP;14078-417
+393;João Ferreira Costa;400.368.694-30;tutor393@example.com;Rua das Flores;549;Vila Nova;Franca;SP;14488-379
+394;Maria Pereira Almeida;333.291.547-07;tutor394@example.com;Rua das Flores;895;Centro;Franca;SP;14456-973
+395;Carlos Ferreira Souza;353.524.015-95;tutor395@example.com;Rua das Acácias;311;Centro;Franca;SP;14412-702
+396;Carlos Martins Santos;494.422.907-18;tutor396@example.com;Rua dos Lírios;937;Centro;Ribeirão Preto;SP;14082-367
+397;Carlos Almeida Souza;165.015.165-06;tutor397@example.com;Rua das Acácias;795;Jardim América;Batatais;SP;14335-194
+398;Gabriel Rodrigues Ribeiro;231.167.999-77;tutor398@example.com;Rua das Acácias;316;Jardim América;Batatais;SP;14311-678
+399;Sofia Ferreira Santos;327.746.886-19;tutor399@example.com;Rua dos Lírios;780;Jardim América;Franca;SP;14402-051
+400;Beatriz Costa Almeida;944.814.262-65;tutor400@example.com;Rua das Flores;577;Centro;Ribeirão Preto;SP;14031-128
+401;Lucas Silva Pereira;945.011.302-69;tutor401@example.com;Rua dos Lírios;303;Centro;Franca;SP;14426-070
+402;Bruno Souza Almeida;991.010.113-18;tutor402@example.com;Rua dos Ipês;512;Vila Nova;Ribeirão Preto;SP;14026-600
+403;Bruno Pereira Ferreira;331.875.999-73;tutor403@example.com;Rua dos Lírios;472;Centro;Ribeirão Preto;SP;14042-792
+404;Beatriz Oliveira Oliveira;258.435.089-19;tutor404@example.com;Rua dos Lírios;189;Vila Nova;Ribeirão Preto;SP;14000-283
+405;Maria Rodrigues Silva;255.357.534-42;tutor405@example.com;Rua das Flores;968;Vila Nova;Franca;SP;14469-256
+406;Ana Almeida Oliveira;957.397.689-82;tutor406@example.com;Rua dos Ipês;70;Vila Nova;Franca;SP;14414-676
+407;Ana Souza Rodrigues;127.681.228-12;tutor407@example.com;Rua dos Lírios;383;Centro;Ribeirão Preto;SP;14001-366
+408;Sofia Ribeiro Ferreira;948.239.575-23;tutor408@example.com;Rua das Flores;7;Vila Nova;Ribeirão Preto;SP;14075-331
+409;Laura Silva Silva;116.944.811-02;tutor409@example.com;Rua das Acácias;549;Jardim América;Franca;SP;14433-053
+410;Laura Oliveira Santos;236.105.947-06;tutor410@example.com;Rua das Flores;537;Centro;Franca;SP;14467-116
+411;Carlos Gomes Rodrigues;900.651.998-81;tutor411@example.com;Rua das Acácias;835;Jardim América;Batatais;SP;14360-459
+412;Felipe Santos Costa;935.389.432-95;tutor412@example.com;Rua dos Lírios;471;Vila Nova;Franca;SP;14465-607
+413;Juliana Pereira Ribeiro;217.095.851-87;tutor413@example.com;Rua das Flores;670;Vila Nova;Franca;SP;14464-226
+414;João Almeida Almeida;760.465.943-90;tutor414@example.com;Rua dos Lírios;566;Jardim América;Franca;SP;14493-802
+415;Ana Martins Oliveira;807.491.789-58;tutor415@example.com;Rua das Flores;512;Jardim América;Ribeirão Preto;SP;14038-469
+416;Bruno Gomes Santos;790.781.796-10;tutor416@example.com;Rua das Flores;236;Centro;Ribeirão Preto;SP;14007-490
+417;Sofia Pereira Silva;531.233.244-66;tutor417@example.com;Rua das Flores;701;Jardim América;Ribeirão Preto;SP;14087-110
+418;Maria Oliveira Costa;626.422.169-57;tutor418@example.com;Rua das Flores;985;Centro;Ribeirão Preto;SP;14009-920
+419;Lucas Martins Almeida;186.748.119-85;tutor419@example.com;Rua das Flores;307;Centro;Ribeirão Preto;SP;14077-151
+420;Juliana Gomes Almeida;170.525.764-12;tutor420@example.com;Rua das Acácias;394;Vila Nova;Franca;SP;14435-639
+421;João Rodrigues Martins;779.760.958-79;tutor421@example.com;Rua das Acácias;55;Centro;Batatais;SP;14370-729
+422;Juliana Santos Costa;449.165.212-16;tutor422@example.com;Rua dos Lírios;993;Jardim América;Franca;SP;14476-543
+423;Rafael Ferreira Ferreira;416.644.047-17;tutor423@example.com;Rua dos Ipês;365;Vila Nova;Batatais;SP;14364-619
+424;Laura Oliveira Ribeiro;561.923.010-51;tutor424@example.com;Rua dos Lírios;88;Vila Nova;Batatais;SP;14389-117
+425;Juliana Martins Santos;802.992.685-68;tutor425@example.com;Rua das Flores;275;Centro;Batatais;SP;14392-886
+426;Lucas Martins Almeida;330.879.256-86;tutor426@example.com;Rua das Acácias;370;Centro;Franca;SP;14457-909
+427;Ana Pereira Ferreira;345.343.109-16;tutor427@example.com;Rua das Acácias;780;Jardim América;Franca;SP;14443-847
+428;Lucas Santos Oliveira;586.940.738-06;tutor428@example.com;Rua dos Lírios;460;Vila Nova;Ribeirão Preto;SP;14053-747
+429;Laura Santos Silva;202.097.643-05;tutor429@example.com;Rua das Flores;363;Vila Nova;Franca;SP;14454-320
+430;Bruno Almeida Silva;814.154.134-14;tutor430@example.com;Rua das Acácias;424;Jardim América;Franca;SP;14447-976
+431;Juliana Gomes Rodrigues;263.894.795-57;tutor431@example.com;Rua dos Ipês;702;Jardim América;Franca;SP;14408-093
+432;Lucas Pereira Pereira;993.108.266-71;tutor432@example.com;Rua das Acácias;505;Centro;Franca;SP;14411-442
+433;Mariana Almeida Pereira;203.685.265-45;tutor433@example.com;Rua dos Lírios;307;Jardim América;Franca;SP;14416-569
+434;Beatriz Pereira Souza;164.404.084-19;tutor434@example.com;Rua dos Lírios;609;Vila Nova;Franca;SP;14471-575
+435;Gabriel Santos Oliveira;453.954.673-31;tutor435@example.com;Rua das Acácias;7;Jardim América;Batatais;SP;14352-362
+436;Felipe Costa Ferreira;814.403.943-36;tutor436@example.com;Rua das Acácias;441;Vila Nova;Ribeirão Preto;SP;14092-052
+437;Lucas Pereira Costa;408.839.723-29;tutor437@example.com;Rua dos Ipês;491;Jardim América;Franca;SP;14439-360
+438;Felipe Costa Pereira;211.240.259-69;tutor438@example.com;Rua dos Lírios;991;Vila Nova;Franca;SP;14464-217
+439;Bruno Almeida Pereira;266.140.258-77;tutor439@example.com;Rua dos Lírios;374;Centro;Ribeirão Preto;SP;14028-867
+440;Carlos Gomes Rodrigues;216.198.604-15;tutor440@example.com;Rua dos Ipês;699;Vila Nova;Franca;SP;14471-376
+441;Gabriel Martins Souza;223.357.166-64;tutor441@example.com;Rua dos Lírios;817;Jardim América;Ribeirão Preto;SP;14073-231
+442;João Almeida Ribeiro;966.747.347-46;tutor442@example.com;Rua dos Lírios;143;Vila Nova;Batatais;SP;14371-997
+443;Juliana Pereira Ribeiro;924.024.405-19;tutor443@example.com;Rua dos Ipês;733;Jardim América;Batatais;SP;14378-691
+444;João Ferreira Gomes;790.092.970-48;tutor444@example.com;Rua dos Lírios;597;Jardim América;Ribeirão Preto;SP;14003-623
+445;Laura Rodrigues Silva;806.340.901-04;tutor445@example.com;Rua das Acácias;719;Vila Nova;Ribeirão Preto;SP;14003-184
+446;João Santos Souza;393.421.844-14;tutor446@example.com;Rua das Acácias;171;Vila Nova;Ribeirão Preto;SP;14043-359
+447;Maria Gomes Ribeiro;106.556.040-12;tutor447@example.com;Rua dos Lírios;991;Jardim América;Batatais;SP;14318-579
+448;Pedro Silva Santos;805.818.425-16;tutor448@example.com;Rua das Acácias;228;Vila Nova;Ribeirão Preto;SP;14008-145
+449;Juliana Ferreira Costa;895.609.471-40;tutor449@example.com;Rua dos Lírios;475;Vila Nova;Ribeirão Preto;SP;14011-764
+450;Lucas Costa Silva;669.601.448-03;tutor450@example.com;Rua dos Lírios;108;Jardim América;Batatais;SP;14348-429
+451;João Santos Martins;587.098.457-35;tutor451@example.com;Rua dos Ipês;357;Jardim América;Batatais;SP;14320-378
+452;Gabriel Souza Rodrigues;434.618.074-55;tutor452@example.com;Rua dos Lírios;357;Jardim América;Franca;SP;14499-964
+453;Gabriel Martins Martins;709.448.939-19;tutor453@example.com;Rua dos Lírios;327;Centro;Batatais;SP;14310-904
+454;Maria Martins Santos;156.488.296-02;tutor454@example.com;Rua das Flores;870;Jardim América;Ribeirão Preto;SP;14020-772
+455;Pedro Ribeiro Oliveira;763.398.699-00;tutor455@example.com;Rua dos Ipês;529;Centro;Ribeirão Preto;SP;14086-083
+456;Mariana Costa Rodrigues;392.168.202-07;tutor456@example.com;Rua dos Lírios;982;Jardim América;Franca;SP;14484-434
+457;Felipe Ribeiro Oliveira;621.475.287-59;tutor457@example.com;Rua dos Ipês;656;Vila Nova;Batatais;SP;14356-424
+458;Felipe Silva Martins;393.310.667-33;tutor458@example.com;Rua dos Ipês;461;Vila Nova;Batatais;SP;14396-524
+459;Felipe Silva Martins;222.210.617-75;tutor459@example.com;Rua dos Ipês;211;Jardim América;Ribeirão Preto;SP;14055-113
+460;João Gomes Santos;404.133.583-49;tutor460@example.com;Rua dos Ipês;375;Jardim América;Franca;SP;14462-539
+461;Gabriel Santos Pereira;816.328.133-34;tutor461@example.com;Rua dos Lírios;541;Vila Nova;Batatais;SP;14305-225
+462;Felipe Gomes Almeida;524.410.834-59;tutor462@example.com;Rua das Flores;357;Jardim América;Batatais;SP;14307-007
+463;Mariana Ribeiro Martins;319.497.661-44;tutor463@example.com;Rua das Acácias;941;Vila Nova;Ribeirão Preto;SP;14027-785
+464;João Ribeiro Oliveira;247.354.744-14;tutor464@example.com;Rua das Acácias;121;Centro;Batatais;SP;14337-335
+465;Pedro Oliveira Costa;228.832.213-70;tutor465@example.com;Rua dos Ipês;524;Jardim América;Batatais;SP;14363-764
+466;Lucas Gomes Almeida;562.412.302-82;tutor466@example.com;Rua dos Lírios;191;Jardim América;Ribeirão Preto;SP;14016-389
+467;Mariana Rodrigues Oliveira;671.855.941-63;tutor467@example.com;Rua dos Lírios;296;Centro;Franca;SP;14464-572
+468;Bruno Ferreira Gomes;994.807.263-55;tutor468@example.com;Rua das Flores;887;Jardim América;Franca;SP;14409-406
+469;Sofia Oliveira Souza;896.760.809-90;tutor469@example.com;Rua dos Lírios;987;Vila Nova;Ribeirão Preto;SP;14055-019
+470;Sofia Almeida Ribeiro;593.657.365-71;tutor470@example.com;Rua dos Lírios;426;Vila Nova;Batatais;SP;14340-589
+471;Sofia Oliveira Santos;560.940.492-59;tutor471@example.com;Rua das Flores;815;Centro;Batatais;SP;14351-726
+472;Maria Pereira Souza;787.346.882-96;tutor472@example.com;Rua das Acácias;173;Jardim América;Ribeirão Preto;SP;14037-117
+473;Sofia Rodrigues Rodrigues;534.900.128-10;tutor473@example.com;Rua das Flores;587;Centro;Batatais;SP;14341-175
+474;Beatriz Rodrigues Silva;960.413.104-59;tutor474@example.com;Rua dos Lírios;560;Centro;Batatais;SP;14358-851
+475;Pedro Martins Ribeiro;840.463.141-85;tutor475@example.com;Rua dos Ipês;305;Centro;Batatais;SP;14311-447
+476;Rafael Costa Santos;213.669.678-63;tutor476@example.com;Rua dos Lírios;887;Centro;Franca;SP;14455-603
+477;Carlos Martins Gomes;529.979.713-48;tutor477@example.com;Rua das Acácias;882;Vila Nova;Ribeirão Preto;SP;14010-405
+478;Laura Oliveira Gomes;433.154.770-25;tutor478@example.com;Rua dos Ipês;804;Centro;Franca;SP;14428-341
+479;Maria Gomes Costa;936.571.442-82;tutor479@example.com;Rua das Acácias;612;Vila Nova;Franca;SP;14409-522
+480;Bruno Martins Pereira;779.919.809-61;tutor480@example.com;Rua das Acácias;587;Jardim América;Ribeirão Preto;SP;14067-522
+481;Pedro Oliveira Almeida;308.202.515-45;tutor481@example.com;Rua das Flores;284;Vila Nova;Franca;SP;14444-744
+482;Lucas Souza Oliveira;979.339.361-12;tutor482@example.com;Rua das Acácias;849;Centro;Ribeirão Preto;SP;14030-105
+483;Felipe Ferreira Oliveira;257.243.284-74;tutor483@example.com;Rua das Acácias;643;Jardim América;Batatais;SP;14325-177
+484;Gabriel Santos Ribeiro;746.820.987-22;tutor484@example.com;Rua das Flores;413;Vila Nova;Ribeirão Preto;SP;14097-777
+485;Rafael Martins Costa;803.847.447-41;tutor485@example.com;Rua dos Lírios;974;Jardim América;Batatais;SP;14322-974
+486;Ana Martins Santos;929.839.316-57;tutor486@example.com;Rua dos Lírios;651;Vila Nova;Ribeirão Preto;SP;14059-772
+487;Beatriz Santos Rodrigues;705.306.363-29;tutor487@example.com;Rua dos Lírios;224;Jardim América;Franca;SP;14457-697
+488;Sofia Pereira Costa;706.118.438-99;tutor488@example.com;Rua das Acácias;346;Vila Nova;Ribeirão Preto;SP;14041-884
+489;Lucas Gomes Ferreira;773.469.560-55;tutor489@example.com;Rua das Acácias;916;Vila Nova;Franca;SP;14419-450
+490;Maria Santos Ribeiro;173.321.814-07;tutor490@example.com;Rua dos Lírios;17;Centro;Franca;SP;14456-646
+491;Gabriel Ferreira Silva;425.150.964-24;tutor491@example.com;Rua dos Lírios;208;Vila Nova;Franca;SP;14475-057
+492;Camila Oliveira Pereira;477.895.080-28;tutor492@example.com;Rua das Flores;671;Jardim América;Batatais;SP;14309-317
+493;João Costa Ribeiro;595.792.218-97;tutor493@example.com;Rua dos Ipês;54;Jardim América;Ribeirão Preto;SP;14004-058
+494;Camila Martins Martins;495.928.981-44;tutor494@example.com;Rua dos Ipês;440;Vila Nova;Franca;SP;14409-660
+495;Pedro Silva Souza;196.955.134-99;tutor495@example.com;Rua dos Lírios;80;Centro;Ribeirão Preto;SP;14076-519
+496;Juliana Rodrigues Ribeiro;512.834.919-67;tutor496@example.com;Rua dos Lírios;10;Centro;Ribeirão Preto;SP;14074-567
+497;Bruno Santos Almeida;950.207.886-20;tutor497@example.com;Rua dos Ipês;490;Centro;Franca;SP;14457-930
+498;Felipe Santos Martins;969.533.218-99;tutor498@example.com;Rua das Flores;106;Jardim América;Batatais;SP;14383-192
+499;Camila Oliveira Almeida;445.236.735-79;tutor499@example.com;Rua dos Ipês;657;Vila Nova;Franca;SP;14460-513
+500;João Rodrigues Gomes;261.985.842-00;tutor500@example.com;Rua das Flores;625;Vila Nova;Franca;SP;14457-105

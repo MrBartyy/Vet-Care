@@ -1,0 +1,801 @@
+﻿id_prontuario;id_animal;data_abertura;alergias;observacoes
+1;1;2025-01-01;Nenhuma;Manter vacinação atualizada
+2;2;2025-01-01;Penicilina;Manter vacinação atualizada
+3;3;2025-01-01;Nenhuma;Manter vacinação atualizada
+4;4;2025-01-01;Não informada;Monitorar peso
+5;5;2025-01-01;Nenhuma;Manter vacinação atualizada
+6;6;2025-01-01;Nenhuma;Acompanhamento de rotina
+7;7;2025-01-01;Nenhuma;Monitorar peso
+8;8;2025-01-01;Penicilina;Acompanhamento de rotina
+9;9;2025-01-01;Penicilina;Monitorar peso
+10;10;2025-01-01;Penicilina;Monitorar peso
+11;11;2025-01-01;Não informada;Manter vacinação atualizada
+12;12;2025-01-01;Nenhuma;Acompanhamento de rotina
+13;13;2025-01-01;Penicilina;Acompanhamento de rotina
+14;14;2025-01-01;Não informada;Manter vacinação atualizada
+15;15;2025-01-01;Penicilina;Monitorar peso
+16;16;2025-01-01;Proteína de frango;Monitorar peso
+17;17;2025-01-01;Nenhuma;Manter vacinação atualizada
+18;18;2025-01-01;Nenhuma;Acompanhamento de rotina
+19;19;2025-01-01;Nenhuma;Acompanhamento de rotina
+20;20;2025-01-01;Nenhuma;Manter vacinação atualizada
+21;21;2025-01-01;Proteína de frango;Manter vacinação atualizada
+22;22;2025-01-01;Não informada;Monitorar peso
+23;23;2025-01-01;Nenhuma;Manter vacinação atualizada
+24;24;2025-01-01;Penicilina;Manter vacinação atualizada
+25;25;2025-01-01;Nenhuma;Manter vacinação atualizada
+26;26;2025-01-01;Penicilina;Manter vacinação atualizada
+27;27;2025-01-01;Proteína de frango;Monitorar peso
+28;28;2025-01-01;Nenhuma;Manter vacinação atualizada
+29;29;2025-01-01;Nenhuma;Manter vacinação atualizada
+30;30;2025-01-01;Proteína de frango;Monitorar peso
+31;31;2025-01-01;Não informada;Manter vacinação atualizada
+32;32;2025-01-01;Nenhuma;Monitorar peso
+33;33;2025-01-01;Penicilina;Acompanhamento de rotina
+34;34;2025-01-01;Nenhuma;Monitorar peso
+35;35;2025-01-01;Nenhuma;Manter vacinação atualizada
+36;36;2025-01-01;Penicilina;Manter vacinação atualizada
+37;37;2025-01-01;Não informada;Monitorar peso
+38;38;2025-01-01;Não informada;Monitorar peso
+39;39;2025-01-01;Nenhuma;Monitorar peso
+40;40;2025-01-01;Nenhuma;Manter vacinação atualizada
+41;41;2025-01-01;Proteína de frango;Acompanhamento de rotina
+42;42;2025-01-01;Proteína de frango;Manter vacinação atualizada
+43;43;2025-01-01;Não informada;Acompanhamento de rotina
+44;44;2025-01-01;Nenhuma;Manter vacinação atualizada
+45;45;2025-01-01;Nenhuma;Acompanhamento de rotina
+46;46;2025-01-01;Proteína de frango;Monitorar peso
+47;47;2025-01-01;Não informada;Monitorar peso
+48;48;2025-01-01;Proteína de frango;Acompanhamento de rotina
+49;49;2025-01-01;Não informada;Acompanhamento de rotina
+50;50;2025-01-01;Proteína de frango;Manter vacinação atualizada
+51;51;2025-01-01;Proteína de frango;Manter vacinação atualizada
+52;52;2025-01-01;Proteína de frango;Acompanhamento de rotina
+53;53;2025-01-01;Nenhuma;Monitorar peso
+54;54;2025-01-01;Não informada;Monitorar peso
+55;55;2025-01-01;Nenhuma;Manter vacinação atualizada
+56;56;2025-01-01;Proteína de frango;Monitorar peso
+57;57;2025-01-01;Penicilina;Monitorar peso
+58;58;2025-01-01;Não informada;Manter vacinação atualizada
+59;59;2025-01-01;Nenhuma;Acompanhamento de rotina
+60;60;2025-01-01;Nenhuma;Monitorar peso
+61;61;2025-01-01;Proteína de frango;Monitorar peso
+62;62;2025-01-01;Nenhuma;Acompanhamento de rotina
+63;63;2025-01-01;Proteína de frango;Acompanhamento de rotina
+64;64;2025-01-01;Não informada;Manter vacinação atualizada
+65;65;2025-01-01;Penicilina;Acompanhamento de rotina
+66;66;2025-01-01;Nenhuma;Acompanhamento de rotina
+67;67;2025-01-01;Nenhuma;Monitorar peso
+68;68;2025-01-01;Nenhuma;Monitorar peso
+69;69;2025-01-01;Proteína de frango;Manter vacinação atualizada
+70;70;2025-01-01;Proteína de frango;Manter vacinação atualizada
+71;71;2025-01-01;Nenhuma;Manter vacinação atualizada
+72;72;2025-01-01;Nenhuma;Monitorar peso
+73;73;2025-01-01;Penicilina;Manter vacinação atualizada
+74;74;2025-01-01;Não informada;Acompanhamento de rotina
+75;75;2025-01-01;Nenhuma;Manter vacinação atualizada
+76;76;2025-01-01;Não informada;Acompanhamento de rotina
+77;77;2025-01-01;Proteína de frango;Manter vacinação atualizada
+78;78;2025-01-01;Penicilina;Acompanhamento de rotina
+79;79;2025-01-01;Nenhuma;Acompanhamento de rotina
+80;80;2025-01-01;Penicilina;Monitorar peso
+81;81;2025-01-01;Penicilina;Monitorar peso
+82;82;2025-01-01;Nenhuma;Acompanhamento de rotina
+83;83;2025-01-01;Proteína de frango;Acompanhamento de rotina
+84;84;2025-01-01;Não informada;Monitorar peso
+85;85;2025-01-01;Nenhuma;Acompanhamento de rotina
+86;86;2025-01-01;Proteína de frango;Monitorar peso
+87;87;2025-01-01;Proteína de frango;Monitorar peso
+88;88;2025-01-01;Não informada;Acompanhamento de rotina
+89;89;2025-01-01;Nenhuma;Manter vacinação atualizada
+90;90;2025-01-01;Nenhuma;Monitorar peso
+91;91;2025-01-01;Nenhuma;Acompanhamento de rotina
+92;92;2025-01-01;Penicilina;Manter vacinação atualizada
+93;93;2025-01-01;Proteína de frango;Monitorar peso
+94;94;2025-01-01;Proteína de frango;Acompanhamento de rotina
+95;95;2025-01-01;Nenhuma;Monitorar peso
+96;96;2025-01-01;Nenhuma;Acompanhamento de rotina
+97;97;2025-01-01;Não informada;Manter vacinação atualizada
+98;98;2025-01-01;Proteína de frango;Manter vacinação atualizada
+99;99;2025-01-01;Nenhuma;Manter vacinação atualizada
+100;100;2025-01-01;Nenhuma;Monitorar peso
+101;101;2025-01-01;Nenhuma;Manter vacinação atualizada
+102;102;2025-01-01;Nenhuma;Manter vacinação atualizada
+103;103;2025-01-01;Nenhuma;Manter vacinação atualizada
+104;104;2025-01-01;Nenhuma;Acompanhamento de rotina
+105;105;2025-01-01;Não informada;Manter vacinação atualizada
+106;106;2025-01-01;Nenhuma;Monitorar peso
+107;107;2025-01-01;Proteína de frango;Acompanhamento de rotina
+108;108;2025-01-01;Não informada;Monitorar peso
+109;109;2025-01-01;Proteína de frango;Acompanhamento de rotina
+110;110;2025-01-01;Nenhuma;Manter vacinação atualizada
+111;111;2025-01-01;Nenhuma;Manter vacinação atualizada
+112;112;2025-01-01;Proteína de frango;Monitorar peso
+113;113;2025-01-01;Nenhuma;Monitorar peso
+114;114;2025-01-01;Proteína de frango;Monitorar peso
+115;115;2025-01-01;Proteína de frango;Monitorar peso
+116;116;2025-01-01;Penicilina;Manter vacinação atualizada
+117;117;2025-01-01;Nenhuma;Acompanhamento de rotina
+118;118;2025-01-01;Penicilina;Acompanhamento de rotina
+119;119;2025-01-01;Nenhuma;Manter vacinação atualizada
+120;120;2025-01-01;Nenhuma;Manter vacinação atualizada
+121;121;2025-01-01;Não informada;Monitorar peso
+122;122;2025-01-01;Penicilina;Monitorar peso
+123;123;2025-01-01;Nenhuma;Acompanhamento de rotina
+124;124;2025-01-01;Não informada;Monitorar peso
+125;125;2025-01-01;Penicilina;Manter vacinação atualizada
+126;126;2025-01-01;Não informada;Manter vacinação atualizada
+127;127;2025-01-01;Não informada;Acompanhamento de rotina
+128;128;2025-01-01;Penicilina;Acompanhamento de rotina
+129;129;2025-01-01;Penicilina;Acompanhamento de rotina
+130;130;2025-01-01;Não informada;Acompanhamento de rotina
+131;131;2025-01-01;Penicilina;Manter vacinação atualizada
+132;132;2025-01-01;Não informada;Manter vacinação atualizada
+133;133;2025-01-01;Nenhuma;Acompanhamento de rotina
+134;134;2025-01-01;Não informada;Monitorar peso
+135;135;2025-01-01;Penicilina;Manter vacinação atualizada
+136;136;2025-01-01;Nenhuma;Manter vacinação atualizada
+137;137;2025-01-01;Nenhuma;Manter vacinação atualizada
+138;138;2025-01-01;Nenhuma;Acompanhamento de rotina
+139;139;2025-01-01;Proteína de frango;Manter vacinação atualizada
+140;140;2025-01-01;Não informada;Manter vacinação atualizada
+141;141;2025-01-01;Não informada;Manter vacinação atualizada
+142;142;2025-01-01;Penicilina;Manter vacinação atualizada
+143;143;2025-01-01;Penicilina;Manter vacinação atualizada
+144;144;2025-01-01;Proteína de frango;Acompanhamento de rotina
+145;145;2025-01-01;Não informada;Monitorar peso
+146;146;2025-01-01;Proteína de frango;Acompanhamento de rotina
+147;147;2025-01-01;Penicilina;Monitorar peso
+148;148;2025-01-01;Proteína de frango;Acompanhamento de rotina
+149;149;2025-01-01;Nenhuma;Acompanhamento de rotina
+150;150;2025-01-01;Nenhuma;Acompanhamento de rotina
+151;151;2025-01-01;Nenhuma;Acompanhamento de rotina
+152;152;2025-01-01;Proteína de frango;Manter vacinação atualizada
+153;153;2025-01-01;Nenhuma;Monitorar peso
+154;154;2025-01-01;Proteína de frango;Manter vacinação atualizada
+155;155;2025-01-01;Nenhuma;Manter vacinação atualizada
+156;156;2025-01-01;Nenhuma;Manter vacinação atualizada
+157;157;2025-01-01;Não informada;Monitorar peso
+158;158;2025-01-01;Penicilina;Manter vacinação atualizada
+159;159;2025-01-01;Proteína de frango;Manter vacinação atualizada
+160;160;2025-01-01;Nenhuma;Monitorar peso
+161;161;2025-01-01;Nenhuma;Acompanhamento de rotina
+162;162;2025-01-01;Não informada;Acompanhamento de rotina
+163;163;2025-01-01;Nenhuma;Manter vacinação atualizada
+164;164;2025-01-01;Nenhuma;Acompanhamento de rotina
+165;165;2025-01-01;Penicilina;Manter vacinação atualizada
+166;166;2025-01-01;Penicilina;Monitorar peso
+167;167;2025-01-01;Penicilina;Acompanhamento de rotina
+168;168;2025-01-01;Penicilina;Acompanhamento de rotina
+169;169;2025-01-01;Penicilina;Monitorar peso
+170;170;2025-01-01;Nenhuma;Manter vacinação atualizada
+171;171;2025-01-01;Nenhuma;Acompanhamento de rotina
+172;172;2025-01-01;Proteína de frango;Monitorar peso
+173;173;2025-01-01;Nenhuma;Manter vacinação atualizada
+174;174;2025-01-01;Nenhuma;Manter vacinação atualizada
+175;175;2025-01-01;Nenhuma;Manter vacinação atualizada
+176;176;2025-01-01;Não informada;Monitorar peso
+177;177;2025-01-01;Nenhuma;Manter vacinação atualizada
+178;178;2025-01-01;Nenhuma;Acompanhamento de rotina
+179;179;2025-01-01;Nenhuma;Manter vacinação atualizada
+180;180;2025-01-01;Proteína de frango;Manter vacinação atualizada
+181;181;2025-01-01;Não informada;Monitorar peso
+182;182;2025-01-01;Nenhuma;Manter vacinação atualizada
+183;183;2025-01-01;Nenhuma;Monitorar peso
+184;184;2025-01-01;Penicilina;Manter vacinação atualizada
+185;185;2025-01-01;Não informada;Monitorar peso
+186;186;2025-01-01;Penicilina;Acompanhamento de rotina
+187;187;2025-01-01;Nenhuma;Acompanhamento de rotina
+188;188;2025-01-01;Não informada;Manter vacinação atualizada
+189;189;2025-01-01;Nenhuma;Monitorar peso
+190;190;2025-01-01;Nenhuma;Monitorar peso
+191;191;2025-01-01;Penicilina;Manter vacinação atualizada
+192;192;2025-01-01;Nenhuma;Manter vacinação atualizada
+193;193;2025-01-01;Não informada;Acompanhamento de rotina
+194;194;2025-01-01;Nenhuma;Manter vacinação atualizada
+195;195;2025-01-01;Nenhuma;Acompanhamento de rotina
+196;196;2025-01-01;Nenhuma;Acompanhamento de rotina
+197;197;2025-01-01;Proteína de frango;Manter vacinação atualizada
+198;198;2025-01-01;Não informada;Monitorar peso
+199;199;2025-01-01;Nenhuma;Acompanhamento de rotina
+200;200;2025-01-01;Não informada;Manter vacinação atualizada
+201;201;2025-01-01;Proteína de frango;Monitorar peso
+202;202;2025-01-01;Não informada;Monitorar peso
+203;203;2025-01-01;Penicilina;Acompanhamento de rotina
+204;204;2025-01-01;Não informada;Monitorar peso
+205;205;2025-01-01;Nenhuma;Manter vacinação atualizada
+206;206;2025-01-01;Penicilina;Acompanhamento de rotina
+207;207;2025-01-01;Proteína de frango;Manter vacinação atualizada
+208;208;2025-01-01;Proteína de frango;Manter vacinação atualizada
+209;209;2025-01-01;Não informada;Monitorar peso
+210;210;2025-01-01;Penicilina;Manter vacinação atualizada
+211;211;2025-01-01;Nenhuma;Manter vacinação atualizada
+212;212;2025-01-01;Não informada;Monitorar peso
+213;213;2025-01-01;Nenhuma;Manter vacinação atualizada
+214;214;2025-01-01;Proteína de frango;Acompanhamento de rotina
+215;215;2025-01-01;Nenhuma;Monitorar peso
+216;216;2025-01-01;Não informada;Manter vacinação atualizada
+217;217;2025-01-01;Nenhuma;Monitorar peso
+218;218;2025-01-01;Nenhuma;Manter vacinação atualizada
+219;219;2025-01-01;Penicilina;Monitorar peso
+220;220;2025-01-01;Penicilina;Acompanhamento de rotina
+221;221;2025-01-01;Não informada;Manter vacinação atualizada
+222;222;2025-01-01;Proteína de frango;Acompanhamento de rotina
+223;223;2025-01-01;Proteína de frango;Manter vacinação atualizada
+224;224;2025-01-01;Nenhuma;Acompanhamento de rotina
+225;225;2025-01-01;Não informada;Acompanhamento de rotina
+226;226;2025-01-01;Penicilina;Manter vacinação atualizada
+227;227;2025-01-01;Não informada;Monitorar peso
+228;228;2025-01-01;Nenhuma;Monitorar peso
+229;229;2025-01-01;Nenhuma;Acompanhamento de rotina
+230;230;2025-01-01;Penicilina;Acompanhamento de rotina
+231;231;2025-01-01;Penicilina;Manter vacinação atualizada
+232;232;2025-01-01;Proteína de frango;Acompanhamento de rotina
+233;233;2025-01-01;Proteína de frango;Monitorar peso
+234;234;2025-01-01;Penicilina;Manter vacinação atualizada
+235;235;2025-01-01;Não informada;Manter vacinação atualizada
+236;236;2025-01-01;Penicilina;Acompanhamento de rotina
+237;237;2025-01-01;Penicilina;Acompanhamento de rotina
+238;238;2025-01-01;Nenhuma;Monitorar peso
+239;239;2025-01-01;Proteína de frango;Acompanhamento de rotina
+240;240;2025-01-01;Nenhuma;Manter vacinação atualizada
+241;241;2025-01-01;Nenhuma;Acompanhamento de rotina
+242;242;2025-01-01;Proteína de frango;Monitorar peso
+243;243;2025-01-01;Não informada;Manter vacinação atualizada
+244;244;2025-01-01;Penicilina;Monitorar peso
+245;245;2025-01-01;Proteína de frango;Monitorar peso
+246;246;2025-01-01;Proteína de frango;Monitorar peso
+247;247;2025-01-01;Não informada;Manter vacinação atualizada
+248;248;2025-01-01;Nenhuma;Acompanhamento de rotina
+249;249;2025-01-01;Nenhuma;Acompanhamento de rotina
+250;250;2025-01-01;Penicilina;Manter vacinação atualizada
+251;251;2025-01-01;Nenhuma;Manter vacinação atualizada
+252;252;2025-01-01;Penicilina;Acompanhamento de rotina
+253;253;2025-01-01;Nenhuma;Manter vacinação atualizada
+254;254;2025-01-01;Nenhuma;Acompanhamento de rotina
+255;255;2025-01-01;Nenhuma;Monitorar peso
+256;256;2025-01-01;Proteína de frango;Manter vacinação atualizada
+257;257;2025-01-01;Proteína de frango;Monitorar peso
+258;258;2025-01-01;Penicilina;Monitorar peso
+259;259;2025-01-01;Proteína de frango;Manter vacinação atualizada
+260;260;2025-01-01;Penicilina;Monitorar peso
+261;261;2025-01-01;Não informada;Monitorar peso
+262;262;2025-01-01;Proteína de frango;Manter vacinação atualizada
+263;263;2025-01-01;Nenhuma;Acompanhamento de rotina
+264;264;2025-01-01;Nenhuma;Acompanhamento de rotina
+265;265;2025-01-01;Nenhuma;Acompanhamento de rotina
+266;266;2025-01-01;Nenhuma;Monitorar peso
+267;267;2025-01-01;Nenhuma;Acompanhamento de rotina
+268;268;2025-01-01;Nenhuma;Manter vacinação atualizada
+269;269;2025-01-01;Nenhuma;Monitorar peso
+270;270;2025-01-01;Nenhuma;Manter vacinação atualizada
+271;271;2025-01-01;Penicilina;Acompanhamento de rotina
+272;272;2025-01-01;Nenhuma;Manter vacinação atualizada
+273;273;2025-01-01;Proteína de frango;Acompanhamento de rotina
+274;274;2025-01-01;Proteína de frango;Manter vacinação atualizada
+275;275;2025-01-01;Nenhuma;Acompanhamento de rotina
+276;276;2025-01-01;Nenhuma;Acompanhamento de rotina
+277;277;2025-01-01;Proteína de frango;Manter vacinação atualizada
+278;278;2025-01-01;Proteína de frango;Acompanhamento de rotina
+279;279;2025-01-01;Proteína de frango;Monitorar peso
+280;280;2025-01-01;Nenhuma;Acompanhamento de rotina
+281;281;2025-01-01;Não informada;Monitorar peso
+282;282;2025-01-01;Proteína de frango;Acompanhamento de rotina
+283;283;2025-01-01;Não informada;Acompanhamento de rotina
+284;284;2025-01-01;Nenhuma;Monitorar peso
+285;285;2025-01-01;Proteína de frango;Manter vacinação atualizada
+286;286;2025-01-01;Proteína de frango;Monitorar peso
+287;287;2025-01-01;Penicilina;Monitorar peso
+288;288;2025-01-01;Penicilina;Manter vacinação atualizada
+289;289;2025-01-01;Nenhuma;Manter vacinação atualizada
+290;290;2025-01-01;Proteína de frango;Manter vacinação atualizada
+291;291;2025-01-01;Penicilina;Monitorar peso
+292;292;2025-01-01;Penicilina;Monitorar peso
+293;293;2025-01-01;Proteína de frango;Acompanhamento de rotina
+294;294;2025-01-01;Nenhuma;Monitorar peso
+295;295;2025-01-01;Nenhuma;Manter vacinação atualizada
+296;296;2025-01-01;Penicilina;Manter vacinação atualizada
+297;297;2025-01-01;Penicilina;Acompanhamento de rotina
+298;298;2025-01-01;Não informada;Monitorar peso
+299;299;2025-01-01;Proteína de frango;Manter vacinação atualizada
+300;300;2025-01-01;Nenhuma;Manter vacinação atualizada
+301;301;2025-01-01;Penicilina;Monitorar peso
+302;302;2025-01-01;Não informada;Manter vacinação atualizada
+303;303;2025-01-01;Proteína de frango;Acompanhamento de rotina
+304;304;2025-01-01;Nenhuma;Manter vacinação atualizada
+305;305;2025-01-01;Nenhuma;Manter vacinação atualizada
+306;306;2025-01-01;Não informada;Manter vacinação atualizada
+307;307;2025-01-01;Nenhuma;Monitorar peso
+308;308;2025-01-01;Nenhuma;Monitorar peso
+309;309;2025-01-01;Não informada;Monitorar peso
+310;310;2025-01-01;Proteína de frango;Acompanhamento de rotina
+311;311;2025-01-01;Não informada;Monitorar peso
+312;312;2025-01-01;Proteína de frango;Manter vacinação atualizada
+313;313;2025-01-01;Não informada;Manter vacinação atualizada
+314;314;2025-01-01;Nenhuma;Monitorar peso
+315;315;2025-01-01;Nenhuma;Manter vacinação atualizada
+316;316;2025-01-01;Nenhuma;Monitorar peso
+317;317;2025-01-01;Proteína de frango;Acompanhamento de rotina
+318;318;2025-01-01;Nenhuma;Acompanhamento de rotina
+319;319;2025-01-01;Nenhuma;Monitorar peso
+320;320;2025-01-01;Proteína de frango;Acompanhamento de rotina
+321;321;2025-01-01;Proteína de frango;Manter vacinação atualizada
+322;322;2025-01-01;Não informada;Acompanhamento de rotina
+323;323;2025-01-01;Nenhuma;Monitorar peso
+324;324;2025-01-01;Nenhuma;Acompanhamento de rotina
+325;325;2025-01-01;Não informada;Manter vacinação atualizada
+326;326;2025-01-01;Não informada;Monitorar peso
+327;327;2025-01-01;Nenhuma;Acompanhamento de rotina
+328;328;2025-01-01;Penicilina;Acompanhamento de rotina
+329;329;2025-01-01;Nenhuma;Manter vacinação atualizada
+330;330;2025-01-01;Proteína de frango;Acompanhamento de rotina
+331;331;2025-01-01;Penicilina;Acompanhamento de rotina
+332;332;2025-01-01;Nenhuma;Monitorar peso
+333;333;2025-01-01;Nenhuma;Manter vacinação atualizada
+334;334;2025-01-01;Não informada;Manter vacinação atualizada
+335;335;2025-01-01;Não informada;Acompanhamento de rotina
+336;336;2025-01-01;Penicilina;Manter vacinação atualizada
+337;337;2025-01-01;Nenhuma;Monitorar peso
+338;338;2025-01-01;Penicilina;Monitorar peso
+339;339;2025-01-01;Nenhuma;Monitorar peso
+340;340;2025-01-01;Nenhuma;Manter vacinação atualizada
+341;341;2025-01-01;Proteína de frango;Acompanhamento de rotina
+342;342;2025-01-01;Nenhuma;Monitorar peso
+343;343;2025-01-01;Penicilina;Acompanhamento de rotina
+344;344;2025-01-01;Penicilina;Acompanhamento de rotina
+345;345;2025-01-01;Penicilina;Acompanhamento de rotina
+346;346;2025-01-01;Nenhuma;Monitorar peso
+347;347;2025-01-01;Nenhuma;Acompanhamento de rotina
+348;348;2025-01-01;Não informada;Acompanhamento de rotina
+349;349;2025-01-01;Não informada;Monitorar peso
+350;350;2025-01-01;Proteína de frango;Monitorar peso
+351;351;2025-01-01;Proteína de frango;Monitorar peso
+352;352;2025-01-01;Nenhuma;Acompanhamento de rotina
+353;353;2025-01-01;Não informada;Manter vacinação atualizada
+354;354;2025-01-01;Nenhuma;Acompanhamento de rotina
+355;355;2025-01-01;Nenhuma;Manter vacinação atualizada
+356;356;2025-01-01;Proteína de frango;Acompanhamento de rotina
+357;357;2025-01-01;Nenhuma;Manter vacinação atualizada
+358;358;2025-01-01;Não informada;Manter vacinação atualizada
+359;359;2025-01-01;Penicilina;Acompanhamento de rotina
+360;360;2025-01-01;Nenhuma;Manter vacinação atualizada
+361;361;2025-01-01;Não informada;Monitorar peso
+362;362;2025-01-01;Proteína de frango;Manter vacinação atualizada
+363;363;2025-01-01;Nenhuma;Acompanhamento de rotina
+364;364;2025-01-01;Penicilina;Manter vacinação atualizada
+365;365;2025-01-01;Nenhuma;Acompanhamento de rotina
+366;366;2025-01-01;Proteína de frango;Manter vacinação atualizada
+367;367;2025-01-01;Proteína de frango;Manter vacinação atualizada
+368;368;2025-01-01;Penicilina;Monitorar peso
+369;369;2025-01-01;Não informada;Acompanhamento de rotina
+370;370;2025-01-01;Proteína de frango;Acompanhamento de rotina
+371;371;2025-01-01;Nenhuma;Monitorar peso
+372;372;2025-01-01;Penicilina;Acompanhamento de rotina
+373;373;2025-01-01;Nenhuma;Manter vacinação atualizada
+374;374;2025-01-01;Não informada;Manter vacinação atualizada
+375;375;2025-01-01;Nenhuma;Manter vacinação atualizada
+376;376;2025-01-01;Nenhuma;Manter vacinação atualizada
+377;377;2025-01-01;Nenhuma;Monitorar peso
+378;378;2025-01-01;Nenhuma;Monitorar peso
+379;379;2025-01-01;Nenhuma;Monitorar peso
+380;380;2025-01-01;Penicilina;Manter vacinação atualizada
+381;381;2025-01-01;Proteína de frango;Manter vacinação atualizada
+382;382;2025-01-01;Penicilina;Manter vacinação atualizada
+383;383;2025-01-01;Não informada;Manter vacinação atualizada
+384;384;2025-01-01;Nenhuma;Manter vacinação atualizada
+385;385;2025-01-01;Penicilina;Monitorar peso
+386;386;2025-01-01;Nenhuma;Monitorar peso
+387;387;2025-01-01;Proteína de frango;Manter vacinação atualizada
+388;388;2025-01-01;Nenhuma;Monitorar peso
+389;389;2025-01-01;Penicilina;Monitorar peso
+390;390;2025-01-01;Proteína de frango;Monitorar peso
+391;391;2025-01-01;Não informada;Monitorar peso
+392;392;2025-01-01;Proteína de frango;Acompanhamento de rotina
+393;393;2025-01-01;Não informada;Acompanhamento de rotina
+394;394;2025-01-01;Nenhuma;Monitorar peso
+395;395;2025-01-01;Não informada;Manter vacinação atualizada
+396;396;2025-01-01;Nenhuma;Monitorar peso
+397;397;2025-01-01;Penicilina;Manter vacinação atualizada
+398;398;2025-01-01;Nenhuma;Acompanhamento de rotina
+399;399;2025-01-01;Penicilina;Monitorar peso
+400;400;2025-01-01;Não informada;Monitorar peso
+401;401;2025-01-01;Não informada;Monitorar peso
+402;402;2025-01-01;Nenhuma;Acompanhamento de rotina
+403;403;2025-01-01;Nenhuma;Monitorar peso
+404;404;2025-01-01;Penicilina;Manter vacinação atualizada
+405;405;2025-01-01;Nenhuma;Manter vacinação atualizada
+406;406;2025-01-01;Proteína de frango;Monitorar peso
+407;407;2025-01-01;Nenhuma;Monitorar peso
+408;408;2025-01-01;Nenhuma;Manter vacinação atualizada
+409;409;2025-01-01;Não informada;Monitorar peso
+410;410;2025-01-01;Penicilina;Manter vacinação atualizada
+411;411;2025-01-01;Nenhuma;Acompanhamento de rotina
+412;412;2025-01-01;Nenhuma;Manter vacinação atualizada
+413;413;2025-01-01;Não informada;Monitorar peso
+414;414;2025-01-01;Nenhuma;Manter vacinação atualizada
+415;415;2025-01-01;Não informada;Acompanhamento de rotina
+416;416;2025-01-01;Penicilina;Monitorar peso
+417;417;2025-01-01;Penicilina;Monitorar peso
+418;418;2025-01-01;Nenhuma;Manter vacinação atualizada
+419;419;2025-01-01;Não informada;Manter vacinação atualizada
+420;420;2025-01-01;Penicilina;Monitorar peso
+421;421;2025-01-01;Nenhuma;Monitorar peso
+422;422;2025-01-01;Proteína de frango;Monitorar peso
+423;423;2025-01-01;Nenhuma;Acompanhamento de rotina
+424;424;2025-01-01;Não informada;Monitorar peso
+425;425;2025-01-01;Penicilina;Acompanhamento de rotina
+426;426;2025-01-01;Não informada;Manter vacinação atualizada
+427;427;2025-01-01;Nenhuma;Acompanhamento de rotina
+428;428;2025-01-01;Proteína de frango;Manter vacinação atualizada
+429;429;2025-01-01;Nenhuma;Acompanhamento de rotina
+430;430;2025-01-01;Nenhuma;Manter vacinação atualizada
+431;431;2025-01-01;Nenhuma;Manter vacinação atualizada
+432;432;2025-01-01;Nenhuma;Manter vacinação atualizada
+433;433;2025-01-01;Nenhuma;Manter vacinação atualizada
+434;434;2025-01-01;Penicilina;Manter vacinação atualizada
+435;435;2025-01-01;Penicilina;Monitorar peso
+436;436;2025-01-01;Penicilina;Manter vacinação atualizada
+437;437;2025-01-01;Não informada;Monitorar peso
+438;438;2025-01-01;Proteína de frango;Monitorar peso
+439;439;2025-01-01;Proteína de frango;Manter vacinação atualizada
+440;440;2025-01-01;Proteína de frango;Monitorar peso
+441;441;2025-01-01;Proteína de frango;Acompanhamento de rotina
+442;442;2025-01-01;Nenhuma;Monitorar peso
+443;443;2025-01-01;Nenhuma;Manter vacinação atualizada
+444;444;2025-01-01;Proteína de frango;Acompanhamento de rotina
+445;445;2025-01-01;Penicilina;Monitorar peso
+446;446;2025-01-01;Nenhuma;Monitorar peso
+447;447;2025-01-01;Nenhuma;Manter vacinação atualizada
+448;448;2025-01-01;Proteína de frango;Acompanhamento de rotina
+449;449;2025-01-01;Nenhuma;Monitorar peso
+450;450;2025-01-01;Não informada;Acompanhamento de rotina
+451;451;2025-01-01;Penicilina;Manter vacinação atualizada
+452;452;2025-01-01;Nenhuma;Acompanhamento de rotina
+453;453;2025-01-01;Não informada;Monitorar peso
+454;454;2025-01-01;Não informada;Acompanhamento de rotina
+455;455;2025-01-01;Penicilina;Acompanhamento de rotina
+456;456;2025-01-01;Nenhuma;Manter vacinação atualizada
+457;457;2025-01-01;Não informada;Manter vacinação atualizada
+458;458;2025-01-01;Não informada;Manter vacinação atualizada
+459;459;2025-01-01;Proteína de frango;Acompanhamento de rotina
+460;460;2025-01-01;Nenhuma;Acompanhamento de rotina
+461;461;2025-01-01;Penicilina;Manter vacinação atualizada
+462;462;2025-01-01;Nenhuma;Manter vacinação atualizada
+463;463;2025-01-01;Não informada;Acompanhamento de rotina
+464;464;2025-01-01;Nenhuma;Monitorar peso
+465;465;2025-01-01;Proteína de frango;Acompanhamento de rotina
+466;466;2025-01-01;Nenhuma;Monitorar peso
+467;467;2025-01-01;Não informada;Acompanhamento de rotina
+468;468;2025-01-01;Nenhuma;Manter vacinação atualizada
+469;469;2025-01-01;Proteína de frango;Monitorar peso
+470;470;2025-01-01;Não informada;Monitorar peso
+471;471;2025-01-01;Proteína de frango;Manter vacinação atualizada
+472;472;2025-01-01;Proteína de frango;Manter vacinação atualizada
+473;473;2025-01-01;Penicilina;Acompanhamento de rotina
+474;474;2025-01-01;Nenhuma;Monitorar peso
+475;475;2025-01-01;Proteína de frango;Manter vacinação atualizada
+476;476;2025-01-01;Proteína de frango;Acompanhamento de rotina
+477;477;2025-01-01;Não informada;Acompanhamento de rotina
+478;478;2025-01-01;Penicilina;Monitorar peso
+479;479;2025-01-01;Penicilina;Manter vacinação atualizada
+480;480;2025-01-01;Proteína de frango;Acompanhamento de rotina
+481;481;2025-01-01;Proteína de frango;Manter vacinação atualizada
+482;482;2025-01-01;Penicilina;Acompanhamento de rotina
+483;483;2025-01-01;Proteína de frango;Monitorar peso
+484;484;2025-01-01;Não informada;Monitorar peso
+485;485;2025-01-01;Nenhuma;Acompanhamento de rotina
+486;486;2025-01-01;Nenhuma;Monitorar peso
+487;487;2025-01-01;Não informada;Monitorar peso
+488;488;2025-01-01;Nenhuma;Monitorar peso
+489;489;2025-01-01;Penicilina;Acompanhamento de rotina
+490;490;2025-01-01;Nenhuma;Monitorar peso
+491;491;2025-01-01;Penicilina;Monitorar peso
+492;492;2025-01-01;Nenhuma;Monitorar peso
+493;493;2025-01-01;Penicilina;Acompanhamento de rotina
+494;494;2025-01-01;Proteína de frango;Monitorar peso
+495;495;2025-01-01;Nenhuma;Acompanhamento de rotina
+496;496;2025-01-01;Penicilina;Acompanhamento de rotina
+497;497;2025-01-01;Nenhuma;Manter vacinação atualizada
+498;498;2025-01-01;Nenhuma;Acompanhamento de rotina
+499;499;2025-01-01;Penicilina;Manter vacinação atualizada
+500;500;2025-01-01;Nenhuma;Monitorar peso
+501;501;2025-01-01;Penicilina;Manter vacinação atualizada
+502;502;2025-01-01;Proteína de frango;Monitorar peso
+503;503;2025-01-01;Nenhuma;Manter vacinação atualizada
+504;504;2025-01-01;Nenhuma;Manter vacinação atualizada
+505;505;2025-01-01;Proteína de frango;Acompanhamento de rotina
+506;506;2025-01-01;Proteína de frango;Acompanhamento de rotina
+507;507;2025-01-01;Penicilina;Manter vacinação atualizada
+508;508;2025-01-01;Proteína de frango;Manter vacinação atualizada
+509;509;2025-01-01;Nenhuma;Acompanhamento de rotina
+510;510;2025-01-01;Nenhuma;Monitorar peso
+511;511;2025-01-01;Nenhuma;Manter vacinação atualizada
+512;512;2025-01-01;Nenhuma;Acompanhamento de rotina
+513;513;2025-01-01;Não informada;Acompanhamento de rotina
+514;514;2025-01-01;Nenhuma;Manter vacinação atualizada
+515;515;2025-01-01;Proteína de frango;Monitorar peso
+516;516;2025-01-01;Nenhuma;Acompanhamento de rotina
+517;517;2025-01-01;Penicilina;Manter vacinação atualizada
+518;518;2025-01-01;Nenhuma;Acompanhamento de rotina
+519;519;2025-01-01;Nenhuma;Manter vacinação atualizada
+520;520;2025-01-01;Proteína de frango;Acompanhamento de rotina
+521;521;2025-01-01;Não informada;Acompanhamento de rotina
+522;522;2025-01-01;Proteína de frango;Manter vacinação atualizada
+523;523;2025-01-01;Não informada;Manter vacinação atualizada
+524;524;2025-01-01;Nenhuma;Acompanhamento de rotina
+525;525;2025-01-01;Nenhuma;Acompanhamento de rotina
+526;526;2025-01-01;Penicilina;Monitorar peso
+527;527;2025-01-01;Nenhuma;Manter vacinação atualizada
+528;528;2025-01-01;Penicilina;Monitorar peso
+529;529;2025-01-01;Proteína de frango;Acompanhamento de rotina
+530;530;2025-01-01;Não informada;Acompanhamento de rotina
+531;531;2025-01-01;Não informada;Manter vacinação atualizada
+532;532;2025-01-01;Penicilina;Manter vacinação atualizada
+533;533;2025-01-01;Nenhuma;Manter vacinação atualizada
+534;534;2025-01-01;Nenhuma;Manter vacinação atualizada
+535;535;2025-01-01;Nenhuma;Acompanhamento de rotina
+536;536;2025-01-01;Não informada;Monitorar peso
+537;537;2025-01-01;Penicilina;Monitorar peso
+538;538;2025-01-01;Nenhuma;Acompanhamento de rotina
+539;539;2025-01-01;Penicilina;Monitorar peso
+540;540;2025-01-01;Nenhuma;Manter vacinação atualizada
+541;541;2025-01-01;Penicilina;Manter vacinação atualizada
+542;542;2025-01-01;Proteína de frango;Acompanhamento de rotina
+543;543;2025-01-01;Penicilina;Acompanhamento de rotina
+544;544;2025-01-01;Nenhuma;Manter vacinação atualizada
+545;545;2025-01-01;Penicilina;Acompanhamento de rotina
+546;546;2025-01-01;Nenhuma;Monitorar peso
+547;547;2025-01-01;Proteína de frango;Monitorar peso
+548;548;2025-01-01;Proteína de frango;Acompanhamento de rotina
+549;549;2025-01-01;Nenhuma;Manter vacinação atualizada
+550;550;2025-01-01;Penicilina;Manter vacinação atualizada
+551;551;2025-01-01;Nenhuma;Acompanhamento de rotina
+552;552;2025-01-01;Nenhuma;Manter vacinação atualizada
+553;553;2025-01-01;Não informada;Monitorar peso
+554;554;2025-01-01;Não informada;Monitorar peso
+555;555;2025-01-01;Proteína de frango;Manter vacinação atualizada
+556;556;2025-01-01;Nenhuma;Monitorar peso
+557;557;2025-01-01;Penicilina;Manter vacinação atualizada
+558;558;2025-01-01;Nenhuma;Acompanhamento de rotina
+559;559;2025-01-01;Penicilina;Monitorar peso
+560;560;2025-01-01;Nenhuma;Manter vacinação atualizada
+561;561;2025-01-01;Nenhuma;Manter vacinação atualizada
+562;562;2025-01-01;Nenhuma;Acompanhamento de rotina
+563;563;2025-01-01;Penicilina;Manter vacinação atualizada
+564;564;2025-01-01;Proteína de frango;Acompanhamento de rotina
+565;565;2025-01-01;Penicilina;Monitorar peso
+566;566;2025-01-01;Não informada;Monitorar peso
+567;567;2025-01-01;Não informada;Monitorar peso
+568;568;2025-01-01;Não informada;Monitorar peso
+569;569;2025-01-01;Proteína de frango;Manter vacinação atualizada
+570;570;2025-01-01;Nenhuma;Monitorar peso
+571;571;2025-01-01;Não informada;Manter vacinação atualizada
+572;572;2025-01-01;Nenhuma;Manter vacinação atualizada
+573;573;2025-01-01;Penicilina;Manter vacinação atualizada
+574;574;2025-01-01;Nenhuma;Monitorar peso
+575;575;2025-01-01;Nenhuma;Monitorar peso
+576;576;2025-01-01;Nenhuma;Monitorar peso
+577;577;2025-01-01;Proteína de frango;Acompanhamento de rotina
+578;578;2025-01-01;Nenhuma;Monitorar peso
+579;579;2025-01-01;Nenhuma;Manter vacinação atualizada
+580;580;2025-01-01;Penicilina;Monitorar peso
+581;581;2025-01-01;Proteína de frango;Manter vacinação atualizada
+582;582;2025-01-01;Penicilina;Acompanhamento de rotina
+583;583;2025-01-01;Nenhuma;Monitorar peso
+584;584;2025-01-01;Nenhuma;Monitorar peso
+585;585;2025-01-01;Proteína de frango;Monitorar peso
+586;586;2025-01-01;Nenhuma;Manter vacinação atualizada
+587;587;2025-01-01;Proteína de frango;Monitorar peso
+588;588;2025-01-01;Não informada;Manter vacinação atualizada
+589;589;2025-01-01;Nenhuma;Monitorar peso
+590;590;2025-01-01;Nenhuma;Acompanhamento de rotina
+591;591;2025-01-01;Proteína de frango;Manter vacinação atualizada
+592;592;2025-01-01;Nenhuma;Manter vacinação atualizada
+593;593;2025-01-01;Nenhuma;Acompanhamento de rotina
+594;594;2025-01-01;Nenhuma;Manter vacinação atualizada
+595;595;2025-01-01;Não informada;Acompanhamento de rotina
+596;596;2025-01-01;Nenhuma;Monitorar peso
+597;597;2025-01-01;Não informada;Monitorar peso
+598;598;2025-01-01;Nenhuma;Acompanhamento de rotina
+599;599;2025-01-01;Proteína de frango;Manter vacinação atualizada
+600;600;2025-01-01;Nenhuma;Manter vacinação atualizada
+601;601;2025-01-01;Proteína de frango;Monitorar peso
+602;602;2025-01-01;Penicilina;Acompanhamento de rotina
+603;603;2025-01-01;Nenhuma;Acompanhamento de rotina
+604;604;2025-01-01;Proteína de frango;Acompanhamento de rotina
+605;605;2025-01-01;Não informada;Monitorar peso
+606;606;2025-01-01;Penicilina;Manter vacinação atualizada
+607;607;2025-01-01;Nenhuma;Monitorar peso
+608;608;2025-01-01;Nenhuma;Monitorar peso
+609;609;2025-01-01;Penicilina;Monitorar peso
+610;610;2025-01-01;Penicilina;Monitorar peso
+611;611;2025-01-01;Nenhuma;Acompanhamento de rotina
+612;612;2025-01-01;Penicilina;Acompanhamento de rotina
+613;613;2025-01-01;Nenhuma;Acompanhamento de rotina
+614;614;2025-01-01;Não informada;Monitorar peso
+615;615;2025-01-01;Nenhuma;Monitorar peso
+616;616;2025-01-01;Não informada;Acompanhamento de rotina
+617;617;2025-01-01;Nenhuma;Monitorar peso
+618;618;2025-01-01;Penicilina;Monitorar peso
+619;619;2025-01-01;Não informada;Monitorar peso
+620;620;2025-01-01;Penicilina;Manter vacinação atualizada
+621;621;2025-01-01;Nenhuma;Manter vacinação atualizada
+622;622;2025-01-01;Nenhuma;Manter vacinação atualizada
+623;623;2025-01-01;Proteína de frango;Manter vacinação atualizada
+624;624;2025-01-01;Não informada;Acompanhamento de rotina
+625;625;2025-01-01;Penicilina;Manter vacinação atualizada
+626;626;2025-01-01;Proteína de frango;Manter vacinação atualizada
+627;627;2025-01-01;Penicilina;Acompanhamento de rotina
+628;628;2025-01-01;Nenhuma;Acompanhamento de rotina
+629;629;2025-01-01;Não informada;Manter vacinação atualizada
+630;630;2025-01-01;Penicilina;Manter vacinação atualizada
+631;631;2025-01-01;Não informada;Acompanhamento de rotina
+632;632;2025-01-01;Proteína de frango;Acompanhamento de rotina
+633;633;2025-01-01;Não informada;Acompanhamento de rotina
+634;634;2025-01-01;Penicilina;Acompanhamento de rotina
+635;635;2025-01-01;Nenhuma;Monitorar peso
+636;636;2025-01-01;Proteína de frango;Acompanhamento de rotina
+637;637;2025-01-01;Nenhuma;Acompanhamento de rotina
+638;638;2025-01-01;Nenhuma;Manter vacinação atualizada
+639;639;2025-01-01;Não informada;Acompanhamento de rotina
+640;640;2025-01-01;Nenhuma;Acompanhamento de rotina
+641;641;2025-01-01;Proteína de frango;Manter vacinação atualizada
+642;642;2025-01-01;Nenhuma;Monitorar peso
+643;643;2025-01-01;Não informada;Manter vacinação atualizada
+644;644;2025-01-01;Nenhuma;Acompanhamento de rotina
+645;645;2025-01-01;Proteína de frango;Acompanhamento de rotina
+646;646;2025-01-01;Não informada;Acompanhamento de rotina
+647;647;2025-01-01;Não informada;Monitorar peso
+648;648;2025-01-01;Nenhuma;Acompanhamento de rotina
+649;649;2025-01-01;Penicilina;Monitorar peso
+650;650;2025-01-01;Proteína de frango;Acompanhamento de rotina
+651;651;2025-01-01;Proteína de frango;Monitorar peso
+652;652;2025-01-01;Nenhuma;Acompanhamento de rotina
+653;653;2025-01-01;Nenhuma;Acompanhamento de rotina
+654;654;2025-01-01;Proteína de frango;Manter vacinação atualizada
+655;655;2025-01-01;Nenhuma;Acompanhamento de rotina
+656;656;2025-01-01;Nenhuma;Manter vacinação atualizada
+657;657;2025-01-01;Nenhuma;Manter vacinação atualizada
+658;658;2025-01-01;Penicilina;Monitorar peso
+659;659;2025-01-01;Proteína de frango;Acompanhamento de rotina
+660;660;2025-01-01;Nenhuma;Monitorar peso
+661;661;2025-01-01;Nenhuma;Monitorar peso
+662;662;2025-01-01;Nenhuma;Manter vacinação atualizada
+663;663;2025-01-01;Proteína de frango;Manter vacinação atualizada
+664;664;2025-01-01;Nenhuma;Monitorar peso
+665;665;2025-01-01;Proteína de frango;Acompanhamento de rotina
+666;666;2025-01-01;Penicilina;Monitorar peso
+667;667;2025-01-01;Penicilina;Acompanhamento de rotina
+668;668;2025-01-01;Proteína de frango;Manter vacinação atualizada
+669;669;2025-01-01;Proteína de frango;Manter vacinação atualizada
+670;670;2025-01-01;Penicilina;Monitorar peso
+671;671;2025-01-01;Nenhuma;Manter vacinação atualizada
+672;672;2025-01-01;Nenhuma;Manter vacinação atualizada
+673;673;2025-01-01;Penicilina;Manter vacinação atualizada
+674;674;2025-01-01;Penicilina;Acompanhamento de rotina
+675;675;2025-01-01;Nenhuma;Acompanhamento de rotina
+676;676;2025-01-01;Nenhuma;Monitorar peso
+677;677;2025-01-01;Nenhuma;Monitorar peso
+678;678;2025-01-01;Nenhuma;Monitorar peso
+679;679;2025-01-01;Nenhuma;Monitorar peso
+680;680;2025-01-01;Penicilina;Manter vacinação atualizada
+681;681;2025-01-01;Não informada;Manter vacinação atualizada
+682;682;2025-01-01;Proteína de frango;Monitorar peso
+683;683;2025-01-01;Penicilina;Manter vacinação atualizada
+684;684;2025-01-01;Nenhuma;Acompanhamento de rotina
+685;685;2025-01-01;Nenhuma;Acompanhamento de rotina
+686;686;2025-01-01;Nenhuma;Acompanhamento de rotina
+687;687;2025-01-01;Não informada;Monitorar peso
+688;688;2025-01-01;Proteína de frango;Monitorar peso
+689;689;2025-01-01;Não informada;Manter vacinação atualizada
+690;690;2025-01-01;Penicilina;Monitorar peso
+691;691;2025-01-01;Nenhuma;Acompanhamento de rotina
+692;692;2025-01-01;Proteína de frango;Manter vacinação atualizada
+693;693;2025-01-01;Penicilina;Manter vacinação atualizada
+694;694;2025-01-01;Não informada;Manter vacinação atualizada
+695;695;2025-01-01;Nenhuma;Monitorar peso
+696;696;2025-01-01;Penicilina;Monitorar peso
+697;697;2025-01-01;Nenhuma;Acompanhamento de rotina
+698;698;2025-01-01;Nenhuma;Monitorar peso
+699;699;2025-01-01;Penicilina;Acompanhamento de rotina
+700;700;2025-01-01;Proteína de frango;Manter vacinação atualizada
+701;701;2025-01-01;Nenhuma;Acompanhamento de rotina
+702;702;2025-01-01;Nenhuma;Acompanhamento de rotina
+703;703;2025-01-01;Não informada;Acompanhamento de rotina
+704;704;2025-01-01;Proteína de frango;Monitorar peso
+705;705;2025-01-01;Proteína de frango;Monitorar peso
+706;706;2025-01-01;Não informada;Monitorar peso
+707;707;2025-01-01;Penicilina;Manter vacinação atualizada
+708;708;2025-01-01;Penicilina;Manter vacinação atualizada
+709;709;2025-01-01;Proteína de frango;Manter vacinação atualizada
+710;710;2025-01-01;Nenhuma;Acompanhamento de rotina
+711;711;2025-01-01;Proteína de frango;Acompanhamento de rotina
+712;712;2025-01-01;Proteína de frango;Acompanhamento de rotina
+713;713;2025-01-01;Nenhuma;Monitorar peso
+714;714;2025-01-01;Nenhuma;Monitorar peso
+715;715;2025-01-01;Nenhuma;Manter vacinação atualizada
+716;716;2025-01-01;Penicilina;Acompanhamento de rotina
+717;717;2025-01-01;Nenhuma;Manter vacinação atualizada
+718;718;2025-01-01;Não informada;Monitorar peso
+719;719;2025-01-01;Proteína de frango;Acompanhamento de rotina
+720;720;2025-01-01;Proteína de frango;Acompanhamento de rotina
+721;721;2025-01-01;Nenhuma;Manter vacinação atualizada
+722;722;2025-01-01;Nenhuma;Acompanhamento de rotina
+723;723;2025-01-01;Não informada;Acompanhamento de rotina
+724;724;2025-01-01;Penicilina;Acompanhamento de rotina
+725;725;2025-01-01;Nenhuma;Manter vacinação atualizada
+726;726;2025-01-01;Proteína de frango;Acompanhamento de rotina
+727;727;2025-01-01;Penicilina;Manter vacinação atualizada
+728;728;2025-01-01;Nenhuma;Acompanhamento de rotina
+729;729;2025-01-01;Nenhuma;Acompanhamento de rotina
+730;730;2025-01-01;Não informada;Acompanhamento de rotina
+731;731;2025-01-01;Nenhuma;Manter vacinação atualizada
+732;732;2025-01-01;Nenhuma;Manter vacinação atualizada
+733;733;2025-01-01;Penicilina;Acompanhamento de rotina
+734;734;2025-01-01;Nenhuma;Acompanhamento de rotina
+735;735;2025-01-01;Nenhuma;Acompanhamento de rotina
+736;736;2025-01-01;Não informada;Acompanhamento de rotina
+737;737;2025-01-01;Nenhuma;Monitorar peso
+738;738;2025-01-01;Nenhuma;Manter vacinação atualizada
+739;739;2025-01-01;Nenhuma;Manter vacinação atualizada
+740;740;2025-01-01;Nenhuma;Manter vacinação atualizada
+741;741;2025-01-01;Proteína de frango;Acompanhamento de rotina
+742;742;2025-01-01;Não informada;Manter vacinação atualizada
+743;743;2025-01-01;Nenhuma;Monitorar peso
+744;744;2025-01-01;Penicilina;Manter vacinação atualizada
+745;745;2025-01-01;Nenhuma;Acompanhamento de rotina
+746;746;2025-01-01;Nenhuma;Acompanhamento de rotina
+747;747;2025-01-01;Nenhuma;Acompanhamento de rotina
+748;748;2025-01-01;Penicilina;Manter vacinação atualizada
+749;749;2025-01-01;Não informada;Manter vacinação atualizada
+750;750;2025-01-01;Penicilina;Manter vacinação atualizada
+751;751;2025-01-01;Nenhuma;Acompanhamento de rotina
+752;752;2025-01-01;Penicilina;Monitorar peso
+753;753;2025-01-01;Nenhuma;Monitorar peso
+754;754;2025-01-01;Não informada;Acompanhamento de rotina
+755;755;2025-01-01;Não informada;Acompanhamento de rotina
+756;756;2025-01-01;Nenhuma;Monitorar peso
+757;757;2025-01-01;Não informada;Acompanhamento de rotina
+758;758;2025-01-01;Penicilina;Monitorar peso
+759;759;2025-01-01;Proteína de frango;Acompanhamento de rotina
+760;760;2025-01-01;Nenhuma;Manter vacinação atualizada
+761;761;2025-01-01;Penicilina;Acompanhamento de rotina
+762;762;2025-01-01;Nenhuma;Monitorar peso
+763;763;2025-01-01;Proteína de frango;Monitorar peso
+764;764;2025-01-01;Penicilina;Manter vacinação atualizada
+765;765;2025-01-01;Proteína de frango;Monitorar peso
+766;766;2025-01-01;Proteína de frango;Acompanhamento de rotina
+767;767;2025-01-01;Não informada;Monitorar peso
+768;768;2025-01-01;Não informada;Monitorar peso
+769;769;2025-01-01;Proteína de frango;Monitorar peso
+770;770;2025-01-01;Proteína de frango;Manter vacinação atualizada
+771;771;2025-01-01;Não informada;Monitorar peso
+772;772;2025-01-01;Proteína de frango;Monitorar peso
+773;773;2025-01-01;Penicilina;Monitorar peso
+774;774;2025-01-01;Nenhuma;Acompanhamento de rotina
+775;775;2025-01-01;Nenhuma;Acompanhamento de rotina
+776;776;2025-01-01;Proteína de frango;Acompanhamento de rotina
+777;777;2025-01-01;Proteína de frango;Acompanhamento de rotina
+778;778;2025-01-01;Não informada;Manter vacinação atualizada
+779;779;2025-01-01;Proteína de frango;Monitorar peso
+780;780;2025-01-01;Nenhuma;Manter vacinação atualizada
+781;781;2025-01-01;Não informada;Monitorar peso
+782;782;2025-01-01;Nenhuma;Acompanhamento de rotina
+783;783;2025-01-01;Nenhuma;Manter vacinação atualizada
+784;784;2025-01-01;Proteína de frango;Monitorar peso
+785;785;2025-01-01;Não informada;Acompanhamento de rotina
+786;786;2025-01-01;Penicilina;Acompanhamento de rotina
+787;787;2025-01-01;Proteína de frango;Monitorar peso
+788;788;2025-01-01;Penicilina;Manter vacinação atualizada
+789;789;2025-01-01;Proteína de frango;Manter vacinação atualizada
+790;790;2025-01-01;Proteína de frango;Manter vacinação atualizada
+791;791;2025-01-01;Proteína de frango;Manter vacinação atualizada
+792;792;2025-01-01;Proteína de frango;Manter vacinação atualizada
+793;793;2025-01-01;Não informada;Manter vacinação atualizada
+794;794;2025-01-01;Nenhuma;Acompanhamento de rotina
+795;795;2025-01-01;Proteína de frango;Acompanhamento de rotina
+796;796;2025-01-01;Não informada;Monitorar peso
+797;797;2025-01-01;Nenhuma;Manter vacinação atualizada
+798;798;2025-01-01;Nenhuma;Manter vacinação atualizada
+799;799;2025-01-01;Penicilina;Monitorar peso
+800;800;2025-01-01;Penicilina;Monitorar peso

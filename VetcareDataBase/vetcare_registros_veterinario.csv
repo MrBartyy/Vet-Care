@@ -1,0 +1,501 @@
+﻿id_veterinario;nome_veterinario;crmv;especialidade
+1;João Pereira Souza;CRMV-SP 53905;Clínica geral
+2;Pedro Santos Costa;CRMV-SP 19296;Clínica geral
+3;Carlos Costa Souza;CRMV-SP 13639;Cardiologia
+4;Rafael Pereira Martins;CRMV-SP 60598;Cardiologia
+5;Carlos Martins Gomes;CRMV-SP 30024;Dermatologia
+6;Rafael Silva Pereira;CRMV-SP 28049;Cardiologia
+7;Beatriz Almeida Almeida;CRMV-SP 26628;Diagnóstico por imagem
+8;Ana Ferreira Ribeiro;CRMV-SP 21144;Diagnóstico por imagem
+9;Lucas Almeida Souza;CRMV-SP 60265;Dermatologia
+10;Carlos Ferreira Souza;CRMV-SP 18717;Diagnóstico por imagem
+11;Gabriel Martins Ferreira;CRMV-SP 56348;Cardiologia
+12;João Costa Souza;CRMV-SP 60540;Cirurgia
+13;Laura Souza Ferreira;CRMV-SP 47741;Cirurgia
+14;Ana Costa Oliveira;CRMV-SP 17697;Diagnóstico por imagem
+15;Lucas Pereira Martins;CRMV-SP 50698;Clínica geral
+16;Sofia Ribeiro Costa;CRMV-SP 39651;Cardiologia
+17;Juliana Almeida Almeida;CRMV-SP 14082;Cirurgia
+18;Camila Costa Gomes;CRMV-SP 13952;Clínica geral
+19;Maria Oliveira Oliveira;CRMV-SP 18140;Cardiologia
+20;Felipe Almeida Souza;CRMV-SP 26328;Cirurgia
+21;João Rodrigues Almeida;CRMV-SP 27247;Dermatologia
+22;Sofia Santos Costa;CRMV-SP 45118;Diagnóstico por imagem
+23;Gabriel Ribeiro Pereira;CRMV-SP 51453;Clínica geral
+24;Mariana Santos Ribeiro;CRMV-SP 13739;Diagnóstico por imagem
+25;Mariana Silva Martins;CRMV-SP 48781;Diagnóstico por imagem
+26;Sofia Silva Oliveira;CRMV-SP 25031;Dermatologia
+27;João Almeida Pereira;CRMV-SP 58925;Dermatologia
+28;Juliana Pereira Ribeiro;CRMV-SP 54590;Diagnóstico por imagem
+29;João Ferreira Silva;CRMV-SP 57962;Cardiologia
+30;Ana Oliveira Costa;CRMV-SP 47713;Cirurgia
+31;Felipe Oliveira Santos;CRMV-SP 39493;Dermatologia
+32;Laura Ferreira Martins;CRMV-SP 26446;Clínica geral
+33;Felipe Souza Oliveira;CRMV-SP 41439;Dermatologia
+34;Camila Almeida Martins;CRMV-SP 50618;Cirurgia
+35;Mariana Gomes Gomes;CRMV-SP 30231;Cardiologia
+36;Carlos Rodrigues Martins;CRMV-SP 12425;Cirurgia
+37;Rafael Souza Silva;CRMV-SP 61729;Dermatologia
+38;Gabriel Santos Almeida;CRMV-SP 64810;Diagnóstico por imagem
+39;Juliana Rodrigues Costa;CRMV-SP 22463;Diagnóstico por imagem
+40;Sofia Ferreira Ferreira;CRMV-SP 57753;Diagnóstico por imagem
+41;Maria Martins Santos;CRMV-SP 39696;Cardiologia
+42;Gabriel Costa Martins;CRMV-SP 34298;Cardiologia
+43;Felipe Gomes Oliveira;CRMV-SP 30210;Cirurgia
+44;Juliana Oliveira Gomes;CRMV-SP 22189;Cirurgia
+45;Gabriel Almeida Ribeiro;CRMV-SP 26110;Dermatologia
+46;Pedro Almeida Martins;CRMV-SP 62036;Clínica geral
+47;Juliana Oliveira Pereira;CRMV-SP 34059;Diagnóstico por imagem
+48;Camila Ribeiro Santos;CRMV-SP 18698;Dermatologia
+49;Sofia Almeida Rodrigues;CRMV-SP 18078;Clínica geral
+50;Beatriz Santos Santos;CRMV-SP 36898;Diagnóstico por imagem
+51;Bruno Almeida Ferreira;CRMV-SP 18338;Dermatologia
+52;Rafael Souza Rodrigues;CRMV-SP 35526;Clínica geral
+53;Gabriel Silva Santos;CRMV-SP 34541;Cirurgia
+54;Felipe Costa Martins;CRMV-SP 51565;Cirurgia
+55;Carlos Almeida Silva;CRMV-SP 29335;Clínica geral
+56;Rafael Santos Martins;CRMV-SP 64895;Dermatologia
+57;Bruno Ribeiro Martins;CRMV-SP 14847;Cirurgia
+58;Sofia Ferreira Santos;CRMV-SP 59823;Clínica geral
+59;Juliana Martins Ferreira;CRMV-SP 42108;Dermatologia
+60;Sofia Pereira Oliveira;CRMV-SP 47142;Dermatologia
+61;Ana Gomes Santos;CRMV-SP 20180;Dermatologia
+62;Camila Santos Rodrigues;CRMV-SP 36807;Cirurgia
+63;Mariana Santos Ribeiro;CRMV-SP 17164;Clínica geral
+64;Rafael Oliveira Ferreira;CRMV-SP 48178;Cardiologia
+65;Mariana Souza Martins;CRMV-SP 31213;Clínica geral
+66;Carlos Ferreira Martins;CRMV-SP 53198;Clínica geral
+67;Pedro Almeida Martins;CRMV-SP 52535;Cardiologia
+68;Gabriel Silva Gomes;CRMV-SP 35700;Clínica geral
+69;Maria Almeida Souza;CRMV-SP 49837;Dermatologia
+70;Beatriz Souza Souza;CRMV-SP 24601;Clínica geral
+71;Ana Almeida Silva;CRMV-SP 58174;Clínica geral
+72;Bruno Souza Ribeiro;CRMV-SP 16558;Clínica geral
+73;Juliana Santos Ribeiro;CRMV-SP 15003;Dermatologia
+74;Mariana Silva Almeida;CRMV-SP 55336;Diagnóstico por imagem
+75;Pedro Costa Costa;CRMV-SP 26935;Diagnóstico por imagem
+76;Carlos Gomes Souza;CRMV-SP 62663;Diagnóstico por imagem
+77;Felipe Almeida Santos;CRMV-SP 30965;Dermatologia
+78;Carlos Santos Costa;CRMV-SP 17229;Cardiologia
+79;Mariana Silva Almeida;CRMV-SP 27256;Cardiologia
+80;Ana Almeida Souza;CRMV-SP 18619;Cirurgia
+81;Juliana Santos Ribeiro;CRMV-SP 36911;Cardiologia
+82;Beatriz Silva Santos;CRMV-SP 30217;Dermatologia
+83;Laura Pereira Gomes;CRMV-SP 41714;Cirurgia
+84;Pedro Martins Rodrigues;CRMV-SP 53660;Diagnóstico por imagem
+85;Mariana Pereira Santos;CRMV-SP 35909;Diagnóstico por imagem
+86;Bruno Ribeiro Martins;CRMV-SP 22659;Cirurgia
+87;Lucas Costa Oliveira;CRMV-SP 36260;Cardiologia
+88;Sofia Santos Costa;CRMV-SP 35283;Clínica geral
+89;Gabriel Almeida Rodrigues;CRMV-SP 25730;Dermatologia
+90;Ana Souza Silva;CRMV-SP 55920;Diagnóstico por imagem
+91;Pedro Pereira Souza;CRMV-SP 29496;Cirurgia
+92;Juliana Gomes Santos;CRMV-SP 57994;Clínica geral
+93;Lucas Costa Ferreira;CRMV-SP 56796;Cardiologia
+94;Carlos Oliveira Almeida;CRMV-SP 54469;Dermatologia
+95;Maria Souza Martins;CRMV-SP 16679;Diagnóstico por imagem
+96;Gabriel Martins Costa;CRMV-SP 51920;Dermatologia
+97;Rafael Costa Ribeiro;CRMV-SP 53613;Clínica geral
+98;Laura Ribeiro Pereira;CRMV-SP 23215;Clínica geral
+99;Juliana Martins Costa;CRMV-SP 47005;Cardiologia
+100;Juliana Souza Rodrigues;CRMV-SP 59784;Clínica geral
+101;Juliana Ribeiro Martins;CRMV-SP 28043;Dermatologia
+102;Felipe Rodrigues Costa;CRMV-SP 22708;Dermatologia
+103;Gabriel Ribeiro Silva;CRMV-SP 42294;Clínica geral
+104;Sofia Santos Souza;CRMV-SP 36867;Clínica geral
+105;Lucas Souza Oliveira;CRMV-SP 29691;Clínica geral
+106;Mariana Gomes Rodrigues;CRMV-SP 53943;Dermatologia
+107;Juliana Rodrigues Santos;CRMV-SP 57099;Cirurgia
+108;Gabriel Pereira Oliveira;CRMV-SP 48500;Dermatologia
+109;Juliana Almeida Oliveira;CRMV-SP 26392;Diagnóstico por imagem
+110;Juliana Pereira Pereira;CRMV-SP 56866;Diagnóstico por imagem
+111;Gabriel Ribeiro Souza;CRMV-SP 33252;Cardiologia
+112;Sofia Santos Costa;CRMV-SP 62352;Cirurgia
+113;Felipe Oliveira Ferreira;CRMV-SP 62855;Cirurgia
+114;Laura Rodrigues Gomes;CRMV-SP 15665;Cirurgia
+115;Lucas Ferreira Silva;CRMV-SP 27010;Cirurgia
+116;Laura Santos Pereira;CRMV-SP 14103;Diagnóstico por imagem
+117;Lucas Rodrigues Martins;CRMV-SP 64759;Dermatologia
+118;Rafael Almeida Ferreira;CRMV-SP 32673;Cardiologia
+119;Gabriel Pereira Almeida;CRMV-SP 38290;Diagnóstico por imagem
+120;Sofia Santos Costa;CRMV-SP 29546;Dermatologia
+121;Sofia Souza Oliveira;CRMV-SP 16337;Dermatologia
+122;Ana Silva Rodrigues;CRMV-SP 25826;Cardiologia
+123;Sofia Almeida Almeida;CRMV-SP 49170;Cirurgia
+124;Beatriz Almeida Ferreira;CRMV-SP 59049;Cardiologia
+125;João Almeida Silva;CRMV-SP 32622;Clínica geral
+126;Felipe Gomes Oliveira;CRMV-SP 25934;Dermatologia
+127;Laura Pereira Martins;CRMV-SP 54954;Cardiologia
+128;Sofia Ribeiro Martins;CRMV-SP 44717;Cardiologia
+129;Maria Ribeiro Almeida;CRMV-SP 37928;Cirurgia
+130;Juliana Souza Ferreira;CRMV-SP 54129;Clínica geral
+131;Beatriz Ribeiro Martins;CRMV-SP 42071;Clínica geral
+132;Lucas Pereira Gomes;CRMV-SP 21363;Cirurgia
+133;Lucas Pereira Souza;CRMV-SP 29359;Diagnóstico por imagem
+134;Mariana Silva Santos;CRMV-SP 21150;Clínica geral
+135;Felipe Almeida Martins;CRMV-SP 28162;Diagnóstico por imagem
+136;João Rodrigues Souza;CRMV-SP 60823;Cirurgia
+137;Mariana Almeida Pereira;CRMV-SP 48789;Cardiologia
+138;Felipe Gomes Pereira;CRMV-SP 47322;Cirurgia
+139;João Santos Ribeiro;CRMV-SP 29219;Diagnóstico por imagem
+140;Beatriz Oliveira Pereira;CRMV-SP 60956;Dermatologia
+141;Felipe Martins Pereira;CRMV-SP 50311;Clínica geral
+142;Mariana Ferreira Silva;CRMV-SP 40077;Clínica geral
+143;João Martins Almeida;CRMV-SP 50242;Diagnóstico por imagem
+144;Laura Ribeiro Pereira;CRMV-SP 38175;Cirurgia
+145;Mariana Oliveira Costa;CRMV-SP 35723;Dermatologia
+146;Lucas Souza Ferreira;CRMV-SP 26373;Dermatologia
+147;Pedro Ferreira Gomes;CRMV-SP 21065;Dermatologia
+148;Mariana Souza Silva;CRMV-SP 45392;Dermatologia
+149;Carlos Pereira Almeida;CRMV-SP 44343;Cirurgia
+150;Pedro Ribeiro Oliveira;CRMV-SP 17957;Clínica geral
+151;Camila Santos Almeida;CRMV-SP 61530;Clínica geral
+152;Rafael Santos Costa;CRMV-SP 15087;Clínica geral
+153;Juliana Ferreira Ferreira;CRMV-SP 19185;Clínica geral
+154;Ana Silva Pereira;CRMV-SP 22016;Clínica geral
+155;Maria Santos Souza;CRMV-SP 53120;Diagnóstico por imagem
+156;Ana Almeida Gomes;CRMV-SP 22484;Diagnóstico por imagem
+157;Rafael Ferreira Ferreira;CRMV-SP 63909;Cardiologia
+158;Laura Costa Costa;CRMV-SP 56596;Cardiologia
+159;Bruno Souza Costa;CRMV-SP 39666;Cirurgia
+160;Felipe Gomes Silva;CRMV-SP 51086;Cardiologia
+161;Bruno Santos Silva;CRMV-SP 16163;Cirurgia
+162;Felipe Martins Oliveira;CRMV-SP 37216;Clínica geral
+163;Pedro Rodrigues Pereira;CRMV-SP 37009;Dermatologia
+164;Beatriz Ferreira Gomes;CRMV-SP 51052;Cirurgia
+165;Laura Ribeiro Souza;CRMV-SP 42674;Clínica geral
+166;Bruno Silva Ribeiro;CRMV-SP 46676;Cardiologia
+167;Maria Martins Costa;CRMV-SP 28476;Cirurgia
+168;Juliana Gomes Ferreira;CRMV-SP 48256;Cirurgia
+169;João Costa Almeida;CRMV-SP 12752;Cirurgia
+170;Pedro Martins Almeida;CRMV-SP 56583;Cardiologia
+171;Carlos Martins Oliveira;CRMV-SP 59233;Diagnóstico por imagem
+172;Maria Oliveira Ferreira;CRMV-SP 19507;Clínica geral
+173;Camila Ribeiro Rodrigues;CRMV-SP 56676;Cirurgia
+174;Mariana Ferreira Santos;CRMV-SP 47190;Cirurgia
+175;Juliana Souza Souza;CRMV-SP 61209;Dermatologia
+176;João Santos Almeida;CRMV-SP 29486;Clínica geral
+177;Mariana Costa Almeida;CRMV-SP 62370;Cardiologia
+178;Juliana Martins Pereira;CRMV-SP 54006;Cirurgia
+179;Pedro Ribeiro Oliveira;CRMV-SP 34293;Diagnóstico por imagem
+180;Sofia Santos Martins;CRMV-SP 19310;Cardiologia
+181;Juliana Gomes Gomes;CRMV-SP 31234;Clínica geral
+182;Bruno Almeida Martins;CRMV-SP 40492;Cirurgia
+183;Laura Souza Souza;CRMV-SP 22365;Cardiologia
+184;Pedro Pereira Santos;CRMV-SP 41735;Clínica geral
+185;João Costa Martins;CRMV-SP 12212;Diagnóstico por imagem
+186;Carlos Martins Santos;CRMV-SP 59323;Diagnóstico por imagem
+187;Beatriz Oliveira Costa;CRMV-SP 59164;Cirurgia
+188;Ana Pereira Silva;CRMV-SP 29261;Diagnóstico por imagem
+189;Carlos Almeida Almeida;CRMV-SP 44806;Cardiologia
+190;Beatriz Ribeiro Oliveira;CRMV-SP 61935;Diagnóstico por imagem
+191;Juliana Santos Almeida;CRMV-SP 23708;Clínica geral
+192;Gabriel Costa Oliveira;CRMV-SP 45271;Cardiologia
+193;Juliana Ferreira Ribeiro;CRMV-SP 18973;Cirurgia
+194;Lucas Gomes Pereira;CRMV-SP 52979;Dermatologia
+195;Maria Gomes Costa;CRMV-SP 31558;Cardiologia
+196;Pedro Pereira Martins;CRMV-SP 53874;Diagnóstico por imagem
+197;Sofia Ribeiro Souza;CRMV-SP 45270;Cirurgia
+198;Camila Martins Almeida;CRMV-SP 51909;Clínica geral
+199;Bruno Oliveira Martins;CRMV-SP 25035;Dermatologia
+200;Juliana Martins Martins;CRMV-SP 36504;Clínica geral
+201;Mariana Ferreira Martins;CRMV-SP 61971;Cirurgia
+202;Camila Ribeiro Oliveira;CRMV-SP 22587;Clínica geral
+203;Felipe Costa Almeida;CRMV-SP 47348;Cirurgia
+204;Beatriz Almeida Almeida;CRMV-SP 63028;Clínica geral
+205;Camila Pereira Martins;CRMV-SP 46757;Dermatologia
+206;Felipe Santos Oliveira;CRMV-SP 12037;Cardiologia
+207;Maria Martins Pereira;CRMV-SP 51252;Cirurgia
+208;Mariana Gomes Oliveira;CRMV-SP 33243;Cirurgia
+209;Sofia Pereira Oliveira;CRMV-SP 44021;Dermatologia
+210;Carlos Martins Souza;CRMV-SP 13276;Clínica geral
+211;Beatriz Martins Gomes;CRMV-SP 19331;Clínica geral
+212;Lucas Almeida Almeida;CRMV-SP 35788;Dermatologia
+213;Maria Santos Costa;CRMV-SP 64872;Cirurgia
+214;Mariana Silva Santos;CRMV-SP 32153;Diagnóstico por imagem
+215;Bruno Gomes Almeida;CRMV-SP 27692;Dermatologia
+216;Felipe Souza Silva;CRMV-SP 15796;Clínica geral
+217;Juliana Almeida Ferreira;CRMV-SP 27785;Cardiologia
+218;Mariana Ribeiro Martins;CRMV-SP 49182;Cirurgia
+219;João Ferreira Ribeiro;CRMV-SP 17161;Cirurgia
+220;Rafael Ribeiro Ribeiro;CRMV-SP 17613;Cirurgia
+221;Beatriz Silva Santos;CRMV-SP 59966;Clínica geral
+222;João Santos Ferreira;CRMV-SP 43849;Diagnóstico por imagem
+223;Juliana Silva Gomes;CRMV-SP 16535;Diagnóstico por imagem
+224;Sofia Pereira Martins;CRMV-SP 61846;Clínica geral
+225;Mariana Almeida Ferreira;CRMV-SP 46911;Cirurgia
+226;Camila Gomes Oliveira;CRMV-SP 62189;Clínica geral
+227;Bruno Santos Martins;CRMV-SP 20241;Diagnóstico por imagem
+228;Mariana Almeida Martins;CRMV-SP 20414;Clínica geral
+229;Felipe Rodrigues Rodrigues;CRMV-SP 55237;Diagnóstico por imagem
+230;Sofia Santos Rodrigues;CRMV-SP 43148;Diagnóstico por imagem
+231;Pedro Souza Ribeiro;CRMV-SP 48031;Clínica geral
+232;Mariana Gomes Martins;CRMV-SP 22821;Dermatologia
+233;Ana Rodrigues Ferreira;CRMV-SP 29370;Cardiologia
+234;Pedro Silva Oliveira;CRMV-SP 46581;Diagnóstico por imagem
+235;Carlos Ribeiro Oliveira;CRMV-SP 51753;Clínica geral
+236;Rafael Silva Santos;CRMV-SP 39730;Clínica geral
+237;Camila Costa Rodrigues;CRMV-SP 25880;Dermatologia
+238;Laura Ribeiro Silva;CRMV-SP 47343;Dermatologia
+239;Camila Silva Rodrigues;CRMV-SP 61497;Cardiologia
+240;Gabriel Oliveira Gomes;CRMV-SP 59836;Cirurgia
+241;Bruno Rodrigues Costa;CRMV-SP 57211;Diagnóstico por imagem
+242;Carlos Martins Santos;CRMV-SP 25182;Clínica geral
+243;Juliana Silva Souza;CRMV-SP 58723;Dermatologia
+244;Camila Souza Oliveira;CRMV-SP 32428;Diagnóstico por imagem
+245;Carlos Gomes Costa;CRMV-SP 38148;Cardiologia
+246;Lucas Martins Gomes;CRMV-SP 56019;Cirurgia
+247;João Rodrigues Pereira;CRMV-SP 36472;Cardiologia
+248;Felipe Ribeiro Oliveira;CRMV-SP 40711;Cirurgia
+249;Gabriel Santos Pereira;CRMV-SP 45919;Cirurgia
+250;Lucas Rodrigues Souza;CRMV-SP 41588;Clínica geral
+251;Rafael Ribeiro Martins;CRMV-SP 19930;Dermatologia
+252;Beatriz Gomes Ribeiro;CRMV-SP 28246;Diagnóstico por imagem
+253;Mariana Almeida Oliveira;CRMV-SP 26725;Cardiologia
+254;Laura Almeida Silva;CRMV-SP 16196;Diagnóstico por imagem
+255;Juliana Santos Pereira;CRMV-SP 34156;Clínica geral
+256;Pedro Ribeiro Rodrigues;CRMV-SP 13378;Cirurgia
+257;João Costa Ribeiro;CRMV-SP 50555;Clínica geral
+258;Beatriz Costa Pereira;CRMV-SP 48301;Dermatologia
+259;Juliana Pereira Silva;CRMV-SP 27080;Clínica geral
+260;Felipe Souza Almeida;CRMV-SP 50564;Clínica geral
+261;Pedro Oliveira Rodrigues;CRMV-SP 26432;Cardiologia
+262;Sofia Santos Rodrigues;CRMV-SP 12471;Cardiologia
+263;Camila Rodrigues Pereira;CRMV-SP 16652;Diagnóstico por imagem
+264;Pedro Silva Oliveira;CRMV-SP 58389;Cardiologia
+265;Felipe Oliveira Costa;CRMV-SP 53359;Diagnóstico por imagem
+266;Felipe Ferreira Gomes;CRMV-SP 15858;Dermatologia
+267;Rafael Silva Ribeiro;CRMV-SP 27003;Diagnóstico por imagem
+268;Lucas Ribeiro Oliveira;CRMV-SP 16417;Dermatologia
+269;Felipe Gomes Martins;CRMV-SP 14058;Cardiologia
+270;Maria Martins Ribeiro;CRMV-SP 33654;Cardiologia
+271;Juliana Ribeiro Gomes;CRMV-SP 16643;Cirurgia
+272;Gabriel Oliveira Ferreira;CRMV-SP 45695;Cardiologia
+273;Gabriel Rodrigues Pereira;CRMV-SP 27597;Cardiologia
+274;Laura Rodrigues Martins;CRMV-SP 30250;Dermatologia
+275;Camila Ribeiro Santos;CRMV-SP 55842;Cardiologia
+276;Laura Costa Santos;CRMV-SP 43812;Clínica geral
+277;João Martins Souza;CRMV-SP 26040;Clínica geral
+278;Mariana Gomes Silva;CRMV-SP 47339;Clínica geral
+279;Camila Rodrigues Ferreira;CRMV-SP 20671;Clínica geral
+280;Laura Ribeiro Rodrigues;CRMV-SP 59405;Dermatologia
+281;Sofia Ferreira Rodrigues;CRMV-SP 49423;Diagnóstico por imagem
+282;Pedro Almeida Silva;CRMV-SP 49762;Diagnóstico por imagem
+283;Carlos Martins Silva;CRMV-SP 42976;Cirurgia
+284;Beatriz Souza Martins;CRMV-SP 27925;Diagnóstico por imagem
+285;Maria Gomes Ferreira;CRMV-SP 63420;Dermatologia
+286;Juliana Oliveira Santos;CRMV-SP 42996;Cardiologia
+287;Lucas Rodrigues Costa;CRMV-SP 64920;Clínica geral
+288;Laura Ferreira Almeida;CRMV-SP 38677;Dermatologia
+289;Beatriz Santos Costa;CRMV-SP 24478;Dermatologia
+290;Pedro Pereira Pereira;CRMV-SP 18181;Cirurgia
+291;Camila Pereira Souza;CRMV-SP 18352;Clínica geral
+292;Felipe Souza Pereira;CRMV-SP 55187;Diagnóstico por imagem
+293;Maria Ferreira Gomes;CRMV-SP 40249;Cirurgia
+294;Maria Costa Silva;CRMV-SP 35219;Diagnóstico por imagem
+295;Gabriel Costa Pereira;CRMV-SP 39759;Cardiologia
+296;Pedro Silva Costa;CRMV-SP 38941;Dermatologia
+297;Felipe Costa Silva;CRMV-SP 42606;Clínica geral
+298;Laura Ferreira Souza;CRMV-SP 59780;Clínica geral
+299;Lucas Almeida Santos;CRMV-SP 15550;Cirurgia
+300;Ana Oliveira Ribeiro;CRMV-SP 56129;Cardiologia
+301;Juliana Ferreira Almeida;CRMV-SP 54824;Cardiologia
+302;Camila Costa Almeida;CRMV-SP 54348;Dermatologia
+303;Rafael Santos Ferreira;CRMV-SP 18449;Cirurgia
+304;Mariana Oliveira Costa;CRMV-SP 15972;Cirurgia
+305;Ana Costa Martins;CRMV-SP 38386;Dermatologia
+306;Pedro Souza Pereira;CRMV-SP 59724;Clínica geral
+307;Lucas Almeida Almeida;CRMV-SP 34236;Cardiologia
+308;Maria Oliveira Ribeiro;CRMV-SP 64467;Dermatologia
+309;Sofia Ribeiro Pereira;CRMV-SP 19161;Clínica geral
+310;Laura Ferreira Rodrigues;CRMV-SP 28295;Cirurgia
+311;Lucas Costa Almeida;CRMV-SP 24556;Diagnóstico por imagem
+312;Felipe Oliveira Santos;CRMV-SP 24465;Clínica geral
+313;Ana Oliveira Oliveira;CRMV-SP 47146;Cardiologia
+314;Ana Ribeiro Souza;CRMV-SP 41400;Clínica geral
+315;Bruno Almeida Gomes;CRMV-SP 21186;Clínica geral
+316;Laura Ferreira Pereira;CRMV-SP 39648;Cardiologia
+317;Sofia Santos Almeida;CRMV-SP 24025;Dermatologia
+318;Lucas Martins Rodrigues;CRMV-SP 30254;Dermatologia
+319;Juliana Pereira Santos;CRMV-SP 42318;Cardiologia
+320;Juliana Ribeiro Almeida;CRMV-SP 28371;Dermatologia
+321;Sofia Martins Santos;CRMV-SP 16940;Diagnóstico por imagem
+322;Mariana Souza Gomes;CRMV-SP 41041;Dermatologia
+323;Juliana Santos Oliveira;CRMV-SP 64954;Cirurgia
+324;Maria Pereira Souza;CRMV-SP 48066;Dermatologia
+325;Laura Silva Gomes;CRMV-SP 18416;Dermatologia
+326;João Silva Almeida;CRMV-SP 15315;Cirurgia
+327;Camila Martins Ribeiro;CRMV-SP 54738;Dermatologia
+328;Juliana Costa Almeida;CRMV-SP 47427;Cirurgia
+329;Maria Rodrigues Almeida;CRMV-SP 12967;Clínica geral
+330;Camila Santos Pereira;CRMV-SP 18112;Cardiologia
+331;Rafael Costa Martins;CRMV-SP 61385;Cirurgia
+332;Juliana Costa Silva;CRMV-SP 27491;Dermatologia
+333;Maria Silva Silva;CRMV-SP 22899;Cardiologia
+334;Carlos Pereira Ferreira;CRMV-SP 38634;Cardiologia
+335;Pedro Almeida Oliveira;CRMV-SP 43826;Cardiologia
+336;Sofia Costa Costa;CRMV-SP 43546;Cardiologia
+337;Pedro Santos Ribeiro;CRMV-SP 26008;Clínica geral
+338;Lucas Costa Costa;CRMV-SP 38282;Cardiologia
+339;Beatriz Souza Ribeiro;CRMV-SP 15842;Cardiologia
+340;Carlos Gomes Almeida;CRMV-SP 22789;Clínica geral
+341;Pedro Oliveira Ribeiro;CRMV-SP 36836;Diagnóstico por imagem
+342;Pedro Silva Gomes;CRMV-SP 12141;Dermatologia
+343;Carlos Martins Ferreira;CRMV-SP 37586;Clínica geral
+344;João Rodrigues Gomes;CRMV-SP 29380;Cardiologia
+345;Camila Martins Ferreira;CRMV-SP 63384;Dermatologia
+346;Lucas Silva Oliveira;CRMV-SP 63454;Dermatologia
+347;Laura Rodrigues Martins;CRMV-SP 41819;Cardiologia
+348;Beatriz Costa Ferreira;CRMV-SP 30694;Clínica geral
+349;Laura Santos Ferreira;CRMV-SP 39722;Cirurgia
+350;Ana Oliveira Gomes;CRMV-SP 57651;Cardiologia
+351;Lucas Pereira Silva;CRMV-SP 59874;Diagnóstico por imagem
+352;Maria Martins Souza;CRMV-SP 63338;Cirurgia
+353;Sofia Ribeiro Rodrigues;CRMV-SP 48422;Diagnóstico por imagem
+354;João Oliveira Ferreira;CRMV-SP 55376;Diagnóstico por imagem
+355;Felipe Rodrigues Almeida;CRMV-SP 59081;Cirurgia
+356;Rafael Souza Oliveira;CRMV-SP 43894;Clínica geral
+357;Mariana Gomes Souza;CRMV-SP 22144;Diagnóstico por imagem
+358;Ana Rodrigues Ferreira;CRMV-SP 24445;Diagnóstico por imagem
+359;Rafael Pereira Souza;CRMV-SP 31445;Cardiologia
+360;Rafael Rodrigues Santos;CRMV-SP 26267;Dermatologia
+361;Juliana Silva Rodrigues;CRMV-SP 15832;Dermatologia
+362;Camila Silva Ribeiro;CRMV-SP 49957;Dermatologia
+363;Rafael Oliveira Pereira;CRMV-SP 60217;Clínica geral
+364;Juliana Souza Rodrigues;CRMV-SP 47533;Clínica geral
+365;Ana Ribeiro Costa;CRMV-SP 15994;Diagnóstico por imagem
+366;Beatriz Costa Santos;CRMV-SP 61019;Diagnóstico por imagem
+367;Rafael Martins Oliveira;CRMV-SP 32552;Cirurgia
+368;Camila Costa Silva;CRMV-SP 15746;Clínica geral
+369;Beatriz Souza Martins;CRMV-SP 15286;Cardiologia
+370;Mariana Pereira Silva;CRMV-SP 50284;Diagnóstico por imagem
+371;Pedro Martins Martins;CRMV-SP 43246;Cirurgia
+372;Rafael Ribeiro Ribeiro;CRMV-SP 44954;Diagnóstico por imagem
+373;Carlos Ferreira Souza;CRMV-SP 46807;Cardiologia
+374;Rafael Souza Gomes;CRMV-SP 22317;Cirurgia
+375;Lucas Ferreira Souza;CRMV-SP 15727;Cirurgia
+376;Beatriz Oliveira Ferreira;CRMV-SP 45281;Clínica geral
+377;Sofia Oliveira Ferreira;CRMV-SP 17250;Dermatologia
+378;Mariana Souza Gomes;CRMV-SP 24178;Cirurgia
+379;Mariana Ribeiro Pereira;CRMV-SP 16490;Clínica geral
+380;Camila Oliveira Oliveira;CRMV-SP 50996;Cirurgia
+381;Carlos Santos Oliveira;CRMV-SP 16453;Clínica geral
+382;Laura Souza Ferreira;CRMV-SP 56250;Cirurgia
+383;Pedro Martins Rodrigues;CRMV-SP 27414;Dermatologia
+384;Ana Gomes Santos;CRMV-SP 38461;Cirurgia
+385;Felipe Silva Santos;CRMV-SP 19856;Clínica geral
+386;Maria Oliveira Souza;CRMV-SP 49334;Clínica geral
+387;Rafael Oliveira Ribeiro;CRMV-SP 28135;Diagnóstico por imagem
+388;Ana Silva Santos;CRMV-SP 49940;Diagnóstico por imagem
+389;Bruno Martins Santos;CRMV-SP 50962;Dermatologia
+390;Lucas Ferreira Gomes;CRMV-SP 14604;Cirurgia
+391;Mariana Pereira Costa;CRMV-SP 52591;Cirurgia
+392;Lucas Souza Silva;CRMV-SP 17372;Diagnóstico por imagem
+393;Rafael Ribeiro Rodrigues;CRMV-SP 39474;Clínica geral
+394;Ana Silva Santos;CRMV-SP 55081;Diagnóstico por imagem
+395;Camila Santos Rodrigues;CRMV-SP 50251;Cirurgia
+396;Lucas Silva Souza;CRMV-SP 49042;Clínica geral
+397;Juliana Almeida Almeida;CRMV-SP 46261;Dermatologia
+398;Beatriz Ribeiro Pereira;CRMV-SP 32733;Dermatologia
+399;Felipe Ribeiro Martins;CRMV-SP 29089;Clínica geral
+400;Sofia Oliveira Santos;CRMV-SP 25386;Dermatologia
+401;Pedro Pereira Costa;CRMV-SP 55891;Clínica geral
+402;Bruno Santos Costa;CRMV-SP 58936;Clínica geral
+403;Maria Gomes Oliveira;CRMV-SP 32590;Dermatologia
+404;Laura Rodrigues Costa;CRMV-SP 27642;Diagnóstico por imagem
+405;Mariana Ribeiro Almeida;CRMV-SP 29407;Dermatologia
+406;Camila Gomes Pereira;CRMV-SP 37938;Cardiologia
+407;Pedro Pereira Ferreira;CRMV-SP 20577;Cardiologia
+408;Rafael Martins Santos;CRMV-SP 54303;Clínica geral
+409;Lucas Ribeiro Oliveira;CRMV-SP 31660;Cardiologia
+410;Lucas Almeida Ferreira;CRMV-SP 41964;Cirurgia
+411;João Santos Gomes;CRMV-SP 32720;Cirurgia
+412;Rafael Oliveira Santos;CRMV-SP 61274;Cardiologia
+413;Lucas Oliveira Almeida;CRMV-SP 16754;Cardiologia
+414;Bruno Ferreira Almeida;CRMV-SP 12610;Cirurgia
+415;Laura Gomes Ribeiro;CRMV-SP 42034;Cardiologia
+416;Lucas Ribeiro Souza;CRMV-SP 52708;Cirurgia
+417;Laura Rodrigues Ferreira;CRMV-SP 48896;Diagnóstico por imagem
+418;Sofia Rodrigues Rodrigues;CRMV-SP 18552;Dermatologia
+419;Felipe Santos Gomes;CRMV-SP 16801;Cirurgia
+420;Juliana Martins Santos;CRMV-SP 47234;Dermatologia
+421;Beatriz Silva Souza;CRMV-SP 25969;Clínica geral
+422;Beatriz Rodrigues Ferreira;CRMV-SP 45153;Dermatologia
+423;Pedro Silva Costa;CRMV-SP 20680;Cardiologia
+424;Lucas Pereira Ferreira;CRMV-SP 34872;Dermatologia
+425;Laura Souza Souza;CRMV-SP 16508;Dermatologia
+426;Maria Martins Oliveira;CRMV-SP 28009;Clínica geral
+427;Lucas Almeida Martins;CRMV-SP 36217;Clínica geral
+428;Laura Costa Silva;CRMV-SP 30676;Clínica geral
+429;João Ferreira Gomes;CRMV-SP 22338;Dermatologia
+430;Ana Oliveira Costa;CRMV-SP 40716;Dermatologia
+431;João Souza Santos;CRMV-SP 47600;Clínica geral
+432;Laura Oliveira Oliveira;CRMV-SP 58107;Cirurgia
+433;Lucas Martins Rodrigues;CRMV-SP 31825;Cardiologia
+434;Sofia Almeida Martins;CRMV-SP 52086;Cardiologia
+435;Gabriel Ribeiro Martins;CRMV-SP 64894;Clínica geral
+436;Camila Santos Oliveira;CRMV-SP 54858;Clínica geral
+437;Maria Gomes Oliveira;CRMV-SP 46664;Diagnóstico por imagem
+438;Mariana Silva Almeida;CRMV-SP 12512;Cirurgia
+439;Gabriel Rodrigues Martins;CRMV-SP 55769;Cardiologia
+440;Camila Martins Souza;CRMV-SP 48346;Cirurgia
+441;Mariana Pereira Santos;CRMV-SP 31620;Diagnóstico por imagem
+442;Felipe Oliveira Martins;CRMV-SP 55475;Dermatologia
+443;Felipe Gomes Silva;CRMV-SP 18788;Dermatologia
+444;Felipe Oliveira Martins;CRMV-SP 20800;Diagnóstico por imagem
+445;João Martins Ferreira;CRMV-SP 29332;Cirurgia
+446;Bruno Ribeiro Ribeiro;CRMV-SP 19564;Cirurgia
+447;Felipe Oliveira Silva;CRMV-SP 19014;Cardiologia
+448;Laura Souza Pereira;CRMV-SP 60655;Clínica geral
+449;Pedro Santos Costa;CRMV-SP 22187;Diagnóstico por imagem
+450;Bruno Silva Souza;CRMV-SP 29848;Cardiologia
+451;Mariana Rodrigues Santos;CRMV-SP 30465;Clínica geral
+452;Carlos Gomes Silva;CRMV-SP 51638;Cardiologia
+453;Carlos Rodrigues Souza;CRMV-SP 25803;Clínica geral
+454;Juliana Pereira Santos;CRMV-SP 59029;Diagnóstico por imagem
+455;Maria Gomes Ferreira;CRMV-SP 34471;Clínica geral
+456;Maria Costa Santos;CRMV-SP 25342;Cardiologia
+457;Ana Costa Pereira;CRMV-SP 57055;Cirurgia
+458;Carlos Costa Almeida;CRMV-SP 53565;Cardiologia
+459;Lucas Martins Ribeiro;CRMV-SP 29300;Clínica geral
+460;Bruno Almeida Martins;CRMV-SP 45122;Diagnóstico por imagem
+461;Pedro Rodrigues Oliveira;CRMV-SP 44016;Clínica geral
+462;Felipe Ferreira Gomes;CRMV-SP 28457;Clínica geral
+463;Camila Oliveira Oliveira;CRMV-SP 15329;Cirurgia
+464;João Ribeiro Santos;CRMV-SP 18048;Dermatologia
+465;Carlos Ribeiro Ribeiro;CRMV-SP 53568;Dermatologia
+466;Mariana Rodrigues Rodrigues;CRMV-SP 30132;Diagnóstico por imagem
+467;Bruno Ferreira Oliveira;CRMV-SP 14889;Cardiologia
+468;Camila Costa Gomes;CRMV-SP 12232;Cirurgia
+469;Maria Martins Ribeiro;CRMV-SP 33859;Cirurgia
+470;Juliana Souza Gomes;CRMV-SP 62536;Diagnóstico por imagem
+471;João Oliveira Gomes;CRMV-SP 20573;Cirurgia
+472;Pedro Silva Oliveira;CRMV-SP 53753;Cardiologia
+473;João Ferreira Santos;CRMV-SP 29167;Cirurgia
+474;Bruno Oliveira Pereira;CRMV-SP 22589;Dermatologia
+475;João Pereira Gomes;CRMV-SP 60577;Cardiologia
+476;Beatriz Santos Santos;CRMV-SP 40956;Dermatologia
+477;Gabriel Pereira Ferreira;CRMV-SP 48154;Cardiologia
+478;Gabriel Ribeiro Oliveira;CRMV-SP 58246;Clínica geral
+479;Sofia Silva Costa;CRMV-SP 40028;Cardiologia
+480;Felipe Almeida Gomes;CRMV-SP 48759;Dermatologia
+481;Gabriel Costa Rodrigues;CRMV-SP 12633;Diagnóstico por imagem
+482;Bruno Costa Santos;CRMV-SP 16931;Cirurgia
+483;Gabriel Pereira Ribeiro;CRMV-SP 57286;Clínica geral
+484;Maria Martins Souza;CRMV-SP 21768;Diagnóstico por imagem
+485;Ana Oliveira Santos;CRMV-SP 47755;Cardiologia
+486;Felipe Oliveira Gomes;CRMV-SP 14361;Cirurgia
+487;João Souza Almeida;CRMV-SP 36196;Cirurgia
+488;João Costa Ferreira;CRMV-SP 50175;Cirurgia
+489;Gabriel Santos Santos;CRMV-SP 48210;Dermatologia
+490;Pedro Almeida Almeida;CRMV-SP 21705;Dermatologia
+491;Felipe Costa Santos;CRMV-SP 40166;Cardiologia
+492;Bruno Gomes Ferreira;CRMV-SP 20352;Dermatologia
+493;Sofia Santos Pereira;CRMV-SP 14741;Cirurgia
+494;Maria Rodrigues Oliveira;CRMV-SP 32202;Cirurgia
+495;Lucas Ribeiro Souza;CRMV-SP 35897;Cardiologia
+496;Maria Gomes Almeida;CRMV-SP 64174;Clínica geral
+497;Beatriz Almeida Ferreira;CRMV-SP 14614;Dermatologia
+498;Maria Souza Silva;CRMV-SP 35449;Cirurgia
+499;Rafael Pereira Ribeiro;CRMV-SP 25767;Dermatologia
+500;João Oliveira Santos;CRMV-SP 56699;Cardiologia

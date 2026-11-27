@@ -1,0 +1,501 @@
+﻿id_procedimento;nome_procedimento;descricao;valor
+1;Consulta clínica - modalidade 01;"Consulta clínica; modalidade de catálogo acadêmico 01";295.00
+2;Hemograma - modalidade 01;"Hemograma; modalidade de catálogo acadêmico 01";90.00
+3;Ultrassonografia - modalidade 01;"Ultrassonografia; modalidade de catálogo acadêmico 01";230.00
+4;Radiografia - modalidade 01;"Radiografia; modalidade de catálogo acadêmico 01";325.00
+5;Exame de urina - modalidade 01;"Exame de urina; modalidade de catálogo acadêmico 01";305.00
+6;Exame de fezes - modalidade 01;"Exame de fezes; modalidade de catálogo acadêmico 01";375.00
+7;Avaliação dermatológica - modalidade 01;"Avaliação dermatológica; modalidade de catálogo acadêmico 01";175.00
+8;Avaliação cardiológica - modalidade 01;"Avaliação cardiológica; modalidade de catálogo acadêmico 01";205.00
+9;Limpeza dentária - modalidade 01;"Limpeza dentária; modalidade de catálogo acadêmico 01";155.00
+10;Vacinação antirrábica - modalidade 01;"Vacinação antirrábica; modalidade de catálogo acadêmico 01";70.00
+11;Perfil renal - modalidade 01;"Perfil renal; modalidade de catálogo acadêmico 01";95.00
+12;Perfil hepático - modalidade 01;"Perfil hepático; modalidade de catálogo acadêmico 01";310.00
+13;Curativo - modalidade 01;"Curativo; modalidade de catálogo acadêmico 01";255.00
+14;Aferição de pressão - modalidade 01;"Aferição de pressão; modalidade de catálogo acadêmico 01";230.00
+15;Glicemia - modalidade 01;"Glicemia; modalidade de catálogo acadêmico 01";145.00
+16;Citologia - modalidade 01;"Citologia; modalidade de catálogo acadêmico 01";165.00
+17;Cultura bacteriana - modalidade 01;"Cultura bacteriana; modalidade de catálogo acadêmico 01";260.00
+18;Teste de sensibilidade - modalidade 01;"Teste de sensibilidade; modalidade de catálogo acadêmico 01";305.00
+19;Avaliação nutricional - modalidade 01;"Avaliação nutricional; modalidade de catálogo acadêmico 01";345.00
+20;Retorno clínico - modalidade 01;"Retorno clínico; modalidade de catálogo acadêmico 01";340.00
+21;Ecocardiograma - modalidade 01;"Ecocardiograma; modalidade de catálogo acadêmico 01";380.00
+22;Eletrocardiograma - modalidade 01;"Eletrocardiograma; modalidade de catálogo acadêmico 01";140.00
+23;Exame oftalmológico - modalidade 01;"Exame oftalmológico; modalidade de catálogo acadêmico 01";315.00
+24;Exame otológico - modalidade 01;"Exame otológico; modalidade de catálogo acadêmico 01";265.00
+25;Avaliação ortopédica - modalidade 01;"Avaliação ortopédica; modalidade de catálogo acadêmico 01";285.00
+26;Consulta clínica - modalidade 02;"Consulta clínica; modalidade de catálogo acadêmico 02";45.00
+27;Hemograma - modalidade 02;"Hemograma; modalidade de catálogo acadêmico 02";395.00
+28;Ultrassonografia - modalidade 02;"Ultrassonografia; modalidade de catálogo acadêmico 02";165.00
+29;Radiografia - modalidade 02;"Radiografia; modalidade de catálogo acadêmico 02";85.00
+30;Exame de urina - modalidade 02;"Exame de urina; modalidade de catálogo acadêmico 02";130.00
+31;Exame de fezes - modalidade 02;"Exame de fezes; modalidade de catálogo acadêmico 02";245.00
+32;Avaliação dermatológica - modalidade 02;"Avaliação dermatológica; modalidade de catálogo acadêmico 02";240.00
+33;Avaliação cardiológica - modalidade 02;"Avaliação cardiológica; modalidade de catálogo acadêmico 02";45.00
+34;Limpeza dentária - modalidade 02;"Limpeza dentária; modalidade de catálogo acadêmico 02";135.00
+35;Vacinação antirrábica - modalidade 02;"Vacinação antirrábica; modalidade de catálogo acadêmico 02";330.00
+36;Perfil renal - modalidade 02;"Perfil renal; modalidade de catálogo acadêmico 02";130.00
+37;Perfil hepático - modalidade 02;"Perfil hepático; modalidade de catálogo acadêmico 02";355.00
+38;Curativo - modalidade 02;"Curativo; modalidade de catálogo acadêmico 02";240.00
+39;Aferição de pressão - modalidade 02;"Aferição de pressão; modalidade de catálogo acadêmico 02";110.00
+40;Glicemia - modalidade 02;"Glicemia; modalidade de catálogo acadêmico 02";300.00
+41;Citologia - modalidade 02;"Citologia; modalidade de catálogo acadêmico 02";205.00
+42;Cultura bacteriana - modalidade 02;"Cultura bacteriana; modalidade de catálogo acadêmico 02";370.00
+43;Teste de sensibilidade - modalidade 02;"Teste de sensibilidade; modalidade de catálogo acadêmico 02";40.00
+44;Avaliação nutricional - modalidade 02;"Avaliação nutricional; modalidade de catálogo acadêmico 02";325.00
+45;Retorno clínico - modalidade 02;"Retorno clínico; modalidade de catálogo acadêmico 02";120.00
+46;Ecocardiograma - modalidade 02;"Ecocardiograma; modalidade de catálogo acadêmico 02";325.00
+47;Eletrocardiograma - modalidade 02;"Eletrocardiograma; modalidade de catálogo acadêmico 02";100.00
+48;Exame oftalmológico - modalidade 02;"Exame oftalmológico; modalidade de catálogo acadêmico 02";60.00
+49;Exame otológico - modalidade 02;"Exame otológico; modalidade de catálogo acadêmico 02";175.00
+50;Avaliação ortopédica - modalidade 02;"Avaliação ortopédica; modalidade de catálogo acadêmico 02";160.00
+51;Consulta clínica - modalidade 03;"Consulta clínica; modalidade de catálogo acadêmico 03";305.00
+52;Hemograma - modalidade 03;"Hemograma; modalidade de catálogo acadêmico 03";385.00
+53;Ultrassonografia - modalidade 03;"Ultrassonografia; modalidade de catálogo acadêmico 03";145.00
+54;Radiografia - modalidade 03;"Radiografia; modalidade de catálogo acadêmico 03";280.00
+55;Exame de urina - modalidade 03;"Exame de urina; modalidade de catálogo acadêmico 03";175.00
+56;Exame de fezes - modalidade 03;"Exame de fezes; modalidade de catálogo acadêmico 03";260.00
+57;Avaliação dermatológica - modalidade 03;"Avaliação dermatológica; modalidade de catálogo acadêmico 03";170.00
+58;Avaliação cardiológica - modalidade 03;"Avaliação cardiológica; modalidade de catálogo acadêmico 03";160.00
+59;Limpeza dentária - modalidade 03;"Limpeza dentária; modalidade de catálogo acadêmico 03";45.00
+60;Vacinação antirrábica - modalidade 03;"Vacinação antirrábica; modalidade de catálogo acadêmico 03";275.00
+61;Perfil renal - modalidade 03;"Perfil renal; modalidade de catálogo acadêmico 03";270.00
+62;Perfil hepático - modalidade 03;"Perfil hepático; modalidade de catálogo acadêmico 03";50.00
+63;Curativo - modalidade 03;"Curativo; modalidade de catálogo acadêmico 03";230.00
+64;Aferição de pressão - modalidade 03;"Aferição de pressão; modalidade de catálogo acadêmico 03";235.00
+65;Glicemia - modalidade 03;"Glicemia; modalidade de catálogo acadêmico 03";360.00
+66;Citologia - modalidade 03;"Citologia; modalidade de catálogo acadêmico 03";115.00
+67;Cultura bacteriana - modalidade 03;"Cultura bacteriana; modalidade de catálogo acadêmico 03";355.00
+68;Teste de sensibilidade - modalidade 03;"Teste de sensibilidade; modalidade de catálogo acadêmico 03";330.00
+69;Avaliação nutricional - modalidade 03;"Avaliação nutricional; modalidade de catálogo acadêmico 03";300.00
+70;Retorno clínico - modalidade 03;"Retorno clínico; modalidade de catálogo acadêmico 03";300.00
+71;Ecocardiograma - modalidade 03;"Ecocardiograma; modalidade de catálogo acadêmico 03";265.00
+72;Eletrocardiograma - modalidade 03;"Eletrocardiograma; modalidade de catálogo acadêmico 03";265.00
+73;Exame oftalmológico - modalidade 03;"Exame oftalmológico; modalidade de catálogo acadêmico 03";385.00
+74;Exame otológico - modalidade 03;"Exame otológico; modalidade de catálogo acadêmico 03";310.00
+75;Avaliação ortopédica - modalidade 03;"Avaliação ortopédica; modalidade de catálogo acadêmico 03";370.00
+76;Consulta clínica - modalidade 04;"Consulta clínica; modalidade de catálogo acadêmico 04";250.00
+77;Hemograma - modalidade 04;"Hemograma; modalidade de catálogo acadêmico 04";110.00
+78;Ultrassonografia - modalidade 04;"Ultrassonografia; modalidade de catálogo acadêmico 04";150.00
+79;Radiografia - modalidade 04;"Radiografia; modalidade de catálogo acadêmico 04";330.00
+80;Exame de urina - modalidade 04;"Exame de urina; modalidade de catálogo acadêmico 04";310.00
+81;Exame de fezes - modalidade 04;"Exame de fezes; modalidade de catálogo acadêmico 04";275.00
+82;Avaliação dermatológica - modalidade 04;"Avaliação dermatológica; modalidade de catálogo acadêmico 04";150.00
+83;Avaliação cardiológica - modalidade 04;"Avaliação cardiológica; modalidade de catálogo acadêmico 04";390.00
+84;Limpeza dentária - modalidade 04;"Limpeza dentária; modalidade de catálogo acadêmico 04";140.00
+85;Vacinação antirrábica - modalidade 04;"Vacinação antirrábica; modalidade de catálogo acadêmico 04";385.00
+86;Perfil renal - modalidade 04;"Perfil renal; modalidade de catálogo acadêmico 04";315.00
+87;Perfil hepático - modalidade 04;"Perfil hepático; modalidade de catálogo acadêmico 04";280.00
+88;Curativo - modalidade 04;"Curativo; modalidade de catálogo acadêmico 04";220.00
+89;Aferição de pressão - modalidade 04;"Aferição de pressão; modalidade de catálogo acadêmico 04";315.00
+90;Glicemia - modalidade 04;"Glicemia; modalidade de catálogo acadêmico 04";220.00
+91;Citologia - modalidade 04;"Citologia; modalidade de catálogo acadêmico 04";100.00
+92;Cultura bacteriana - modalidade 04;"Cultura bacteriana; modalidade de catálogo acadêmico 04";95.00
+93;Teste de sensibilidade - modalidade 04;"Teste de sensibilidade; modalidade de catálogo acadêmico 04";105.00
+94;Avaliação nutricional - modalidade 04;"Avaliação nutricional; modalidade de catálogo acadêmico 04";95.00
+95;Retorno clínico - modalidade 04;"Retorno clínico; modalidade de catálogo acadêmico 04";50.00
+96;Ecocardiograma - modalidade 04;"Ecocardiograma; modalidade de catálogo acadêmico 04";300.00
+97;Eletrocardiograma - modalidade 04;"Eletrocardiograma; modalidade de catálogo acadêmico 04";105.00
+98;Exame oftalmológico - modalidade 04;"Exame oftalmológico; modalidade de catálogo acadêmico 04";355.00
+99;Exame otológico - modalidade 04;"Exame otológico; modalidade de catálogo acadêmico 04";385.00
+100;Avaliação ortopédica - modalidade 04;"Avaliação ortopédica; modalidade de catálogo acadêmico 04";100.00
+101;Consulta clínica - modalidade 05;"Consulta clínica; modalidade de catálogo acadêmico 05";320.00
+102;Hemograma - modalidade 05;"Hemograma; modalidade de catálogo acadêmico 05";360.00
+103;Ultrassonografia - modalidade 05;"Ultrassonografia; modalidade de catálogo acadêmico 05";60.00
+104;Radiografia - modalidade 05;"Radiografia; modalidade de catálogo acadêmico 05";225.00
+105;Exame de urina - modalidade 05;"Exame de urina; modalidade de catálogo acadêmico 05";305.00
+106;Exame de fezes - modalidade 05;"Exame de fezes; modalidade de catálogo acadêmico 05";175.00
+107;Avaliação dermatológica - modalidade 05;"Avaliação dermatológica; modalidade de catálogo acadêmico 05";180.00
+108;Avaliação cardiológica - modalidade 05;"Avaliação cardiológica; modalidade de catálogo acadêmico 05";330.00
+109;Limpeza dentária - modalidade 05;"Limpeza dentária; modalidade de catálogo acadêmico 05";390.00
+110;Vacinação antirrábica - modalidade 05;"Vacinação antirrábica; modalidade de catálogo acadêmico 05";280.00
+111;Perfil renal - modalidade 05;"Perfil renal; modalidade de catálogo acadêmico 05";110.00
+112;Perfil hepático - modalidade 05;"Perfil hepático; modalidade de catálogo acadêmico 05";165.00
+113;Curativo - modalidade 05;"Curativo; modalidade de catálogo acadêmico 05";340.00
+114;Aferição de pressão - modalidade 05;"Aferição de pressão; modalidade de catálogo acadêmico 05";115.00
+115;Glicemia - modalidade 05;"Glicemia; modalidade de catálogo acadêmico 05";260.00
+116;Citologia - modalidade 05;"Citologia; modalidade de catálogo acadêmico 05";335.00
+117;Cultura bacteriana - modalidade 05;"Cultura bacteriana; modalidade de catálogo acadêmico 05";300.00
+118;Teste de sensibilidade - modalidade 05;"Teste de sensibilidade; modalidade de catálogo acadêmico 05";290.00
+119;Avaliação nutricional - modalidade 05;"Avaliação nutricional; modalidade de catálogo acadêmico 05";40.00
+120;Retorno clínico - modalidade 05;"Retorno clínico; modalidade de catálogo acadêmico 05";275.00
+121;Ecocardiograma - modalidade 05;"Ecocardiograma; modalidade de catálogo acadêmico 05";180.00
+122;Eletrocardiograma - modalidade 05;"Eletrocardiograma; modalidade de catálogo acadêmico 05";360.00
+123;Exame oftalmológico - modalidade 05;"Exame oftalmológico; modalidade de catálogo acadêmico 05";220.00
+124;Exame otológico - modalidade 05;"Exame otológico; modalidade de catálogo acadêmico 05";210.00
+125;Avaliação ortopédica - modalidade 05;"Avaliação ortopédica; modalidade de catálogo acadêmico 05";205.00
+126;Consulta clínica - modalidade 06;"Consulta clínica; modalidade de catálogo acadêmico 06";235.00
+127;Hemograma - modalidade 06;"Hemograma; modalidade de catálogo acadêmico 06";305.00
+128;Ultrassonografia - modalidade 06;"Ultrassonografia; modalidade de catálogo acadêmico 06";190.00
+129;Radiografia - modalidade 06;"Radiografia; modalidade de catálogo acadêmico 06";40.00
+130;Exame de urina - modalidade 06;"Exame de urina; modalidade de catálogo acadêmico 06";305.00
+131;Exame de fezes - modalidade 06;"Exame de fezes; modalidade de catálogo acadêmico 06";60.00
+132;Avaliação dermatológica - modalidade 06;"Avaliação dermatológica; modalidade de catálogo acadêmico 06";45.00
+133;Avaliação cardiológica - modalidade 06;"Avaliação cardiológica; modalidade de catálogo acadêmico 06";55.00
+134;Limpeza dentária - modalidade 06;"Limpeza dentária; modalidade de catálogo acadêmico 06";135.00
+135;Vacinação antirrábica - modalidade 06;"Vacinação antirrábica; modalidade de catálogo acadêmico 06";275.00
+136;Perfil renal - modalidade 06;"Perfil renal; modalidade de catálogo acadêmico 06";370.00
+137;Perfil hepático - modalidade 06;"Perfil hepático; modalidade de catálogo acadêmico 06";240.00
+138;Curativo - modalidade 06;"Curativo; modalidade de catálogo acadêmico 06";250.00
+139;Aferição de pressão - modalidade 06;"Aferição de pressão; modalidade de catálogo acadêmico 06";145.00
+140;Glicemia - modalidade 06;"Glicemia; modalidade de catálogo acadêmico 06";315.00
+141;Citologia - modalidade 06;"Citologia; modalidade de catálogo acadêmico 06";190.00
+142;Cultura bacteriana - modalidade 06;"Cultura bacteriana; modalidade de catálogo acadêmico 06";395.00
+143;Teste de sensibilidade - modalidade 06;"Teste de sensibilidade; modalidade de catálogo acadêmico 06";290.00
+144;Avaliação nutricional - modalidade 06;"Avaliação nutricional; modalidade de catálogo acadêmico 06";160.00
+145;Retorno clínico - modalidade 06;"Retorno clínico; modalidade de catálogo acadêmico 06";290.00
+146;Ecocardiograma - modalidade 06;"Ecocardiograma; modalidade de catálogo acadêmico 06";70.00
+147;Eletrocardiograma - modalidade 06;"Eletrocardiograma; modalidade de catálogo acadêmico 06";310.00
+148;Exame oftalmológico - modalidade 06;"Exame oftalmológico; modalidade de catálogo acadêmico 06";120.00
+149;Exame otológico - modalidade 06;"Exame otológico; modalidade de catálogo acadêmico 06";285.00
+150;Avaliação ortopédica - modalidade 06;"Avaliação ortopédica; modalidade de catálogo acadêmico 06";150.00
+151;Consulta clínica - modalidade 07;"Consulta clínica; modalidade de catálogo acadêmico 07";295.00
+152;Hemograma - modalidade 07;"Hemograma; modalidade de catálogo acadêmico 07";240.00
+153;Ultrassonografia - modalidade 07;"Ultrassonografia; modalidade de catálogo acadêmico 07";370.00
+154;Radiografia - modalidade 07;"Radiografia; modalidade de catálogo acadêmico 07";140.00
+155;Exame de urina - modalidade 07;"Exame de urina; modalidade de catálogo acadêmico 07";315.00
+156;Exame de fezes - modalidade 07;"Exame de fezes; modalidade de catálogo acadêmico 07";185.00
+157;Avaliação dermatológica - modalidade 07;"Avaliação dermatológica; modalidade de catálogo acadêmico 07";100.00
+158;Avaliação cardiológica - modalidade 07;"Avaliação cardiológica; modalidade de catálogo acadêmico 07";120.00
+159;Limpeza dentária - modalidade 07;"Limpeza dentária; modalidade de catálogo acadêmico 07";360.00
+160;Vacinação antirrábica - modalidade 07;"Vacinação antirrábica; modalidade de catálogo acadêmico 07";115.00
+161;Perfil renal - modalidade 07;"Perfil renal; modalidade de catálogo acadêmico 07";290.00
+162;Perfil hepático - modalidade 07;"Perfil hepático; modalidade de catálogo acadêmico 07";205.00
+163;Curativo - modalidade 07;"Curativo; modalidade de catálogo acadêmico 07";390.00
+164;Aferição de pressão - modalidade 07;"Aferição de pressão; modalidade de catálogo acadêmico 07";140.00
+165;Glicemia - modalidade 07;"Glicemia; modalidade de catálogo acadêmico 07";245.00
+166;Citologia - modalidade 07;"Citologia; modalidade de catálogo acadêmico 07";170.00
+167;Cultura bacteriana - modalidade 07;"Cultura bacteriana; modalidade de catálogo acadêmico 07";95.00
+168;Teste de sensibilidade - modalidade 07;"Teste de sensibilidade; modalidade de catálogo acadêmico 07";95.00
+169;Avaliação nutricional - modalidade 07;"Avaliação nutricional; modalidade de catálogo acadêmico 07";55.00
+170;Retorno clínico - modalidade 07;"Retorno clínico; modalidade de catálogo acadêmico 07";315.00
+171;Ecocardiograma - modalidade 07;"Ecocardiograma; modalidade de catálogo acadêmico 07";45.00
+172;Eletrocardiograma - modalidade 07;"Eletrocardiograma; modalidade de catálogo acadêmico 07";135.00
+173;Exame oftalmológico - modalidade 07;"Exame oftalmológico; modalidade de catálogo acadêmico 07";55.00
+174;Exame otológico - modalidade 07;"Exame otológico; modalidade de catálogo acadêmico 07";385.00
+175;Avaliação ortopédica - modalidade 07;"Avaliação ortopédica; modalidade de catálogo acadêmico 07";90.00
+176;Consulta clínica - modalidade 08;"Consulta clínica; modalidade de catálogo acadêmico 08";280.00
+177;Hemograma - modalidade 08;"Hemograma; modalidade de catálogo acadêmico 08";55.00
+178;Ultrassonografia - modalidade 08;"Ultrassonografia; modalidade de catálogo acadêmico 08";120.00
+179;Radiografia - modalidade 08;"Radiografia; modalidade de catálogo acadêmico 08";330.00
+180;Exame de urina - modalidade 08;"Exame de urina; modalidade de catálogo acadêmico 08";265.00
+181;Exame de fezes - modalidade 08;"Exame de fezes; modalidade de catálogo acadêmico 08";155.00
+182;Avaliação dermatológica - modalidade 08;"Avaliação dermatológica; modalidade de catálogo acadêmico 08";190.00
+183;Avaliação cardiológica - modalidade 08;"Avaliação cardiológica; modalidade de catálogo acadêmico 08";180.00
+184;Limpeza dentária - modalidade 08;"Limpeza dentária; modalidade de catálogo acadêmico 08";230.00
+185;Vacinação antirrábica - modalidade 08;"Vacinação antirrábica; modalidade de catálogo acadêmico 08";160.00
+186;Perfil renal - modalidade 08;"Perfil renal; modalidade de catálogo acadêmico 08";380.00
+187;Perfil hepático - modalidade 08;"Perfil hepático; modalidade de catálogo acadêmico 08";195.00
+188;Curativo - modalidade 08;"Curativo; modalidade de catálogo acadêmico 08";280.00
+189;Aferição de pressão - modalidade 08;"Aferição de pressão; modalidade de catálogo acadêmico 08";205.00
+190;Glicemia - modalidade 08;"Glicemia; modalidade de catálogo acadêmico 08";70.00
+191;Citologia - modalidade 08;"Citologia; modalidade de catálogo acadêmico 08";215.00
+192;Cultura bacteriana - modalidade 08;"Cultura bacteriana; modalidade de catálogo acadêmico 08";90.00
+193;Teste de sensibilidade - modalidade 08;"Teste de sensibilidade; modalidade de catálogo acadêmico 08";130.00
+194;Avaliação nutricional - modalidade 08;"Avaliação nutricional; modalidade de catálogo acadêmico 08";50.00
+195;Retorno clínico - modalidade 08;"Retorno clínico; modalidade de catálogo acadêmico 08";105.00
+196;Ecocardiograma - modalidade 08;"Ecocardiograma; modalidade de catálogo acadêmico 08";110.00
+197;Eletrocardiograma - modalidade 08;"Eletrocardiograma; modalidade de catálogo acadêmico 08";330.00
+198;Exame oftalmológico - modalidade 08;"Exame oftalmológico; modalidade de catálogo acadêmico 08";115.00
+199;Exame otológico - modalidade 08;"Exame otológico; modalidade de catálogo acadêmico 08";105.00
+200;Avaliação ortopédica - modalidade 08;"Avaliação ortopédica; modalidade de catálogo acadêmico 08";130.00
+201;Consulta clínica - modalidade 09;"Consulta clínica; modalidade de catálogo acadêmico 09";220.00
+202;Hemograma - modalidade 09;"Hemograma; modalidade de catálogo acadêmico 09";205.00
+203;Ultrassonografia - modalidade 09;"Ultrassonografia; modalidade de catálogo acadêmico 09";155.00
+204;Radiografia - modalidade 09;"Radiografia; modalidade de catálogo acadêmico 09";95.00
+205;Exame de urina - modalidade 09;"Exame de urina; modalidade de catálogo acadêmico 09";85.00
+206;Exame de fezes - modalidade 09;"Exame de fezes; modalidade de catálogo acadêmico 09";355.00
+207;Avaliação dermatológica - modalidade 09;"Avaliação dermatológica; modalidade de catálogo acadêmico 09";270.00
+208;Avaliação cardiológica - modalidade 09;"Avaliação cardiológica; modalidade de catálogo acadêmico 09";170.00
+209;Limpeza dentária - modalidade 09;"Limpeza dentária; modalidade de catálogo acadêmico 09";290.00
+210;Vacinação antirrábica - modalidade 09;"Vacinação antirrábica; modalidade de catálogo acadêmico 09";100.00
+211;Perfil renal - modalidade 09;"Perfil renal; modalidade de catálogo acadêmico 09";350.00
+212;Perfil hepático - modalidade 09;"Perfil hepático; modalidade de catálogo acadêmico 09";50.00
+213;Curativo - modalidade 09;"Curativo; modalidade de catálogo acadêmico 09";300.00
+214;Aferição de pressão - modalidade 09;"Aferição de pressão; modalidade de catálogo acadêmico 09";85.00
+215;Glicemia - modalidade 09;"Glicemia; modalidade de catálogo acadêmico 09";350.00
+216;Citologia - modalidade 09;"Citologia; modalidade de catálogo acadêmico 09";85.00
+217;Cultura bacteriana - modalidade 09;"Cultura bacteriana; modalidade de catálogo acadêmico 09";170.00
+218;Teste de sensibilidade - modalidade 09;"Teste de sensibilidade; modalidade de catálogo acadêmico 09";305.00
+219;Avaliação nutricional - modalidade 09;"Avaliação nutricional; modalidade de catálogo acadêmico 09";280.00
+220;Retorno clínico - modalidade 09;"Retorno clínico; modalidade de catálogo acadêmico 09";240.00
+221;Ecocardiograma - modalidade 09;"Ecocardiograma; modalidade de catálogo acadêmico 09";325.00
+222;Eletrocardiograma - modalidade 09;"Eletrocardiograma; modalidade de catálogo acadêmico 09";140.00
+223;Exame oftalmológico - modalidade 09;"Exame oftalmológico; modalidade de catálogo acadêmico 09";155.00
+224;Exame otológico - modalidade 09;"Exame otológico; modalidade de catálogo acadêmico 09";230.00
+225;Avaliação ortopédica - modalidade 09;"Avaliação ortopédica; modalidade de catálogo acadêmico 09";45.00
+226;Consulta clínica - modalidade 10;"Consulta clínica; modalidade de catálogo acadêmico 10";150.00
+227;Hemograma - modalidade 10;"Hemograma; modalidade de catálogo acadêmico 10";400.00
+228;Ultrassonografia - modalidade 10;"Ultrassonografia; modalidade de catálogo acadêmico 10";60.00
+229;Radiografia - modalidade 10;"Radiografia; modalidade de catálogo acadêmico 10";115.00
+230;Exame de urina - modalidade 10;"Exame de urina; modalidade de catálogo acadêmico 10";255.00
+231;Exame de fezes - modalidade 10;"Exame de fezes; modalidade de catálogo acadêmico 10";260.00
+232;Avaliação dermatológica - modalidade 10;"Avaliação dermatológica; modalidade de catálogo acadêmico 10";345.00
+233;Avaliação cardiológica - modalidade 10;"Avaliação cardiológica; modalidade de catálogo acadêmico 10";385.00
+234;Limpeza dentária - modalidade 10;"Limpeza dentária; modalidade de catálogo acadêmico 10";40.00
+235;Vacinação antirrábica - modalidade 10;"Vacinação antirrábica; modalidade de catálogo acadêmico 10";140.00
+236;Perfil renal - modalidade 10;"Perfil renal; modalidade de catálogo acadêmico 10";370.00
+237;Perfil hepático - modalidade 10;"Perfil hepático; modalidade de catálogo acadêmico 10";200.00
+238;Curativo - modalidade 10;"Curativo; modalidade de catálogo acadêmico 10";115.00
+239;Aferição de pressão - modalidade 10;"Aferição de pressão; modalidade de catálogo acadêmico 10";160.00
+240;Glicemia - modalidade 10;"Glicemia; modalidade de catálogo acadêmico 10";55.00
+241;Citologia - modalidade 10;"Citologia; modalidade de catálogo acadêmico 10";380.00
+242;Cultura bacteriana - modalidade 10;"Cultura bacteriana; modalidade de catálogo acadêmico 10";50.00
+243;Teste de sensibilidade - modalidade 10;"Teste de sensibilidade; modalidade de catálogo acadêmico 10";370.00
+244;Avaliação nutricional - modalidade 10;"Avaliação nutricional; modalidade de catálogo acadêmico 10";365.00
+245;Retorno clínico - modalidade 10;"Retorno clínico; modalidade de catálogo acadêmico 10";135.00
+246;Ecocardiograma - modalidade 10;"Ecocardiograma; modalidade de catálogo acadêmico 10";175.00
+247;Eletrocardiograma - modalidade 10;"Eletrocardiograma; modalidade de catálogo acadêmico 10";270.00
+248;Exame oftalmológico - modalidade 10;"Exame oftalmológico; modalidade de catálogo acadêmico 10";110.00
+249;Exame otológico - modalidade 10;"Exame otológico; modalidade de catálogo acadêmico 10";175.00
+250;Avaliação ortopédica - modalidade 10;"Avaliação ortopédica; modalidade de catálogo acadêmico 10";55.00
+251;Consulta clínica - modalidade 11;"Consulta clínica; modalidade de catálogo acadêmico 11";245.00
+252;Hemograma - modalidade 11;"Hemograma; modalidade de catálogo acadêmico 11";125.00
+253;Ultrassonografia - modalidade 11;"Ultrassonografia; modalidade de catálogo acadêmico 11";180.00
+254;Radiografia - modalidade 11;"Radiografia; modalidade de catálogo acadêmico 11";90.00
+255;Exame de urina - modalidade 11;"Exame de urina; modalidade de catálogo acadêmico 11";120.00
+256;Exame de fezes - modalidade 11;"Exame de fezes; modalidade de catálogo acadêmico 11";210.00
+257;Avaliação dermatológica - modalidade 11;"Avaliação dermatológica; modalidade de catálogo acadêmico 11";215.00
+258;Avaliação cardiológica - modalidade 11;"Avaliação cardiológica; modalidade de catálogo acadêmico 11";345.00
+259;Limpeza dentária - modalidade 11;"Limpeza dentária; modalidade de catálogo acadêmico 11";165.00
+260;Vacinação antirrábica - modalidade 11;"Vacinação antirrábica; modalidade de catálogo acadêmico 11";95.00
+261;Perfil renal - modalidade 11;"Perfil renal; modalidade de catálogo acadêmico 11";260.00
+262;Perfil hepático - modalidade 11;"Perfil hepático; modalidade de catálogo acadêmico 11";390.00
+263;Curativo - modalidade 11;"Curativo; modalidade de catálogo acadêmico 11";225.00
+264;Aferição de pressão - modalidade 11;"Aferição de pressão; modalidade de catálogo acadêmico 11";335.00
+265;Glicemia - modalidade 11;"Glicemia; modalidade de catálogo acadêmico 11";355.00
+266;Citologia - modalidade 11;"Citologia; modalidade de catálogo acadêmico 11";315.00
+267;Cultura bacteriana - modalidade 11;"Cultura bacteriana; modalidade de catálogo acadêmico 11";365.00
+268;Teste de sensibilidade - modalidade 11;"Teste de sensibilidade; modalidade de catálogo acadêmico 11";295.00
+269;Avaliação nutricional - modalidade 11;"Avaliação nutricional; modalidade de catálogo acadêmico 11";160.00
+270;Retorno clínico - modalidade 11;"Retorno clínico; modalidade de catálogo acadêmico 11";200.00
+271;Ecocardiograma - modalidade 11;"Ecocardiograma; modalidade de catálogo acadêmico 11";150.00
+272;Eletrocardiograma - modalidade 11;"Eletrocardiograma; modalidade de catálogo acadêmico 11";165.00
+273;Exame oftalmológico - modalidade 11;"Exame oftalmológico; modalidade de catálogo acadêmico 11";215.00
+274;Exame otológico - modalidade 11;"Exame otológico; modalidade de catálogo acadêmico 11";290.00
+275;Avaliação ortopédica - modalidade 11;"Avaliação ortopédica; modalidade de catálogo acadêmico 11";105.00
+276;Consulta clínica - modalidade 12;"Consulta clínica; modalidade de catálogo acadêmico 12";235.00
+277;Hemograma - modalidade 12;"Hemograma; modalidade de catálogo acadêmico 12";145.00
+278;Ultrassonografia - modalidade 12;"Ultrassonografia; modalidade de catálogo acadêmico 12";170.00
+279;Radiografia - modalidade 12;"Radiografia; modalidade de catálogo acadêmico 12";350.00
+280;Exame de urina - modalidade 12;"Exame de urina; modalidade de catálogo acadêmico 12";315.00
+281;Exame de fezes - modalidade 12;"Exame de fezes; modalidade de catálogo acadêmico 12";325.00
+282;Avaliação dermatológica - modalidade 12;"Avaliação dermatológica; modalidade de catálogo acadêmico 12";310.00
+283;Avaliação cardiológica - modalidade 12;"Avaliação cardiológica; modalidade de catálogo acadêmico 12";210.00
+284;Limpeza dentária - modalidade 12;"Limpeza dentária; modalidade de catálogo acadêmico 12";240.00
+285;Vacinação antirrábica - modalidade 12;"Vacinação antirrábica; modalidade de catálogo acadêmico 12";105.00
+286;Perfil renal - modalidade 12;"Perfil renal; modalidade de catálogo acadêmico 12";285.00
+287;Perfil hepático - modalidade 12;"Perfil hepático; modalidade de catálogo acadêmico 12";310.00
+288;Curativo - modalidade 12;"Curativo; modalidade de catálogo acadêmico 12";165.00
+289;Aferição de pressão - modalidade 12;"Aferição de pressão; modalidade de catálogo acadêmico 12";400.00
+290;Glicemia - modalidade 12;"Glicemia; modalidade de catálogo acadêmico 12";265.00
+291;Citologia - modalidade 12;"Citologia; modalidade de catálogo acadêmico 12";275.00
+292;Cultura bacteriana - modalidade 12;"Cultura bacteriana; modalidade de catálogo acadêmico 12";80.00
+293;Teste de sensibilidade - modalidade 12;"Teste de sensibilidade; modalidade de catálogo acadêmico 12";325.00
+294;Avaliação nutricional - modalidade 12;"Avaliação nutricional; modalidade de catálogo acadêmico 12";145.00
+295;Retorno clínico - modalidade 12;"Retorno clínico; modalidade de catálogo acadêmico 12";60.00
+296;Ecocardiograma - modalidade 12;"Ecocardiograma; modalidade de catálogo acadêmico 12";365.00
+297;Eletrocardiograma - modalidade 12;"Eletrocardiograma; modalidade de catálogo acadêmico 12";200.00
+298;Exame oftalmológico - modalidade 12;"Exame oftalmológico; modalidade de catálogo acadêmico 12";300.00
+299;Exame otológico - modalidade 12;"Exame otológico; modalidade de catálogo acadêmico 12";225.00
+300;Avaliação ortopédica - modalidade 12;"Avaliação ortopédica; modalidade de catálogo acadêmico 12";375.00
+301;Consulta clínica - modalidade 13;"Consulta clínica; modalidade de catálogo acadêmico 13";265.00
+302;Hemograma - modalidade 13;"Hemograma; modalidade de catálogo acadêmico 13";290.00
+303;Ultrassonografia - modalidade 13;"Ultrassonografia; modalidade de catálogo acadêmico 13";55.00
+304;Radiografia - modalidade 13;"Radiografia; modalidade de catálogo acadêmico 13";110.00
+305;Exame de urina - modalidade 13;"Exame de urina; modalidade de catálogo acadêmico 13";155.00
+306;Exame de fezes - modalidade 13;"Exame de fezes; modalidade de catálogo acadêmico 13";245.00
+307;Avaliação dermatológica - modalidade 13;"Avaliação dermatológica; modalidade de catálogo acadêmico 13";310.00
+308;Avaliação cardiológica - modalidade 13;"Avaliação cardiológica; modalidade de catálogo acadêmico 13";155.00
+309;Limpeza dentária - modalidade 13;"Limpeza dentária; modalidade de catálogo acadêmico 13";265.00
+310;Vacinação antirrábica - modalidade 13;"Vacinação antirrábica; modalidade de catálogo acadêmico 13";195.00
+311;Perfil renal - modalidade 13;"Perfil renal; modalidade de catálogo acadêmico 13";85.00
+312;Perfil hepático - modalidade 13;"Perfil hepático; modalidade de catálogo acadêmico 13";175.00
+313;Curativo - modalidade 13;"Curativo; modalidade de catálogo acadêmico 13";275.00
+314;Aferição de pressão - modalidade 13;"Aferição de pressão; modalidade de catálogo acadêmico 13";275.00
+315;Glicemia - modalidade 13;"Glicemia; modalidade de catálogo acadêmico 13";130.00
+316;Citologia - modalidade 13;"Citologia; modalidade de catálogo acadêmico 13";240.00
+317;Cultura bacteriana - modalidade 13;"Cultura bacteriana; modalidade de catálogo acadêmico 13";115.00
+318;Teste de sensibilidade - modalidade 13;"Teste de sensibilidade; modalidade de catálogo acadêmico 13";45.00
+319;Avaliação nutricional - modalidade 13;"Avaliação nutricional; modalidade de catálogo acadêmico 13";240.00
+320;Retorno clínico - modalidade 13;"Retorno clínico; modalidade de catálogo acadêmico 13";45.00
+321;Ecocardiograma - modalidade 13;"Ecocardiograma; modalidade de catálogo acadêmico 13";250.00
+322;Eletrocardiograma - modalidade 13;"Eletrocardiograma; modalidade de catálogo acadêmico 13";175.00
+323;Exame oftalmológico - modalidade 13;"Exame oftalmológico; modalidade de catálogo acadêmico 13";335.00
+324;Exame otológico - modalidade 13;"Exame otológico; modalidade de catálogo acadêmico 13";400.00
+325;Avaliação ortopédica - modalidade 13;"Avaliação ortopédica; modalidade de catálogo acadêmico 13";245.00
+326;Consulta clínica - modalidade 14;"Consulta clínica; modalidade de catálogo acadêmico 14";185.00
+327;Hemograma - modalidade 14;"Hemograma; modalidade de catálogo acadêmico 14";395.00
+328;Ultrassonografia - modalidade 14;"Ultrassonografia; modalidade de catálogo acadêmico 14";80.00
+329;Radiografia - modalidade 14;"Radiografia; modalidade de catálogo acadêmico 14";285.00
+330;Exame de urina - modalidade 14;"Exame de urina; modalidade de catálogo acadêmico 14";220.00
+331;Exame de fezes - modalidade 14;"Exame de fezes; modalidade de catálogo acadêmico 14";175.00
+332;Avaliação dermatológica - modalidade 14;"Avaliação dermatológica; modalidade de catálogo acadêmico 14";375.00
+333;Avaliação cardiológica - modalidade 14;"Avaliação cardiológica; modalidade de catálogo acadêmico 14";175.00
+334;Limpeza dentária - modalidade 14;"Limpeza dentária; modalidade de catálogo acadêmico 14";105.00
+335;Vacinação antirrábica - modalidade 14;"Vacinação antirrábica; modalidade de catálogo acadêmico 14";395.00
+336;Perfil renal - modalidade 14;"Perfil renal; modalidade de catálogo acadêmico 14";215.00
+337;Perfil hepático - modalidade 14;"Perfil hepático; modalidade de catálogo acadêmico 14";85.00
+338;Curativo - modalidade 14;"Curativo; modalidade de catálogo acadêmico 14";305.00
+339;Aferição de pressão - modalidade 14;"Aferição de pressão; modalidade de catálogo acadêmico 14";315.00
+340;Glicemia - modalidade 14;"Glicemia; modalidade de catálogo acadêmico 14";240.00
+341;Citologia - modalidade 14;"Citologia; modalidade de catálogo acadêmico 14";240.00
+342;Cultura bacteriana - modalidade 14;"Cultura bacteriana; modalidade de catálogo acadêmico 14";165.00
+343;Teste de sensibilidade - modalidade 14;"Teste de sensibilidade; modalidade de catálogo acadêmico 14";165.00
+344;Avaliação nutricional - modalidade 14;"Avaliação nutricional; modalidade de catálogo acadêmico 14";70.00
+345;Retorno clínico - modalidade 14;"Retorno clínico; modalidade de catálogo acadêmico 14";355.00
+346;Ecocardiograma - modalidade 14;"Ecocardiograma; modalidade de catálogo acadêmico 14";355.00
+347;Eletrocardiograma - modalidade 14;"Eletrocardiograma; modalidade de catálogo acadêmico 14";65.00
+348;Exame oftalmológico - modalidade 14;"Exame oftalmológico; modalidade de catálogo acadêmico 14";215.00
+349;Exame otológico - modalidade 14;"Exame otológico; modalidade de catálogo acadêmico 14";305.00
+350;Avaliação ortopédica - modalidade 14;"Avaliação ortopédica; modalidade de catálogo acadêmico 14";115.00
+351;Consulta clínica - modalidade 15;"Consulta clínica; modalidade de catálogo acadêmico 15";115.00
+352;Hemograma - modalidade 15;"Hemograma; modalidade de catálogo acadêmico 15";325.00
+353;Ultrassonografia - modalidade 15;"Ultrassonografia; modalidade de catálogo acadêmico 15";145.00
+354;Radiografia - modalidade 15;"Radiografia; modalidade de catálogo acadêmico 15";245.00
+355;Exame de urina - modalidade 15;"Exame de urina; modalidade de catálogo acadêmico 15";285.00
+356;Exame de fezes - modalidade 15;"Exame de fezes; modalidade de catálogo acadêmico 15";190.00
+357;Avaliação dermatológica - modalidade 15;"Avaliação dermatológica; modalidade de catálogo acadêmico 15";50.00
+358;Avaliação cardiológica - modalidade 15;"Avaliação cardiológica; modalidade de catálogo acadêmico 15";220.00
+359;Limpeza dentária - modalidade 15;"Limpeza dentária; modalidade de catálogo acadêmico 15";50.00
+360;Vacinação antirrábica - modalidade 15;"Vacinação antirrábica; modalidade de catálogo acadêmico 15";40.00
+361;Perfil renal - modalidade 15;"Perfil renal; modalidade de catálogo acadêmico 15";335.00
+362;Perfil hepático - modalidade 15;"Perfil hepático; modalidade de catálogo acadêmico 15";220.00
+363;Curativo - modalidade 15;"Curativo; modalidade de catálogo acadêmico 15";120.00
+364;Aferição de pressão - modalidade 15;"Aferição de pressão; modalidade de catálogo acadêmico 15";295.00
+365;Glicemia - modalidade 15;"Glicemia; modalidade de catálogo acadêmico 15";60.00
+366;Citologia - modalidade 15;"Citologia; modalidade de catálogo acadêmico 15";380.00
+367;Cultura bacteriana - modalidade 15;"Cultura bacteriana; modalidade de catálogo acadêmico 15";375.00
+368;Teste de sensibilidade - modalidade 15;"Teste de sensibilidade; modalidade de catálogo acadêmico 15";65.00
+369;Avaliação nutricional - modalidade 15;"Avaliação nutricional; modalidade de catálogo acadêmico 15";255.00
+370;Retorno clínico - modalidade 15;"Retorno clínico; modalidade de catálogo acadêmico 15";50.00
+371;Ecocardiograma - modalidade 15;"Ecocardiograma; modalidade de catálogo acadêmico 15";80.00
+372;Eletrocardiograma - modalidade 15;"Eletrocardiograma; modalidade de catálogo acadêmico 15";340.00
+373;Exame oftalmológico - modalidade 15;"Exame oftalmológico; modalidade de catálogo acadêmico 15";100.00
+374;Exame otológico - modalidade 15;"Exame otológico; modalidade de catálogo acadêmico 15";305.00
+375;Avaliação ortopédica - modalidade 15;"Avaliação ortopédica; modalidade de catálogo acadêmico 15";230.00
+376;Consulta clínica - modalidade 16;"Consulta clínica; modalidade de catálogo acadêmico 16";215.00
+377;Hemograma - modalidade 16;"Hemograma; modalidade de catálogo acadêmico 16";240.00
+378;Ultrassonografia - modalidade 16;"Ultrassonografia; modalidade de catálogo acadêmico 16";260.00
+379;Radiografia - modalidade 16;"Radiografia; modalidade de catálogo acadêmico 16";295.00
+380;Exame de urina - modalidade 16;"Exame de urina; modalidade de catálogo acadêmico 16";90.00
+381;Exame de fezes - modalidade 16;"Exame de fezes; modalidade de catálogo acadêmico 16";395.00
+382;Avaliação dermatológica - modalidade 16;"Avaliação dermatológica; modalidade de catálogo acadêmico 16";240.00
+383;Avaliação cardiológica - modalidade 16;"Avaliação cardiológica; modalidade de catálogo acadêmico 16";355.00
+384;Limpeza dentária - modalidade 16;"Limpeza dentária; modalidade de catálogo acadêmico 16";70.00
+385;Vacinação antirrábica - modalidade 16;"Vacinação antirrábica; modalidade de catálogo acadêmico 16";290.00
+386;Perfil renal - modalidade 16;"Perfil renal; modalidade de catálogo acadêmico 16";230.00
+387;Perfil hepático - modalidade 16;"Perfil hepático; modalidade de catálogo acadêmico 16";330.00
+388;Curativo - modalidade 16;"Curativo; modalidade de catálogo acadêmico 16";355.00
+389;Aferição de pressão - modalidade 16;"Aferição de pressão; modalidade de catálogo acadêmico 16";115.00
+390;Glicemia - modalidade 16;"Glicemia; modalidade de catálogo acadêmico 16";275.00
+391;Citologia - modalidade 16;"Citologia; modalidade de catálogo acadêmico 16";105.00
+392;Cultura bacteriana - modalidade 16;"Cultura bacteriana; modalidade de catálogo acadêmico 16";55.00
+393;Teste de sensibilidade - modalidade 16;"Teste de sensibilidade; modalidade de catálogo acadêmico 16";180.00
+394;Avaliação nutricional - modalidade 16;"Avaliação nutricional; modalidade de catálogo acadêmico 16";70.00
+395;Retorno clínico - modalidade 16;"Retorno clínico; modalidade de catálogo acadêmico 16";45.00
+396;Ecocardiograma - modalidade 16;"Ecocardiograma; modalidade de catálogo acadêmico 16";125.00
+397;Eletrocardiograma - modalidade 16;"Eletrocardiograma; modalidade de catálogo acadêmico 16";105.00
+398;Exame oftalmológico - modalidade 16;"Exame oftalmológico; modalidade de catálogo acadêmico 16";245.00
+399;Exame otológico - modalidade 16;"Exame otológico; modalidade de catálogo acadêmico 16";315.00
+400;Avaliação ortopédica - modalidade 16;"Avaliação ortopédica; modalidade de catálogo acadêmico 16";180.00
+401;Consulta clínica - modalidade 17;"Consulta clínica; modalidade de catálogo acadêmico 17";145.00
+402;Hemograma - modalidade 17;"Hemograma; modalidade de catálogo acadêmico 17";95.00
+403;Ultrassonografia - modalidade 17;"Ultrassonografia; modalidade de catálogo acadêmico 17";160.00
+404;Radiografia - modalidade 17;"Radiografia; modalidade de catálogo acadêmico 17";275.00
+405;Exame de urina - modalidade 17;"Exame de urina; modalidade de catálogo acadêmico 17";380.00
+406;Exame de fezes - modalidade 17;"Exame de fezes; modalidade de catálogo acadêmico 17";40.00
+407;Avaliação dermatológica - modalidade 17;"Avaliação dermatológica; modalidade de catálogo acadêmico 17";70.00
+408;Avaliação cardiológica - modalidade 17;"Avaliação cardiológica; modalidade de catálogo acadêmico 17";205.00
+409;Limpeza dentária - modalidade 17;"Limpeza dentária; modalidade de catálogo acadêmico 17";65.00
+410;Vacinação antirrábica - modalidade 17;"Vacinação antirrábica; modalidade de catálogo acadêmico 17";110.00
+411;Perfil renal - modalidade 17;"Perfil renal; modalidade de catálogo acadêmico 17";70.00
+412;Perfil hepático - modalidade 17;"Perfil hepático; modalidade de catálogo acadêmico 17";230.00
+413;Curativo - modalidade 17;"Curativo; modalidade de catálogo acadêmico 17";85.00
+414;Aferição de pressão - modalidade 17;"Aferição de pressão; modalidade de catálogo acadêmico 17";205.00
+415;Glicemia - modalidade 17;"Glicemia; modalidade de catálogo acadêmico 17";250.00
+416;Citologia - modalidade 17;"Citologia; modalidade de catálogo acadêmico 17";280.00
+417;Cultura bacteriana - modalidade 17;"Cultura bacteriana; modalidade de catálogo acadêmico 17";210.00
+418;Teste de sensibilidade - modalidade 17;"Teste de sensibilidade; modalidade de catálogo acadêmico 17";145.00
+419;Avaliação nutricional - modalidade 17;"Avaliação nutricional; modalidade de catálogo acadêmico 17";125.00
+420;Retorno clínico - modalidade 17;"Retorno clínico; modalidade de catálogo acadêmico 17";330.00
+421;Ecocardiograma - modalidade 17;"Ecocardiograma; modalidade de catálogo acadêmico 17";115.00
+422;Eletrocardiograma - modalidade 17;"Eletrocardiograma; modalidade de catálogo acadêmico 17";120.00
+423;Exame oftalmológico - modalidade 17;"Exame oftalmológico; modalidade de catálogo acadêmico 17";240.00
+424;Exame otológico - modalidade 17;"Exame otológico; modalidade de catálogo acadêmico 17";130.00
+425;Avaliação ortopédica - modalidade 17;"Avaliação ortopédica; modalidade de catálogo acadêmico 17";300.00
+426;Consulta clínica - modalidade 18;"Consulta clínica; modalidade de catálogo acadêmico 18";325.00
+427;Hemograma - modalidade 18;"Hemograma; modalidade de catálogo acadêmico 18";115.00
+428;Ultrassonografia - modalidade 18;"Ultrassonografia; modalidade de catálogo acadêmico 18";370.00
+429;Radiografia - modalidade 18;"Radiografia; modalidade de catálogo acadêmico 18";375.00
+430;Exame de urina - modalidade 18;"Exame de urina; modalidade de catálogo acadêmico 18";190.00
+431;Exame de fezes - modalidade 18;"Exame de fezes; modalidade de catálogo acadêmico 18";345.00
+432;Avaliação dermatológica - modalidade 18;"Avaliação dermatológica; modalidade de catálogo acadêmico 18";350.00
+433;Avaliação cardiológica - modalidade 18;"Avaliação cardiológica; modalidade de catálogo acadêmico 18";215.00
+434;Limpeza dentária - modalidade 18;"Limpeza dentária; modalidade de catálogo acadêmico 18";245.00
+435;Vacinação antirrábica - modalidade 18;"Vacinação antirrábica; modalidade de catálogo acadêmico 18";345.00
+436;Perfil renal - modalidade 18;"Perfil renal; modalidade de catálogo acadêmico 18";180.00
+437;Perfil hepático - modalidade 18;"Perfil hepático; modalidade de catálogo acadêmico 18";95.00
+438;Curativo - modalidade 18;"Curativo; modalidade de catálogo acadêmico 18";205.00
+439;Aferição de pressão - modalidade 18;"Aferição de pressão; modalidade de catálogo acadêmico 18";225.00
+440;Glicemia - modalidade 18;"Glicemia; modalidade de catálogo acadêmico 18";90.00
+441;Citologia - modalidade 18;"Citologia; modalidade de catálogo acadêmico 18";265.00
+442;Cultura bacteriana - modalidade 18;"Cultura bacteriana; modalidade de catálogo acadêmico 18";395.00
+443;Teste de sensibilidade - modalidade 18;"Teste de sensibilidade; modalidade de catálogo acadêmico 18";195.00
+444;Avaliação nutricional - modalidade 18;"Avaliação nutricional; modalidade de catálogo acadêmico 18";170.00
+445;Retorno clínico - modalidade 18;"Retorno clínico; modalidade de catálogo acadêmico 18";85.00
+446;Ecocardiograma - modalidade 18;"Ecocardiograma; modalidade de catálogo acadêmico 18";85.00
+447;Eletrocardiograma - modalidade 18;"Eletrocardiograma; modalidade de catálogo acadêmico 18";355.00
+448;Exame oftalmológico - modalidade 18;"Exame oftalmológico; modalidade de catálogo acadêmico 18";75.00
+449;Exame otológico - modalidade 18;"Exame otológico; modalidade de catálogo acadêmico 18";175.00
+450;Avaliação ortopédica - modalidade 18;"Avaliação ortopédica; modalidade de catálogo acadêmico 18";45.00
+451;Consulta clínica - modalidade 19;"Consulta clínica; modalidade de catálogo acadêmico 19";175.00
+452;Hemograma - modalidade 19;"Hemograma; modalidade de catálogo acadêmico 19";335.00
+453;Ultrassonografia - modalidade 19;"Ultrassonografia; modalidade de catálogo acadêmico 19";285.00
+454;Radiografia - modalidade 19;"Radiografia; modalidade de catálogo acadêmico 19";160.00
+455;Exame de urina - modalidade 19;"Exame de urina; modalidade de catálogo acadêmico 19";350.00
+456;Exame de fezes - modalidade 19;"Exame de fezes; modalidade de catálogo acadêmico 19";105.00
+457;Avaliação dermatológica - modalidade 19;"Avaliação dermatológica; modalidade de catálogo acadêmico 19";255.00
+458;Avaliação cardiológica - modalidade 19;"Avaliação cardiológica; modalidade de catálogo acadêmico 19";170.00
+459;Limpeza dentária - modalidade 19;"Limpeza dentária; modalidade de catálogo acadêmico 19";375.00
+460;Vacinação antirrábica - modalidade 19;"Vacinação antirrábica; modalidade de catálogo acadêmico 19";365.00
+461;Perfil renal - modalidade 19;"Perfil renal; modalidade de catálogo acadêmico 19";240.00
+462;Perfil hepático - modalidade 19;"Perfil hepático; modalidade de catálogo acadêmico 19";235.00
+463;Curativo - modalidade 19;"Curativo; modalidade de catálogo acadêmico 19";330.00
+464;Aferição de pressão - modalidade 19;"Aferição de pressão; modalidade de catálogo acadêmico 19";135.00
+465;Glicemia - modalidade 19;"Glicemia; modalidade de catálogo acadêmico 19";360.00
+466;Citologia - modalidade 19;"Citologia; modalidade de catálogo acadêmico 19";105.00
+467;Cultura bacteriana - modalidade 19;"Cultura bacteriana; modalidade de catálogo acadêmico 19";120.00
+468;Teste de sensibilidade - modalidade 19;"Teste de sensibilidade; modalidade de catálogo acadêmico 19";180.00
+469;Avaliação nutricional - modalidade 19;"Avaliação nutricional; modalidade de catálogo acadêmico 19";270.00
+470;Retorno clínico - modalidade 19;"Retorno clínico; modalidade de catálogo acadêmico 19";285.00
+471;Ecocardiograma - modalidade 19;"Ecocardiograma; modalidade de catálogo acadêmico 19";325.00
+472;Eletrocardiograma - modalidade 19;"Eletrocardiograma; modalidade de catálogo acadêmico 19";365.00
+473;Exame oftalmológico - modalidade 19;"Exame oftalmológico; modalidade de catálogo acadêmico 19";165.00
+474;Exame otológico - modalidade 19;"Exame otológico; modalidade de catálogo acadêmico 19";295.00
+475;Avaliação ortopédica - modalidade 19;"Avaliação ortopédica; modalidade de catálogo acadêmico 19";160.00
+476;Consulta clínica - modalidade 20;"Consulta clínica; modalidade de catálogo acadêmico 20";80.00
+477;Hemograma - modalidade 20;"Hemograma; modalidade de catálogo acadêmico 20";215.00
+478;Ultrassonografia - modalidade 20;"Ultrassonografia; modalidade de catálogo acadêmico 20";310.00
+479;Radiografia - modalidade 20;"Radiografia; modalidade de catálogo acadêmico 20";145.00
+480;Exame de urina - modalidade 20;"Exame de urina; modalidade de catálogo acadêmico 20";235.00
+481;Exame de fezes - modalidade 20;"Exame de fezes; modalidade de catálogo acadêmico 20";105.00
+482;Avaliação dermatológica - modalidade 20;"Avaliação dermatológica; modalidade de catálogo acadêmico 20";130.00
+483;Avaliação cardiológica - modalidade 20;"Avaliação cardiológica; modalidade de catálogo acadêmico 20";335.00
+484;Limpeza dentária - modalidade 20;"Limpeza dentária; modalidade de catálogo acadêmico 20";105.00
+485;Vacinação antirrábica - modalidade 20;"Vacinação antirrábica; modalidade de catálogo acadêmico 20";110.00
+486;Perfil renal - modalidade 20;"Perfil renal; modalidade de catálogo acadêmico 20";190.00
+487;Perfil hepático - modalidade 20;"Perfil hepático; modalidade de catálogo acadêmico 20";50.00
+488;Curativo - modalidade 20;"Curativo; modalidade de catálogo acadêmico 20";330.00
+489;Aferição de pressão - modalidade 20;"Aferição de pressão; modalidade de catálogo acadêmico 20";155.00
+490;Glicemia - modalidade 20;"Glicemia; modalidade de catálogo acadêmico 20";210.00
+491;Citologia - modalidade 20;"Citologia; modalidade de catálogo acadêmico 20";55.00
+492;Cultura bacteriana - modalidade 20;"Cultura bacteriana; modalidade de catálogo acadêmico 20";340.00
+493;Teste de sensibilidade - modalidade 20;"Teste de sensibilidade; modalidade de catálogo acadêmico 20";375.00
+494;Avaliação nutricional - modalidade 20;"Avaliação nutricional; modalidade de catálogo acadêmico 20";325.00
+495;Retorno clínico - modalidade 20;"Retorno clínico; modalidade de catálogo acadêmico 20";265.00
+496;Ecocardiograma - modalidade 20;"Ecocardiograma; modalidade de catálogo acadêmico 20";205.00
+497;Eletrocardiograma - modalidade 20;"Eletrocardiograma; modalidade de catálogo acadêmico 20";115.00
+498;Exame oftalmológico - modalidade 20;"Exame oftalmológico; modalidade de catálogo acadêmico 20";390.00
+499;Exame otológico - modalidade 20;"Exame otológico; modalidade de catálogo acadêmico 20";90.00
+500;Avaliação ortopédica - modalidade 20;"Avaliação ortopédica; modalidade de catálogo acadêmico 20";265.00

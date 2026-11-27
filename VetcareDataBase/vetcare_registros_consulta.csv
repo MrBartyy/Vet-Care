@@ -1,0 +1,1501 @@
+﻿id_consulta;id_animal;id_veterinario;data_hora;motivo;diagnostico;status
+1;1;1;2025-01-02 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+2;2;2;2025-01-03 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+3;3;3;2025-01-03 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+4;4;4;2025-01-03 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+5;5;5;2025-01-04 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+6;6;6;2025-01-04 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+7;7;7;2025-01-04 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+8;8;8;2025-01-05 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+9;9;9;2025-01-05 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+10;10;10;2025-01-06 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+11;11;11;2025-01-06 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+12;12;12;2025-01-06 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+13;13;13;2025-01-07 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+14;14;14;2025-01-07 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+15;15;15;2025-01-07 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+16;16;16;2025-01-08 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+17;17;17;2025-01-08 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+18;18;18;2025-01-09 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+19;19;19;2025-01-09 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+20;20;20;2025-01-09 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+21;21;21;2025-01-10 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+22;22;22;2025-01-10 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+23;23;23;2025-01-10 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+24;24;24;2025-01-11 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+25;25;25;2025-01-11 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+26;26;26;2025-01-12 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+27;27;27;2025-01-12 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+28;28;28;2025-01-12 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+29;29;29;2025-01-13 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+30;30;30;2025-01-13 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+31;31;31;2025-01-13 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+32;32;32;2025-01-14 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+33;33;33;2025-01-14 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+34;34;34;2025-01-15 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+35;35;35;2025-01-15 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+36;36;36;2025-01-15 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+37;37;37;2025-01-16 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+38;38;38;2025-01-16 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+39;39;39;2025-01-16 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+40;40;40;2025-01-17 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+41;41;41;2025-01-17 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+42;42;42;2025-01-18 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+43;43;43;2025-01-18 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+44;44;44;2025-01-18 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+45;45;45;2025-01-19 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+46;46;46;2025-01-19 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+47;47;47;2025-01-19 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+48;48;48;2025-01-20 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+49;49;49;2025-01-20 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+50;50;50;2025-01-21 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+51;51;51;2025-01-21 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+52;52;52;2025-01-21 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+53;53;53;2025-01-22 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+54;54;54;2025-01-22 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+55;55;55;2025-01-22 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+56;56;56;2025-01-23 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+57;57;57;2025-01-23 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+58;58;58;2025-01-24 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+59;59;59;2025-01-24 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+60;60;60;2025-01-24 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+61;61;61;2025-01-25 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+62;62;62;2025-01-25 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+63;63;63;2025-01-25 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+64;64;64;2025-01-26 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+65;65;65;2025-01-26 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+66;66;66;2025-01-27 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+67;67;67;2025-01-27 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+68;68;68;2025-01-27 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+69;69;69;2025-01-28 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+70;70;70;2025-01-28 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+71;71;71;2025-01-28 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+72;72;72;2025-01-29 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+73;73;73;2025-01-29 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+74;74;74;2025-01-30 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+75;75;75;2025-01-30 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+76;76;76;2025-01-30 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+77;77;77;2025-01-31 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+78;78;78;2025-01-31 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+79;79;79;2025-01-31 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+80;80;80;2025-02-01 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+81;81;81;2025-02-01 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+82;82;82;2025-02-02 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+83;83;83;2025-02-02 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+84;84;84;2025-02-02 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+85;85;85;2025-02-03 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+86;86;86;2025-02-03 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+87;87;87;2025-02-03 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+88;88;88;2025-02-04 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+89;89;89;2025-02-04 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+90;90;90;2025-02-05 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+91;91;91;2025-02-05 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+92;92;92;2025-02-05 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+93;93;93;2025-02-06 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+94;94;94;2025-02-06 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+95;95;95;2025-02-06 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+96;96;96;2025-02-07 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+97;97;97;2025-02-07 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+98;98;98;2025-02-08 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+99;99;99;2025-02-08 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+100;100;100;2025-02-08 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+101;101;101;2025-02-09 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+102;102;102;2025-02-09 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+103;103;103;2025-02-09 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+104;104;104;2025-02-10 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+105;105;105;2025-02-10 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+106;106;106;2025-02-11 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+107;107;107;2025-02-11 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+108;108;108;2025-02-11 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+109;109;109;2025-02-12 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+110;110;110;2025-02-12 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+111;111;111;2025-02-12 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+112;112;112;2025-02-13 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+113;113;113;2025-02-13 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+114;114;114;2025-02-14 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+115;115;115;2025-02-14 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+116;116;116;2025-02-14 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+117;117;117;2025-02-15 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+118;118;118;2025-02-15 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+119;119;119;2025-02-15 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+120;120;120;2025-02-16 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+121;121;121;2025-02-16 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+122;122;122;2025-02-17 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+123;123;123;2025-02-17 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+124;124;124;2025-02-17 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+125;125;125;2025-02-18 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+126;126;126;2025-02-18 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+127;127;127;2025-02-18 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+128;128;128;2025-02-19 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+129;129;129;2025-02-19 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+130;130;130;2025-02-20 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+131;131;131;2025-02-20 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+132;132;132;2025-02-20 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+133;133;133;2025-02-21 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+134;134;134;2025-02-21 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+135;135;135;2025-02-21 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+136;136;136;2025-02-22 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+137;137;137;2025-02-22 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+138;138;138;2025-02-23 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+139;139;139;2025-02-23 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+140;140;140;2025-02-23 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+141;141;141;2025-02-24 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+142;142;142;2025-02-24 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+143;143;143;2025-02-24 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+144;144;144;2025-02-25 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+145;145;145;2025-02-25 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+146;146;146;2025-02-26 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+147;147;147;2025-02-26 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+148;148;148;2025-02-26 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+149;149;149;2025-02-27 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+150;150;150;2025-02-27 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+151;151;151;2025-02-27 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+152;152;152;2025-02-28 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+153;153;153;2025-02-28 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+154;154;154;2025-03-01 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+155;155;155;2025-03-01 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+156;156;156;2025-03-01 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+157;157;157;2025-03-02 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+158;158;158;2025-03-02 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+159;159;159;2025-03-02 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+160;160;160;2025-03-03 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+161;161;161;2025-03-03 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+162;162;162;2025-03-04 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+163;163;163;2025-03-04 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+164;164;164;2025-03-04 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+165;165;165;2025-03-05 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+166;166;166;2025-03-05 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+167;167;167;2025-03-05 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+168;168;168;2025-03-06 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+169;169;169;2025-03-06 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+170;170;170;2025-03-07 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+171;171;171;2025-03-07 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+172;172;172;2025-03-07 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+173;173;173;2025-03-08 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+174;174;174;2025-03-08 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+175;175;175;2025-03-08 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+176;176;176;2025-03-09 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+177;177;177;2025-03-09 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+178;178;178;2025-03-10 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+179;179;179;2025-03-10 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+180;180;180;2025-03-10 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+181;181;181;2025-03-11 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+182;182;182;2025-03-11 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+183;183;183;2025-03-11 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+184;184;184;2025-03-12 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+185;185;185;2025-03-12 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+186;186;186;2025-03-13 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+187;187;187;2025-03-13 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+188;188;188;2025-03-13 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+189;189;189;2025-03-14 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+190;190;190;2025-03-14 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+191;191;191;2025-03-14 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+192;192;192;2025-03-15 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+193;193;193;2025-03-15 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+194;194;194;2025-03-16 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+195;195;195;2025-03-16 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+196;196;196;2025-03-16 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+197;197;197;2025-03-17 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+198;198;198;2025-03-17 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+199;199;199;2025-03-17 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+200;200;200;2025-03-18 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+201;201;201;2025-03-18 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+202;202;202;2025-03-19 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+203;203;203;2025-03-19 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+204;204;204;2025-03-19 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+205;205;205;2025-03-20 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+206;206;206;2025-03-20 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+207;207;207;2025-03-20 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+208;208;208;2025-03-21 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+209;209;209;2025-03-21 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+210;210;210;2025-03-22 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+211;211;211;2025-03-22 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+212;212;212;2025-03-22 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+213;213;213;2025-03-23 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+214;214;214;2025-03-23 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+215;215;215;2025-03-23 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+216;216;216;2025-03-24 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+217;217;217;2025-03-24 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+218;218;218;2025-03-25 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+219;219;219;2025-03-25 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+220;220;220;2025-03-25 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+221;221;221;2025-03-26 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+222;222;222;2025-03-26 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+223;223;223;2025-03-26 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+224;224;224;2025-03-27 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+225;225;225;2025-03-27 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+226;226;226;2025-03-28 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+227;227;227;2025-03-28 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+228;228;228;2025-03-28 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+229;229;229;2025-03-29 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+230;230;230;2025-03-29 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+231;231;231;2025-03-29 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+232;232;232;2025-03-30 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+233;233;233;2025-03-30 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+234;234;234;2025-03-31 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+235;235;235;2025-03-31 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+236;236;236;2025-03-31 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+237;237;237;2025-04-01 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+238;238;238;2025-04-01 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+239;239;239;2025-04-01 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+240;240;240;2025-04-02 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+241;241;241;2025-04-02 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+242;242;242;2025-04-03 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+243;243;243;2025-04-03 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+244;244;244;2025-04-03 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+245;245;245;2025-04-04 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+246;246;246;2025-04-04 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+247;247;247;2025-04-04 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+248;248;248;2025-04-05 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+249;249;249;2025-04-05 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+250;250;250;2025-04-06 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+251;251;251;2025-04-06 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+252;252;252;2025-04-06 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+253;253;253;2025-04-07 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+254;254;254;2025-04-07 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+255;255;255;2025-04-07 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+256;256;256;2025-04-08 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+257;257;257;2025-04-08 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+258;258;258;2025-04-09 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+259;259;259;2025-04-09 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+260;260;260;2025-04-09 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+261;261;261;2025-04-10 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+262;262;262;2025-04-10 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+263;263;263;2025-04-10 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+264;264;264;2025-04-11 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+265;265;265;2025-04-11 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+266;266;266;2025-04-12 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+267;267;267;2025-04-12 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+268;268;268;2025-04-12 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+269;269;269;2025-04-13 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+270;270;270;2025-04-13 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+271;271;271;2025-04-13 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+272;272;272;2025-04-14 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+273;273;273;2025-04-14 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+274;274;274;2025-04-15 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+275;275;275;2025-04-15 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+276;276;276;2025-04-15 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+277;277;277;2025-04-16 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+278;278;278;2025-04-16 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+279;279;279;2025-04-16 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+280;280;280;2025-04-17 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+281;281;281;2025-04-17 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+282;282;282;2025-04-18 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+283;283;283;2025-04-18 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+284;284;284;2025-04-18 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+285;285;285;2025-04-19 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+286;286;286;2025-04-19 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+287;287;287;2025-04-19 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+288;288;288;2025-04-20 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+289;289;289;2025-04-20 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+290;290;290;2025-04-21 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+291;291;291;2025-04-21 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+292;292;292;2025-04-21 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+293;293;293;2025-04-22 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+294;294;294;2025-04-22 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+295;295;295;2025-04-22 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+296;296;296;2025-04-23 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+297;297;297;2025-04-23 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+298;298;298;2025-04-24 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+299;299;299;2025-04-24 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+300;300;300;2025-04-24 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+301;301;301;2025-04-25 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+302;302;302;2025-04-25 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+303;303;303;2025-04-25 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+304;304;304;2025-04-26 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+305;305;305;2025-04-26 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+306;306;306;2025-04-27 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+307;307;307;2025-04-27 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+308;308;308;2025-04-27 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+309;309;309;2025-04-28 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+310;310;310;2025-04-28 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+311;311;311;2025-04-28 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+312;312;312;2025-04-29 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+313;313;313;2025-04-29 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+314;314;314;2025-04-30 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+315;315;315;2025-04-30 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+316;316;316;2025-04-30 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+317;317;317;2025-05-01 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+318;318;318;2025-05-01 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+319;319;319;2025-05-01 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+320;320;320;2025-05-02 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+321;321;321;2025-05-02 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+322;322;322;2025-05-03 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+323;323;323;2025-05-03 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+324;324;324;2025-05-03 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+325;325;325;2025-05-04 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+326;326;326;2025-05-04 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+327;327;327;2025-05-04 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+328;328;328;2025-05-05 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+329;329;329;2025-05-05 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+330;330;330;2025-05-06 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+331;331;331;2025-05-06 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+332;332;332;2025-05-06 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+333;333;333;2025-05-07 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+334;334;334;2025-05-07 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+335;335;335;2025-05-07 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+336;336;336;2025-05-08 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+337;337;337;2025-05-08 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+338;338;338;2025-05-09 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+339;339;339;2025-05-09 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+340;340;340;2025-05-09 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+341;341;341;2025-05-10 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+342;342;342;2025-05-10 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+343;343;343;2025-05-10 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+344;344;344;2025-05-11 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+345;345;345;2025-05-11 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+346;346;346;2025-05-12 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+347;347;347;2025-05-12 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+348;348;348;2025-05-12 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+349;349;349;2025-05-13 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+350;350;350;2025-05-13 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+351;351;351;2025-05-13 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+352;352;352;2025-05-14 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+353;353;353;2025-05-14 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+354;354;354;2025-05-15 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+355;355;355;2025-05-15 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+356;356;356;2025-05-15 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+357;357;357;2025-05-16 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+358;358;358;2025-05-16 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+359;359;359;2025-05-16 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+360;360;360;2025-05-17 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+361;361;361;2025-05-17 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+362;362;362;2025-05-18 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+363;363;363;2025-05-18 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+364;364;364;2025-05-18 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+365;365;365;2025-05-19 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+366;366;366;2025-05-19 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+367;367;367;2025-05-19 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+368;368;368;2025-05-20 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+369;369;369;2025-05-20 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+370;370;370;2025-05-21 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+371;371;371;2025-05-21 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+372;372;372;2025-05-21 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+373;373;373;2025-05-22 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+374;374;374;2025-05-22 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+375;375;375;2025-05-22 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+376;376;376;2025-05-23 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+377;377;377;2025-05-23 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+378;378;378;2025-05-24 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+379;379;379;2025-05-24 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+380;380;380;2025-05-24 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+381;381;381;2025-05-25 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+382;382;382;2025-05-25 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+383;383;383;2025-05-25 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+384;384;384;2025-05-26 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+385;385;385;2025-05-26 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+386;386;386;2025-05-27 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+387;387;387;2025-05-27 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+388;388;388;2025-05-27 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+389;389;389;2025-05-28 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+390;390;390;2025-05-28 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+391;391;391;2025-05-28 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+392;392;392;2025-05-29 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+393;393;393;2025-05-29 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+394;394;394;2025-05-30 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+395;395;395;2025-05-30 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+396;396;396;2025-05-30 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+397;397;397;2025-05-31 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+398;398;398;2025-05-31 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+399;399;399;2025-05-31 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+400;400;400;2025-06-01 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+401;401;401;2025-06-01 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+402;402;402;2025-06-02 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+403;403;403;2025-06-02 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+404;404;404;2025-06-02 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+405;405;405;2025-06-03 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+406;406;406;2025-06-03 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+407;407;407;2025-06-03 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+408;408;408;2025-06-04 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+409;409;409;2025-06-04 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+410;410;410;2025-06-05 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+411;411;411;2025-06-05 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+412;412;412;2025-06-05 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+413;413;413;2025-06-06 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+414;414;414;2025-06-06 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+415;415;415;2025-06-06 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+416;416;416;2025-06-07 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+417;417;417;2025-06-07 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+418;418;418;2025-06-08 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+419;419;419;2025-06-08 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+420;420;420;2025-06-08 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+421;421;421;2025-06-09 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+422;422;422;2025-06-09 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+423;423;423;2025-06-09 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+424;424;424;2025-06-10 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+425;425;425;2025-06-10 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+426;426;426;2025-06-11 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+427;427;427;2025-06-11 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+428;428;428;2025-06-11 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+429;429;429;2025-06-12 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+430;430;430;2025-06-12 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+431;431;431;2025-06-12 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+432;432;432;2025-06-13 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+433;433;433;2025-06-13 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+434;434;434;2025-06-14 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+435;435;435;2025-06-14 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+436;436;436;2025-06-14 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+437;437;437;2025-06-15 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+438;438;438;2025-06-15 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+439;439;439;2025-06-15 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+440;440;440;2025-06-16 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+441;441;441;2025-06-16 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+442;442;442;2025-06-17 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+443;443;443;2025-06-17 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+444;444;444;2025-06-17 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+445;445;445;2025-06-18 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+446;446;446;2025-06-18 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+447;447;447;2025-06-18 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+448;448;448;2025-06-19 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+449;449;449;2025-06-19 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+450;450;450;2025-06-20 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+451;451;451;2025-06-20 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+452;452;452;2025-06-20 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+453;453;453;2025-06-21 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+454;454;454;2025-06-21 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+455;455;455;2025-06-21 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+456;456;456;2025-06-22 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+457;457;457;2025-06-22 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+458;458;458;2025-06-23 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+459;459;459;2025-06-23 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+460;460;460;2025-06-23 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+461;461;461;2025-06-24 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+462;462;462;2025-06-24 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+463;463;463;2025-06-24 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+464;464;464;2025-06-25 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+465;465;465;2025-06-25 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+466;466;466;2025-06-26 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+467;467;467;2025-06-26 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+468;468;468;2025-06-26 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+469;469;469;2025-06-27 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+470;470;470;2025-06-27 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+471;471;471;2025-06-27 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+472;472;472;2025-06-28 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+473;473;473;2025-06-28 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+474;474;474;2025-06-29 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+475;475;475;2025-06-29 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+476;476;476;2025-06-29 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+477;477;477;2025-06-30 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+478;478;478;2025-06-30 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+479;479;479;2025-06-30 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+480;480;480;2025-07-01 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+481;481;481;2025-07-01 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+482;482;482;2025-07-02 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+483;483;483;2025-07-02 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+484;484;484;2025-07-02 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+485;485;485;2025-07-03 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+486;486;486;2025-07-03 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+487;487;487;2025-07-03 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+488;488;488;2025-07-04 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+489;489;489;2025-07-04 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+490;490;490;2025-07-05 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+491;491;491;2025-07-05 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+492;492;492;2025-07-05 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+493;493;493;2025-07-06 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+494;494;494;2025-07-06 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+495;495;495;2025-07-06 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+496;496;496;2025-07-07 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+497;497;497;2025-07-07 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+498;498;498;2025-07-08 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+499;499;499;2025-07-08 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+500;500;500;2025-07-08 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+501;501;1;2025-07-09 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+502;502;2;2025-07-09 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+503;503;3;2025-07-09 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+504;504;4;2025-07-10 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+505;505;5;2025-07-10 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+506;506;6;2025-07-11 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+507;507;7;2025-07-11 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+508;508;8;2025-07-11 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+509;509;9;2025-07-12 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+510;510;10;2025-07-12 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+511;511;11;2025-07-12 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+512;512;12;2025-07-13 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+513;513;13;2025-07-13 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+514;514;14;2025-07-14 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+515;515;15;2025-07-14 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+516;516;16;2025-07-14 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+517;517;17;2025-07-15 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+518;518;18;2025-07-15 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+519;519;19;2025-07-15 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+520;520;20;2025-07-16 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+521;521;21;2025-07-16 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+522;522;22;2025-07-17 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+523;523;23;2025-07-17 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+524;524;24;2025-07-17 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+525;525;25;2025-07-18 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+526;526;26;2025-07-18 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+527;527;27;2025-07-18 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+528;528;28;2025-07-19 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+529;529;29;2025-07-19 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+530;530;30;2025-07-20 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+531;531;31;2025-07-20 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+532;532;32;2025-07-20 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+533;533;33;2025-07-21 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+534;534;34;2025-07-21 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+535;535;35;2025-07-21 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+536;536;36;2025-07-22 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+537;537;37;2025-07-22 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+538;538;38;2025-07-23 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+539;539;39;2025-07-23 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+540;540;40;2025-07-23 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+541;541;41;2025-07-24 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+542;542;42;2025-07-24 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+543;543;43;2025-07-24 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+544;544;44;2025-07-25 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+545;545;45;2025-07-25 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+546;546;46;2025-07-26 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+547;547;47;2025-07-26 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+548;548;48;2025-07-26 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+549;549;49;2025-07-27 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+550;550;50;2025-07-27 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+551;551;51;2025-07-27 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+552;552;52;2025-07-28 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+553;553;53;2025-07-28 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+554;554;54;2025-07-29 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+555;555;55;2025-07-29 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+556;556;56;2025-07-29 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+557;557;57;2025-07-30 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+558;558;58;2025-07-30 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+559;559;59;2025-07-30 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+560;560;60;2025-07-31 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+561;561;61;2025-07-31 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+562;562;62;2025-08-01 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+563;563;63;2025-08-01 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+564;564;64;2025-08-01 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+565;565;65;2025-08-02 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+566;566;66;2025-08-02 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+567;567;67;2025-08-02 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+568;568;68;2025-08-03 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+569;569;69;2025-08-03 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+570;570;70;2025-08-04 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+571;571;71;2025-08-04 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+572;572;72;2025-08-04 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+573;573;73;2025-08-05 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+574;574;74;2025-08-05 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+575;575;75;2025-08-05 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+576;576;76;2025-08-06 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+577;577;77;2025-08-06 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+578;578;78;2025-08-07 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+579;579;79;2025-08-07 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+580;580;80;2025-08-07 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+581;581;81;2025-08-08 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+582;582;82;2025-08-08 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+583;583;83;2025-08-08 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+584;584;84;2025-08-09 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+585;585;85;2025-08-09 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+586;586;86;2025-08-10 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+587;587;87;2025-08-10 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+588;588;88;2025-08-10 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+589;589;89;2025-08-11 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+590;590;90;2025-08-11 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+591;591;91;2025-08-11 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+592;592;92;2025-08-12 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+593;593;93;2025-08-12 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+594;594;94;2025-08-13 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+595;595;95;2025-08-13 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+596;596;96;2025-08-13 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+597;597;97;2025-08-14 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+598;598;98;2025-08-14 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+599;599;99;2025-08-14 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+600;600;100;2025-08-15 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+601;601;101;2025-08-15 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+602;602;102;2025-08-16 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+603;603;103;2025-08-16 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+604;604;104;2025-08-16 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+605;605;105;2025-08-17 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+606;606;106;2025-08-17 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+607;607;107;2025-08-17 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+608;608;108;2025-08-18 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+609;609;109;2025-08-18 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+610;610;110;2025-08-19 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+611;611;111;2025-08-19 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+612;612;112;2025-08-19 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+613;613;113;2025-08-20 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+614;614;114;2025-08-20 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+615;615;115;2025-08-20 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+616;616;116;2025-08-21 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+617;617;117;2025-08-21 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+618;618;118;2025-08-22 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+619;619;119;2025-08-22 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+620;620;120;2025-08-22 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+621;621;121;2025-08-23 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+622;622;122;2025-08-23 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+623;623;123;2025-08-23 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+624;624;124;2025-08-24 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+625;625;125;2025-08-24 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+626;626;126;2025-08-25 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+627;627;127;2025-08-25 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+628;628;128;2025-08-25 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+629;629;129;2025-08-26 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+630;630;130;2025-08-26 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+631;631;131;2025-08-26 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+632;632;132;2025-08-27 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+633;633;133;2025-08-27 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+634;634;134;2025-08-28 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+635;635;135;2025-08-28 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+636;636;136;2025-08-28 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+637;637;137;2025-08-29 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+638;638;138;2025-08-29 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+639;639;139;2025-08-29 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+640;640;140;2025-08-30 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+641;641;141;2025-08-30 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+642;642;142;2025-08-31 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+643;643;143;2025-08-31 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+644;644;144;2025-08-31 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+645;645;145;2025-09-01 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+646;646;146;2025-09-01 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+647;647;147;2025-09-01 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+648;648;148;2025-09-02 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+649;649;149;2025-09-02 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+650;650;150;2025-09-03 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+651;651;151;2025-09-03 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+652;652;152;2025-09-03 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+653;653;153;2025-09-04 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+654;654;154;2025-09-04 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+655;655;155;2025-09-04 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+656;656;156;2025-09-05 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+657;657;157;2025-09-05 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+658;658;158;2025-09-06 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+659;659;159;2025-09-06 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+660;660;160;2025-09-06 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+661;661;161;2025-09-07 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+662;662;162;2025-09-07 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+663;663;163;2025-09-07 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+664;664;164;2025-09-08 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+665;665;165;2025-09-08 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+666;666;166;2025-09-09 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+667;667;167;2025-09-09 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+668;668;168;2025-09-09 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+669;669;169;2025-09-10 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+670;670;170;2025-09-10 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+671;671;171;2025-09-10 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+672;672;172;2025-09-11 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+673;673;173;2025-09-11 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+674;674;174;2025-09-12 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+675;675;175;2025-09-12 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+676;676;176;2025-09-12 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+677;677;177;2025-09-13 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+678;678;178;2025-09-13 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+679;679;179;2025-09-13 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+680;680;180;2025-09-14 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+681;681;181;2025-09-14 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+682;682;182;2025-09-15 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+683;683;183;2025-09-15 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+684;684;184;2025-09-15 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+685;685;185;2025-09-16 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+686;686;186;2025-09-16 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+687;687;187;2025-09-16 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+688;688;188;2025-09-17 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+689;689;189;2025-09-17 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+690;690;190;2025-09-18 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+691;691;191;2025-09-18 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+692;692;192;2025-09-18 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+693;693;193;2025-09-19 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+694;694;194;2025-09-19 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+695;695;195;2025-09-19 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+696;696;196;2025-09-20 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+697;697;197;2025-09-20 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+698;698;198;2025-09-21 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+699;699;199;2025-09-21 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+700;700;200;2025-09-21 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+701;701;201;2025-09-22 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+702;702;202;2025-09-22 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+703;703;203;2025-09-22 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+704;704;204;2025-09-23 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+705;705;205;2025-09-23 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+706;706;206;2025-09-24 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+707;707;207;2025-09-24 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+708;708;208;2025-09-24 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+709;709;209;2025-09-25 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+710;710;210;2025-09-25 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+711;711;211;2025-09-25 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+712;712;212;2025-09-26 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+713;713;213;2025-09-26 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+714;714;214;2025-09-27 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+715;715;215;2025-09-27 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+716;716;216;2025-09-27 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+717;717;217;2025-09-28 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+718;718;218;2025-09-28 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+719;719;219;2025-09-28 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+720;720;220;2025-09-29 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+721;721;221;2025-09-29 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+722;722;222;2025-09-30 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+723;723;223;2025-09-30 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+724;724;224;2025-09-30 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+725;725;225;2025-10-01 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+726;726;226;2025-10-01 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+727;727;227;2025-10-01 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+728;728;228;2025-10-02 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+729;729;229;2025-10-02 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+730;730;230;2025-10-03 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+731;731;231;2025-10-03 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+732;732;232;2025-10-03 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+733;733;233;2025-10-04 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+734;734;234;2025-10-04 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+735;735;235;2025-10-04 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+736;736;236;2025-10-05 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+737;737;237;2025-10-05 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+738;738;238;2025-10-06 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+739;739;239;2025-10-06 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+740;740;240;2025-10-06 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+741;741;241;2025-10-07 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+742;742;242;2025-10-07 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+743;743;243;2025-10-07 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+744;744;244;2025-10-08 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+745;745;245;2025-10-08 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+746;746;246;2025-10-09 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+747;747;247;2025-10-09 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+748;748;248;2025-10-09 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+749;749;249;2025-10-10 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+750;750;250;2025-10-10 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+751;751;251;2025-10-10 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+752;752;252;2025-10-11 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+753;753;253;2025-10-11 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+754;754;254;2025-10-12 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+755;755;255;2025-10-12 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+756;756;256;2025-10-12 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+757;757;257;2025-10-13 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+758;758;258;2025-10-13 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+759;759;259;2025-10-13 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+760;760;260;2025-10-14 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+761;761;261;2025-10-14 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+762;762;262;2025-10-15 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+763;763;263;2025-10-15 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+764;764;264;2025-10-15 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+765;765;265;2025-10-16 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+766;766;266;2025-10-16 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+767;767;267;2025-10-16 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+768;768;268;2025-10-17 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+769;769;269;2025-10-17 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+770;770;270;2025-10-18 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+771;771;271;2025-10-18 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+772;772;272;2025-10-18 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+773;773;273;2025-10-19 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+774;774;274;2025-10-19 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+775;775;275;2025-10-19 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+776;776;276;2025-10-20 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+777;777;277;2025-10-20 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+778;778;278;2025-10-21 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+779;779;279;2025-10-21 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+780;780;280;2025-10-21 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+781;781;281;2025-10-22 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+782;782;282;2025-10-22 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+783;783;283;2025-10-22 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+784;784;284;2025-10-23 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+785;785;285;2025-10-23 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+786;786;286;2025-10-24 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+787;787;287;2025-10-24 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+788;788;288;2025-10-24 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+789;789;289;2025-10-25 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+790;790;290;2025-10-25 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+791;791;291;2025-10-25 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+792;792;292;2025-10-26 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+793;793;293;2025-10-26 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+794;794;294;2025-10-27 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+795;795;295;2025-10-27 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+796;796;296;2025-10-27 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+797;797;297;2025-10-28 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+798;798;298;2025-10-28 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+799;799;299;2025-10-28 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+800;800;300;2025-10-29 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+801;1;301;2025-10-29 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+802;2;302;2025-10-30 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+803;3;303;2025-10-30 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+804;4;304;2025-10-30 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+805;5;305;2025-10-31 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+806;6;306;2025-10-31 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+807;7;307;2025-10-31 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+808;8;308;2025-11-01 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+809;9;309;2025-11-01 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+810;10;310;2025-11-02 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+811;11;311;2025-11-02 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+812;12;312;2025-11-02 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+813;13;313;2025-11-03 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+814;14;314;2025-11-03 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+815;15;315;2025-11-03 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+816;16;316;2025-11-04 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+817;17;317;2025-11-04 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+818;18;318;2025-11-05 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+819;19;319;2025-11-05 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+820;20;320;2025-11-05 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+821;21;321;2025-11-06 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+822;22;322;2025-11-06 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+823;23;323;2025-11-06 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+824;24;324;2025-11-07 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+825;25;325;2025-11-07 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+826;26;326;2025-11-08 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+827;27;327;2025-11-08 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+828;28;328;2025-11-08 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+829;29;329;2025-11-09 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+830;30;330;2025-11-09 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+831;31;331;2025-11-09 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+832;32;332;2025-11-10 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+833;33;333;2025-11-10 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+834;34;334;2025-11-11 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+835;35;335;2025-11-11 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+836;36;336;2025-11-11 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+837;37;337;2025-11-12 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+838;38;338;2025-11-12 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+839;39;339;2025-11-12 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+840;40;340;2025-11-13 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+841;41;341;2025-11-13 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+842;42;342;2025-11-14 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+843;43;343;2025-11-14 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+844;44;344;2025-11-14 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+845;45;345;2025-11-15 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+846;46;346;2025-11-15 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+847;47;347;2025-11-15 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+848;48;348;2025-11-16 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+849;49;349;2025-11-16 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+850;50;350;2025-11-17 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+851;51;351;2025-11-17 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+852;52;352;2025-11-17 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+853;53;353;2025-11-18 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+854;54;354;2025-11-18 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+855;55;355;2025-11-18 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+856;56;356;2025-11-19 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+857;57;357;2025-11-19 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+858;58;358;2025-11-20 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+859;59;359;2025-11-20 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+860;60;360;2025-11-20 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+861;61;361;2025-11-21 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+862;62;362;2025-11-21 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+863;63;363;2025-11-21 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+864;64;364;2025-11-22 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+865;65;365;2025-11-22 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+866;66;366;2025-11-23 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+867;67;367;2025-11-23 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+868;68;368;2025-11-23 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+869;69;369;2025-11-24 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+870;70;370;2025-11-24 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+871;71;371;2025-11-24 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+872;72;372;2025-11-25 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+873;73;373;2025-11-25 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+874;74;374;2025-11-26 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+875;75;375;2025-11-26 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+876;76;376;2025-11-26 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+877;77;377;2025-11-27 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+878;78;378;2025-11-27 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+879;79;379;2025-11-27 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+880;80;380;2025-11-28 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+881;81;381;2025-11-28 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+882;82;382;2025-11-29 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+883;83;383;2025-11-29 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+884;84;384;2025-11-29 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+885;85;385;2025-11-30 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+886;86;386;2025-11-30 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+887;87;387;2025-11-30 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+888;88;388;2025-12-01 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+889;89;389;2025-12-01 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+890;90;390;2025-12-02 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+891;91;391;2025-12-02 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+892;92;392;2025-12-02 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+893;93;393;2025-12-03 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+894;94;394;2025-12-03 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+895;95;395;2025-12-03 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+896;96;396;2025-12-04 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+897;97;397;2025-12-04 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+898;98;398;2025-12-05 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+899;99;399;2025-12-05 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+900;100;400;2025-12-05 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+901;101;401;2025-12-06 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+902;102;402;2025-12-06 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+903;103;403;2025-12-06 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+904;104;404;2025-12-07 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+905;105;405;2025-12-07 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+906;106;406;2025-12-08 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+907;107;407;2025-12-08 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+908;108;408;2025-12-08 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+909;109;409;2025-12-09 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+910;110;410;2025-12-09 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+911;111;411;2025-12-09 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+912;112;412;2025-12-10 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+913;113;413;2025-12-10 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+914;114;414;2025-12-11 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+915;115;415;2025-12-11 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+916;116;416;2025-12-11 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+917;117;417;2025-12-12 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+918;118;418;2025-12-12 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+919;119;419;2025-12-12 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+920;120;420;2025-12-13 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+921;121;421;2025-12-13 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+922;122;422;2025-12-14 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+923;123;423;2025-12-14 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+924;124;424;2025-12-14 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+925;125;425;2025-12-15 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+926;126;426;2025-12-15 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+927;127;427;2025-12-15 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+928;128;428;2025-12-16 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+929;129;429;2025-12-16 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+930;130;430;2025-12-17 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+931;131;431;2025-12-17 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+932;132;432;2025-12-17 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+933;133;433;2025-12-18 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+934;134;434;2025-12-18 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+935;135;435;2025-12-18 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+936;136;436;2025-12-19 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+937;137;437;2025-12-19 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+938;138;438;2025-12-20 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+939;139;439;2025-12-20 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+940;140;440;2025-12-20 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+941;141;441;2025-12-21 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+942;142;442;2025-12-21 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+943;143;443;2025-12-21 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+944;144;444;2025-12-22 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+945;145;445;2025-12-22 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+946;146;446;2025-12-23 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+947;147;447;2025-12-23 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+948;148;448;2025-12-23 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+949;149;449;2025-12-24 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+950;150;450;2025-12-24 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+951;151;451;2025-12-24 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+952;152;452;2025-12-25 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+953;153;453;2025-12-25 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+954;154;454;2025-12-26 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+955;155;455;2025-12-26 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+956;156;456;2025-12-26 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+957;157;457;2025-12-27 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+958;158;458;2025-12-27 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+959;159;459;2025-12-27 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+960;160;460;2025-12-28 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+961;161;461;2025-12-28 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+962;162;462;2025-12-29 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+963;163;463;2025-12-29 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+964;164;464;2025-12-29 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+965;165;465;2025-12-30 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+966;166;466;2025-12-30 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+967;167;467;2025-12-30 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+968;168;468;2025-12-31 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+969;169;469;2025-12-31 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+970;170;470;2026-01-01 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+971;171;471;2026-01-01 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+972;172;472;2026-01-01 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+973;173;473;2026-01-02 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+974;174;474;2026-01-02 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+975;175;475;2026-01-02 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+976;176;476;2026-01-03 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+977;177;477;2026-01-03 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+978;178;478;2026-01-04 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+979;179;479;2026-01-04 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+980;180;480;2026-01-04 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+981;181;481;2026-01-05 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+982;182;482;2026-01-05 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+983;183;483;2026-01-05 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+984;184;484;2026-01-06 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+985;185;485;2026-01-06 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+986;186;486;2026-01-07 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+987;187;487;2026-01-07 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+988;188;488;2026-01-07 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+989;189;489;2026-01-08 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+990;190;490;2026-01-08 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+991;191;491;2026-01-08 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+992;192;492;2026-01-09 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+993;193;493;2026-01-09 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+994;194;494;2026-01-10 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+995;195;495;2026-01-10 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+996;196;496;2026-01-10 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+997;197;497;2026-01-11 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+998;198;498;2026-01-11 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+999;199;499;2026-01-11 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1000;200;500;2026-01-12 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1001;201;1;2026-01-12 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1002;202;2;2026-01-13 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1003;203;3;2026-01-13 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1004;204;4;2026-01-13 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1005;205;5;2026-01-14 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1006;206;6;2026-01-14 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1007;207;7;2026-01-14 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1008;208;8;2026-01-15 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1009;209;9;2026-01-15 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1010;210;10;2026-01-16 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1011;211;11;2026-01-16 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1012;212;12;2026-01-16 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1013;213;13;2026-01-17 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1014;214;14;2026-01-17 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1015;215;15;2026-01-17 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1016;216;16;2026-01-18 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1017;217;17;2026-01-18 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1018;218;18;2026-01-19 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1019;219;19;2026-01-19 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1020;220;20;2026-01-19 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1021;221;21;2026-01-20 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1022;222;22;2026-01-20 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1023;223;23;2026-01-20 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1024;224;24;2026-01-21 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1025;225;25;2026-01-21 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1026;226;26;2026-01-22 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1027;227;27;2026-01-22 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1028;228;28;2026-01-22 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1029;229;29;2026-01-23 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1030;230;30;2026-01-23 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1031;231;31;2026-01-23 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1032;232;32;2026-01-24 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1033;233;33;2026-01-24 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1034;234;34;2026-01-25 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1035;235;35;2026-01-25 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1036;236;36;2026-01-25 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1037;237;37;2026-01-26 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1038;238;38;2026-01-26 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1039;239;39;2026-01-26 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1040;240;40;2026-01-27 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1041;241;41;2026-01-27 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1042;242;42;2026-01-28 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1043;243;43;2026-01-28 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1044;244;44;2026-01-28 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1045;245;45;2026-01-29 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1046;246;46;2026-01-29 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1047;247;47;2026-01-29 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1048;248;48;2026-01-30 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1049;249;49;2026-01-30 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1050;250;50;2026-01-31 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1051;251;51;2026-01-31 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1052;252;52;2026-01-31 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1053;253;53;2026-02-01 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1054;254;54;2026-02-01 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1055;255;55;2026-02-01 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1056;256;56;2026-02-02 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1057;257;57;2026-02-02 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1058;258;58;2026-02-03 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1059;259;59;2026-02-03 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1060;260;60;2026-02-03 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1061;261;61;2026-02-04 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1062;262;62;2026-02-04 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1063;263;63;2026-02-04 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1064;264;64;2026-02-05 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1065;265;65;2026-02-05 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1066;266;66;2026-02-06 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1067;267;67;2026-02-06 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1068;268;68;2026-02-06 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1069;269;69;2026-02-07 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1070;270;70;2026-02-07 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1071;271;71;2026-02-07 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1072;272;72;2026-02-08 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1073;273;73;2026-02-08 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1074;274;74;2026-02-09 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1075;275;75;2026-02-09 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1076;276;76;2026-02-09 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1077;277;77;2026-02-10 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1078;278;78;2026-02-10 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1079;279;79;2026-02-10 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1080;280;80;2026-02-11 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1081;281;81;2026-02-11 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1082;282;82;2026-02-12 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1083;283;83;2026-02-12 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1084;284;84;2026-02-12 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1085;285;85;2026-02-13 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1086;286;86;2026-02-13 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1087;287;87;2026-02-13 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1088;288;88;2026-02-14 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1089;289;89;2026-02-14 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1090;290;90;2026-02-15 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1091;291;91;2026-02-15 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1092;292;92;2026-02-15 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1093;293;93;2026-02-16 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1094;294;94;2026-02-16 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1095;295;95;2026-02-16 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1096;296;96;2026-02-17 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1097;297;97;2026-02-17 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1098;298;98;2026-02-18 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1099;299;99;2026-02-18 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1100;300;100;2026-02-18 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1101;301;101;2026-02-19 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1102;302;102;2026-02-19 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1103;303;103;2026-02-19 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1104;304;104;2026-02-20 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1105;305;105;2026-02-20 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1106;306;106;2026-02-21 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1107;307;107;2026-02-21 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1108;308;108;2026-02-21 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1109;309;109;2026-02-22 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1110;310;110;2026-02-22 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1111;311;111;2026-02-22 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1112;312;112;2026-02-23 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1113;313;113;2026-02-23 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1114;314;114;2026-02-24 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1115;315;115;2026-02-24 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1116;316;116;2026-02-24 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1117;317;117;2026-02-25 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1118;318;118;2026-02-25 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1119;319;119;2026-02-25 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1120;320;120;2026-02-26 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1121;321;121;2026-02-26 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1122;322;122;2026-02-27 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1123;323;123;2026-02-27 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1124;324;124;2026-02-27 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1125;325;125;2026-02-28 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1126;326;126;2026-02-28 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1127;327;127;2026-02-28 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1128;328;128;2026-03-01 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1129;329;129;2026-03-01 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1130;330;130;2026-03-02 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1131;331;131;2026-03-02 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1132;332;132;2026-03-02 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1133;333;133;2026-03-03 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1134;334;134;2026-03-03 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1135;335;135;2026-03-03 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1136;336;136;2026-03-04 08:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1137;337;137;2026-03-04 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1138;338;138;2026-03-05 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1139;339;139;2026-03-05 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1140;340;140;2026-03-05 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1141;341;141;2026-03-06 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1142;342;142;2026-03-06 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1143;343;143;2026-03-06 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1144;344;144;2026-03-07 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1145;345;145;2026-03-07 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1146;346;146;2026-03-08 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1147;347;147;2026-03-08 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1148;348;148;2026-03-08 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1149;349;149;2026-03-09 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1150;350;150;2026-03-09 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1151;351;151;2026-03-09 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1152;352;152;2026-03-10 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1153;353;153;2026-03-10 17:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1154;354;154;2026-03-11 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1155;355;155;2026-03-11 11:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1156;356;156;2026-03-11 20:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1157;357;157;2026-03-12 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1158;358;158;2026-03-12 14:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1159;359;159;2026-03-12 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1160;360;160;2026-03-13 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1161;361;161;2026-03-13 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1162;362;162;2026-03-14 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1163;363;163;2026-03-14 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1164;364;164;2026-03-14 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1165;365;165;2026-03-15 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1166;366;166;2026-03-15 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1167;367;167;2026-03-15 23:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1168;368;168;2026-03-16 08:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1169;369;169;2026-03-16 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1170;370;170;2026-03-17 02:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1171;371;171;2026-03-17 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1172;372;172;2026-03-17 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1173;373;173;2026-03-18 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1174;374;174;2026-03-18 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1175;375;175;2026-03-18 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1176;376;176;2026-03-19 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1177;377;177;2026-03-19 17:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1178;378;178;2026-03-20 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1179;379;179;2026-03-20 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1180;380;180;2026-03-20 20:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1181;381;181;2026-03-21 05:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1182;382;182;2026-03-21 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1183;383;183;2026-03-21 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1184;384;184;2026-03-22 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1185;385;185;2026-03-22 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1186;386;186;2026-03-23 02:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1187;387;187;2026-03-23 11:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1188;388;188;2026-03-23 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1189;389;189;2026-03-24 05:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1190;390;190;2026-03-24 14:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1191;391;191;2026-03-24 23:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1192;392;192;2026-03-25 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1193;393;193;2026-03-25 17:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1194;394;194;2026-03-26 02:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1195;395;195;2026-03-26 11:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1196;396;196;2026-03-26 20:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1197;397;197;2026-03-27 05:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1198;398;198;2026-03-27 14:00:00;Acompanhamento clínico;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1199;399;199;2026-03-27 23:00:00;Avaliação de rotina;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1200;400;200;2026-03-28 08:00:00;Avaliação preventiva;"Avaliação clínica registrada; acompanhamento conforme necessidade";Realizada
+1201;401;201;2026-03-28 17:00:00;Avaliação preventiva;;Cancelada
+1202;402;202;2026-03-29 02:00:00;Avaliação preventiva;;Cancelada
+1203;403;203;2026-03-29 11:00:00;Avaliação preventiva;;Cancelada
+1204;404;204;2026-03-29 20:00:00;Avaliação preventiva;;Cancelada
+1205;405;205;2026-03-30 05:00:00;Acompanhamento clínico;;Cancelada
+1206;406;206;2026-03-30 14:00:00;Acompanhamento clínico;;Cancelada
+1207;407;207;2026-03-30 23:00:00;Acompanhamento clínico;;Cancelada
+1208;408;208;2026-03-31 08:00:00;Acompanhamento clínico;;Cancelada
+1209;409;209;2026-03-31 17:00:00;Acompanhamento clínico;;Cancelada
+1210;410;210;2026-04-01 02:00:00;Avaliação de rotina;;Cancelada
+1211;411;211;2026-04-01 11:00:00;Avaliação de rotina;;Cancelada
+1212;412;212;2026-04-01 20:00:00;Avaliação de rotina;;Cancelada
+1213;413;213;2026-04-02 05:00:00;Avaliação preventiva;;Cancelada
+1214;414;214;2026-04-02 14:00:00;Avaliação preventiva;;Cancelada
+1215;415;215;2026-04-02 23:00:00;Avaliação de rotina;;Cancelada
+1216;416;216;2026-04-03 08:00:00;Acompanhamento clínico;;Cancelada
+1217;417;217;2026-04-03 17:00:00;Avaliação preventiva;;Cancelada
+1218;418;218;2026-04-04 02:00:00;Acompanhamento clínico;;Cancelada
+1219;419;219;2026-04-04 11:00:00;Avaliação preventiva;;Cancelada
+1220;420;220;2026-04-04 20:00:00;Avaliação preventiva;;Cancelada
+1221;421;221;2026-04-05 05:00:00;Acompanhamento clínico;;Cancelada
+1222;422;222;2026-04-05 14:00:00;Avaliação de rotina;;Cancelada
+1223;423;223;2026-04-05 23:00:00;Acompanhamento clínico;;Cancelada
+1224;424;224;2026-04-06 08:00:00;Acompanhamento clínico;;Cancelada
+1225;425;225;2026-04-06 17:00:00;Avaliação de rotina;;Cancelada
+1226;426;226;2026-04-07 02:00:00;Avaliação de rotina;;Cancelada
+1227;427;227;2026-04-07 11:00:00;Acompanhamento clínico;;Cancelada
+1228;428;228;2026-04-07 20:00:00;Acompanhamento clínico;;Cancelada
+1229;429;229;2026-04-08 05:00:00;Acompanhamento clínico;;Cancelada
+1230;430;230;2026-04-08 14:00:00;Acompanhamento clínico;;Cancelada
+1231;431;231;2026-04-08 23:00:00;Avaliação de rotina;;Cancelada
+1232;432;232;2026-04-09 08:00:00;Avaliação de rotina;;Cancelada
+1233;433;233;2026-04-09 17:00:00;Acompanhamento clínico;;Cancelada
+1234;434;234;2026-04-10 02:00:00;Acompanhamento clínico;;Cancelada
+1235;435;235;2026-04-10 11:00:00;Avaliação preventiva;;Cancelada
+1236;436;236;2026-04-10 20:00:00;Avaliação de rotina;;Cancelada
+1237;437;237;2026-04-11 05:00:00;Avaliação de rotina;;Cancelada
+1238;438;238;2026-04-11 14:00:00;Avaliação preventiva;;Cancelada
+1239;439;239;2026-04-11 23:00:00;Acompanhamento clínico;;Cancelada
+1240;440;240;2026-04-12 08:00:00;Avaliação de rotina;;Cancelada
+1241;441;241;2026-04-12 17:00:00;Avaliação de rotina;;Cancelada
+1242;442;242;2026-04-13 02:00:00;Avaliação de rotina;;Cancelada
+1243;443;243;2026-04-13 11:00:00;Avaliação preventiva;;Cancelada
+1244;444;244;2026-04-13 20:00:00;Avaliação preventiva;;Cancelada
+1245;445;245;2026-04-14 05:00:00;Avaliação de rotina;;Cancelada
+1246;446;246;2026-04-14 14:00:00;Avaliação de rotina;;Cancelada
+1247;447;247;2026-04-14 23:00:00;Avaliação preventiva;;Cancelada
+1248;448;248;2026-04-15 08:00:00;Avaliação de rotina;;Cancelada
+1249;449;249;2026-04-15 17:00:00;Avaliação preventiva;;Cancelada
+1250;450;250;2026-04-16 02:00:00;Avaliação preventiva;;Cancelada
+1251;451;251;2026-04-16 11:00:00;Avaliação de rotina;;Cancelada
+1252;452;252;2026-04-16 20:00:00;Avaliação de rotina;;Cancelada
+1253;453;253;2026-04-17 05:00:00;Acompanhamento clínico;;Cancelada
+1254;454;254;2026-04-17 14:00:00;Avaliação de rotina;;Cancelada
+1255;455;255;2026-04-17 23:00:00;Acompanhamento clínico;;Cancelada
+1256;456;256;2026-04-18 08:00:00;Avaliação de rotina;;Cancelada
+1257;457;257;2026-04-18 17:00:00;Acompanhamento clínico;;Cancelada
+1258;458;258;2026-04-19 02:00:00;Avaliação preventiva;;Cancelada
+1259;459;259;2026-04-19 11:00:00;Acompanhamento clínico;;Cancelada
+1260;460;260;2026-04-19 20:00:00;Avaliação preventiva;;Cancelada
+1261;461;261;2026-04-20 05:00:00;Acompanhamento clínico;;Cancelada
+1262;462;262;2026-04-20 14:00:00;Avaliação preventiva;;Cancelada
+1263;463;263;2026-04-20 23:00:00;Avaliação de rotina;;Cancelada
+1264;464;264;2026-04-21 08:00:00;Acompanhamento clínico;;Cancelada
+1265;465;265;2026-04-21 17:00:00;Acompanhamento clínico;;Cancelada
+1266;466;266;2026-04-22 02:00:00;Avaliação de rotina;;Cancelada
+1267;467;267;2026-04-22 11:00:00;Avaliação preventiva;;Cancelada
+1268;468;268;2026-04-22 20:00:00;Avaliação preventiva;;Cancelada
+1269;469;269;2026-04-23 05:00:00;Avaliação de rotina;;Cancelada
+1270;470;270;2026-04-23 14:00:00;Acompanhamento clínico;;Cancelada
+1271;471;271;2026-04-23 23:00:00;Acompanhamento clínico;;Cancelada
+1272;472;272;2026-04-24 08:00:00;Acompanhamento clínico;;Cancelada
+1273;473;273;2026-04-24 17:00:00;Acompanhamento clínico;;Cancelada
+1274;474;274;2026-04-25 02:00:00;Avaliação de rotina;;Cancelada
+1275;475;275;2026-04-25 11:00:00;Avaliação de rotina;;Cancelada
+1276;476;276;2026-04-25 20:00:00;Acompanhamento clínico;;Cancelada
+1277;477;277;2026-04-26 05:00:00;Avaliação preventiva;;Cancelada
+1278;478;278;2026-04-26 14:00:00;Avaliação preventiva;;Cancelada
+1279;479;279;2026-04-26 23:00:00;Avaliação de rotina;;Cancelada
+1280;480;280;2026-04-27 08:00:00;Acompanhamento clínico;;Cancelada
+1281;481;281;2026-04-27 17:00:00;Avaliação de rotina;;Cancelada
+1282;482;282;2026-04-28 02:00:00;Avaliação preventiva;;Cancelada
+1283;483;283;2026-04-28 11:00:00;Avaliação de rotina;;Cancelada
+1284;484;284;2026-04-28 20:00:00;Avaliação preventiva;;Cancelada
+1285;485;285;2026-04-29 05:00:00;Avaliação de rotina;;Cancelada
+1286;486;286;2026-04-29 14:00:00;Acompanhamento clínico;;Cancelada
+1287;487;287;2026-04-29 23:00:00;Avaliação de rotina;;Cancelada
+1288;488;288;2026-04-30 08:00:00;Avaliação preventiva;;Cancelada
+1289;489;289;2026-04-30 17:00:00;Acompanhamento clínico;;Cancelada
+1290;490;290;2026-05-01 02:00:00;Acompanhamento clínico;;Cancelada
+1291;491;291;2026-05-01 11:00:00;Acompanhamento clínico;;Cancelada
+1292;492;292;2026-05-01 20:00:00;Avaliação preventiva;;Cancelada
+1293;493;293;2026-05-02 05:00:00;Avaliação preventiva;;Cancelada
+1294;494;294;2026-05-02 14:00:00;Avaliação preventiva;;Cancelada
+1295;495;295;2026-05-02 23:00:00;Avaliação preventiva;;Cancelada
+1296;496;296;2026-05-03 08:00:00;Avaliação de rotina;;Cancelada
+1297;497;297;2026-05-03 17:00:00;Avaliação preventiva;;Cancelada
+1298;498;298;2026-05-04 02:00:00;Avaliação preventiva;;Cancelada
+1299;499;299;2026-05-04 11:00:00;Acompanhamento clínico;;Cancelada
+1300;500;300;2026-05-04 20:00:00;Avaliação de rotina;;Cancelada
+1301;501;301;2026-11-25 08:00:00;Acompanhamento clínico;;Agendada
+1302;502;302;2026-11-25 11:00:00;Avaliação de rotina;;Agendada
+1303;503;303;2026-11-25 14:00:00;Avaliação preventiva;;Agendada
+1304;504;304;2026-11-25 17:00:00;Avaliação preventiva;;Agendada
+1305;505;305;2026-11-25 20:00:00;Acompanhamento clínico;;Agendada
+1306;506;306;2026-11-25 23:00:00;Avaliação de rotina;;Agendada
+1307;507;307;2026-11-26 02:00:00;Avaliação preventiva;;Agendada
+1308;508;308;2026-11-26 05:00:00;Avaliação preventiva;;Agendada
+1309;509;309;2026-11-26 08:00:00;Avaliação preventiva;;Agendada
+1310;510;310;2026-11-26 11:00:00;Avaliação de rotina;;Agendada
+1311;511;311;2026-11-26 14:00:00;Avaliação preventiva;;Agendada
+1312;512;312;2026-11-26 17:00:00;Avaliação preventiva;;Agendada
+1313;513;313;2026-11-26 20:00:00;Avaliação de rotina;;Agendada
+1314;514;314;2026-11-26 23:00:00;Avaliação de rotina;;Agendada
+1315;515;315;2026-11-27 02:00:00;Avaliação de rotina;;Agendada
+1316;516;316;2026-11-27 05:00:00;Avaliação preventiva;;Agendada
+1317;517;317;2026-11-27 08:00:00;Acompanhamento clínico;;Agendada
+1318;518;318;2026-11-27 11:00:00;Avaliação de rotina;;Agendada
+1319;519;319;2026-11-27 14:00:00;Avaliação preventiva;;Agendada
+1320;520;320;2026-11-27 17:00:00;Avaliação de rotina;;Agendada
+1321;521;321;2026-11-27 20:00:00;Acompanhamento clínico;;Agendada
+1322;522;322;2026-11-27 23:00:00;Acompanhamento clínico;;Agendada
+1323;523;323;2026-11-28 02:00:00;Avaliação de rotina;;Agendada
+1324;524;324;2026-11-28 05:00:00;Acompanhamento clínico;;Agendada
+1325;525;325;2026-11-28 08:00:00;Avaliação de rotina;;Agendada
+1326;526;326;2026-11-28 11:00:00;Avaliação preventiva;;Agendada
+1327;527;327;2026-11-28 14:00:00;Acompanhamento clínico;;Agendada
+1328;528;328;2026-11-28 17:00:00;Acompanhamento clínico;;Agendada
+1329;529;329;2026-11-28 20:00:00;Avaliação de rotina;;Agendada
+1330;530;330;2026-11-28 23:00:00;Avaliação de rotina;;Agendada
+1331;531;331;2026-11-29 02:00:00;Avaliação preventiva;;Agendada
+1332;532;332;2026-11-29 05:00:00;Avaliação de rotina;;Agendada
+1333;533;333;2026-11-29 08:00:00;Avaliação preventiva;;Agendada
+1334;534;334;2026-11-29 11:00:00;Avaliação preventiva;;Agendada
+1335;535;335;2026-11-29 14:00:00;Avaliação preventiva;;Agendada
+1336;536;336;2026-11-29 17:00:00;Avaliação de rotina;;Agendada
+1337;537;337;2026-11-29 20:00:00;Avaliação de rotina;;Agendada
+1338;538;338;2026-11-29 23:00:00;Acompanhamento clínico;;Agendada
+1339;539;339;2026-11-30 02:00:00;Avaliação de rotina;;Agendada
+1340;540;340;2026-11-30 05:00:00;Acompanhamento clínico;;Agendada
+1341;541;341;2026-11-30 08:00:00;Avaliação preventiva;;Agendada
+1342;542;342;2026-11-30 11:00:00;Avaliação preventiva;;Agendada
+1343;543;343;2026-11-30 14:00:00;Avaliação de rotina;;Agendada
+1344;544;344;2026-11-30 17:00:00;Avaliação preventiva;;Agendada
+1345;545;345;2026-11-30 20:00:00;Avaliação de rotina;;Agendada
+1346;546;346;2026-11-30 23:00:00;Avaliação de rotina;;Agendada
+1347;547;347;2026-12-01 02:00:00;Acompanhamento clínico;;Agendada
+1348;548;348;2026-12-01 05:00:00;Avaliação preventiva;;Agendada
+1349;549;349;2026-12-01 08:00:00;Acompanhamento clínico;;Agendada
+1350;550;350;2026-12-01 11:00:00;Avaliação preventiva;;Agendada
+1351;551;351;2026-12-01 14:00:00;Acompanhamento clínico;;Agendada
+1352;552;352;2026-12-01 17:00:00;Avaliação preventiva;;Agendada
+1353;553;353;2026-12-01 20:00:00;Avaliação preventiva;;Agendada
+1354;554;354;2026-12-01 23:00:00;Avaliação de rotina;;Agendada
+1355;555;355;2026-12-02 02:00:00;Avaliação preventiva;;Agendada
+1356;556;356;2026-12-02 05:00:00;Acompanhamento clínico;;Agendada
+1357;557;357;2026-12-02 08:00:00;Acompanhamento clínico;;Agendada
+1358;558;358;2026-12-02 11:00:00;Avaliação preventiva;;Agendada
+1359;559;359;2026-12-02 14:00:00;Avaliação preventiva;;Agendada
+1360;560;360;2026-12-02 17:00:00;Avaliação de rotina;;Agendada
+1361;561;361;2026-12-02 20:00:00;Acompanhamento clínico;;Agendada
+1362;562;362;2026-12-02 23:00:00;Avaliação de rotina;;Agendada
+1363;563;363;2026-12-03 02:00:00;Acompanhamento clínico;;Agendada
+1364;564;364;2026-12-03 05:00:00;Avaliação preventiva;;Agendada
+1365;565;365;2026-12-03 08:00:00;Acompanhamento clínico;;Agendada
+1366;566;366;2026-12-03 11:00:00;Acompanhamento clínico;;Agendada
+1367;567;367;2026-12-03 14:00:00;Avaliação preventiva;;Agendada
+1368;568;368;2026-12-03 17:00:00;Acompanhamento clínico;;Agendada
+1369;569;369;2026-12-03 20:00:00;Avaliação preventiva;;Agendada
+1370;570;370;2026-12-03 23:00:00;Acompanhamento clínico;;Agendada
+1371;571;371;2026-12-04 02:00:00;Avaliação preventiva;;Agendada
+1372;572;372;2026-12-04 05:00:00;Acompanhamento clínico;;Agendada
+1373;573;373;2026-12-04 08:00:00;Acompanhamento clínico;;Agendada
+1374;574;374;2026-12-04 11:00:00;Avaliação de rotina;;Agendada
+1375;575;375;2026-12-04 14:00:00;Avaliação de rotina;;Agendada
+1376;576;376;2026-12-04 17:00:00;Avaliação de rotina;;Agendada
+1377;577;377;2026-12-04 20:00:00;Acompanhamento clínico;;Agendada
+1378;578;378;2026-12-04 23:00:00;Acompanhamento clínico;;Agendada
+1379;579;379;2026-12-05 02:00:00;Acompanhamento clínico;;Agendada
+1380;580;380;2026-12-05 05:00:00;Acompanhamento clínico;;Agendada
+1381;581;381;2026-12-05 08:00:00;Avaliação de rotina;;Agendada
+1382;582;382;2026-12-05 11:00:00;Avaliação preventiva;;Agendada
+1383;583;383;2026-12-05 14:00:00;Acompanhamento clínico;;Agendada
+1384;584;384;2026-12-05 17:00:00;Avaliação de rotina;;Agendada
+1385;585;385;2026-12-05 20:00:00;Avaliação de rotina;;Agendada
+1386;586;386;2026-12-05 23:00:00;Acompanhamento clínico;;Agendada
+1387;587;387;2026-12-06 02:00:00;Acompanhamento clínico;;Agendada
+1388;588;388;2026-12-06 05:00:00;Avaliação preventiva;;Agendada
+1389;589;389;2026-12-06 08:00:00;Avaliação de rotina;;Agendada
+1390;590;390;2026-12-06 11:00:00;Acompanhamento clínico;;Agendada
+1391;591;391;2026-12-06 14:00:00;Avaliação preventiva;;Agendada
+1392;592;392;2026-12-06 17:00:00;Acompanhamento clínico;;Agendada
+1393;593;393;2026-12-06 20:00:00;Avaliação preventiva;;Agendada
+1394;594;394;2026-12-06 23:00:00;Avaliação de rotina;;Agendada
+1395;595;395;2026-12-07 02:00:00;Acompanhamento clínico;;Agendada
+1396;596;396;2026-12-07 05:00:00;Acompanhamento clínico;;Agendada
+1397;597;397;2026-12-07 08:00:00;Avaliação preventiva;;Agendada
+1398;598;398;2026-12-07 11:00:00;Acompanhamento clínico;;Agendada
+1399;599;399;2026-12-07 14:00:00;Avaliação preventiva;;Agendada
+1400;600;400;2026-12-07 17:00:00;Avaliação de rotina;;Agendada
+1401;601;401;2026-12-07 20:00:00;Avaliação de rotina;;Agendada
+1402;602;402;2026-12-07 23:00:00;Acompanhamento clínico;;Agendada
+1403;603;403;2026-12-08 02:00:00;Acompanhamento clínico;;Agendada
+1404;604;404;2026-12-08 05:00:00;Avaliação preventiva;;Agendada
+1405;605;405;2026-12-08 08:00:00;Avaliação de rotina;;Agendada
+1406;606;406;2026-12-08 11:00:00;Acompanhamento clínico;;Agendada
+1407;607;407;2026-12-08 14:00:00;Avaliação de rotina;;Agendada
+1408;608;408;2026-12-08 17:00:00;Avaliação preventiva;;Agendada
+1409;609;409;2026-12-08 20:00:00;Acompanhamento clínico;;Agendada
+1410;610;410;2026-12-08 23:00:00;Acompanhamento clínico;;Agendada
+1411;611;411;2026-12-09 02:00:00;Avaliação preventiva;;Agendada
+1412;612;412;2026-12-09 05:00:00;Acompanhamento clínico;;Agendada
+1413;613;413;2026-12-09 08:00:00;Acompanhamento clínico;;Agendada
+1414;614;414;2026-12-09 11:00:00;Acompanhamento clínico;;Agendada
+1415;615;415;2026-12-09 14:00:00;Acompanhamento clínico;;Agendada
+1416;616;416;2026-12-09 17:00:00;Acompanhamento clínico;;Agendada
+1417;617;417;2026-12-09 20:00:00;Acompanhamento clínico;;Agendada
+1418;618;418;2026-12-09 23:00:00;Acompanhamento clínico;;Agendada
+1419;619;419;2026-12-10 02:00:00;Avaliação de rotina;;Agendada
+1420;620;420;2026-12-10 05:00:00;Acompanhamento clínico;;Agendada
+1421;621;421;2026-12-10 08:00:00;Acompanhamento clínico;;Agendada
+1422;622;422;2026-12-10 11:00:00;Avaliação preventiva;;Agendada
+1423;623;423;2026-12-10 14:00:00;Avaliação de rotina;;Agendada
+1424;624;424;2026-12-10 17:00:00;Acompanhamento clínico;;Agendada
+1425;625;425;2026-12-10 20:00:00;Avaliação preventiva;;Agendada
+1426;626;426;2026-12-10 23:00:00;Avaliação de rotina;;Agendada
+1427;627;427;2026-12-11 02:00:00;Acompanhamento clínico;;Agendada
+1428;628;428;2026-12-11 05:00:00;Acompanhamento clínico;;Agendada
+1429;629;429;2026-12-11 08:00:00;Acompanhamento clínico;;Agendada
+1430;630;430;2026-12-11 11:00:00;Avaliação de rotina;;Agendada
+1431;631;431;2026-12-11 14:00:00;Avaliação preventiva;;Agendada
+1432;632;432;2026-12-11 17:00:00;Avaliação de rotina;;Agendada
+1433;633;433;2026-12-11 20:00:00;Avaliação preventiva;;Agendada
+1434;634;434;2026-12-11 23:00:00;Avaliação de rotina;;Agendada
+1435;635;435;2026-12-12 02:00:00;Avaliação preventiva;;Agendada
+1436;636;436;2026-12-12 05:00:00;Avaliação de rotina;;Agendada
+1437;637;437;2026-12-12 08:00:00;Avaliação preventiva;;Agendada
+1438;638;438;2026-12-12 11:00:00;Avaliação preventiva;;Agendada
+1439;639;439;2026-12-12 14:00:00;Acompanhamento clínico;;Agendada
+1440;640;440;2026-12-12 17:00:00;Avaliação de rotina;;Agendada
+1441;641;441;2026-12-12 20:00:00;Avaliação preventiva;;Agendada
+1442;642;442;2026-12-12 23:00:00;Avaliação preventiva;;Agendada
+1443;643;443;2026-12-13 02:00:00;Avaliação de rotina;;Agendada
+1444;644;444;2026-12-13 05:00:00;Avaliação preventiva;;Agendada
+1445;645;445;2026-12-13 08:00:00;Avaliação de rotina;;Agendada
+1446;646;446;2026-12-13 11:00:00;Acompanhamento clínico;;Agendada
+1447;647;447;2026-12-13 14:00:00;Avaliação de rotina;;Agendada
+1448;648;448;2026-12-13 17:00:00;Avaliação preventiva;;Agendada
+1449;649;449;2026-12-13 20:00:00;Acompanhamento clínico;;Agendada
+1450;650;450;2026-12-13 23:00:00;Acompanhamento clínico;;Agendada
+1451;651;451;2026-12-14 02:00:00;Avaliação preventiva;;Agendada
+1452;652;452;2026-12-14 05:00:00;Avaliação de rotina;;Agendada
+1453;653;453;2026-12-14 08:00:00;Avaliação preventiva;;Agendada
+1454;654;454;2026-12-14 11:00:00;Avaliação de rotina;;Agendada
+1455;655;455;2026-12-14 14:00:00;Avaliação preventiva;;Agendada
+1456;656;456;2026-12-14 17:00:00;Avaliação de rotina;;Agendada
+1457;657;457;2026-12-14 20:00:00;Acompanhamento clínico;;Agendada
+1458;658;458;2026-12-14 23:00:00;Avaliação preventiva;;Agendada
+1459;659;459;2026-12-15 02:00:00;Avaliação de rotina;;Agendada
+1460;660;460;2026-12-15 05:00:00;Avaliação de rotina;;Agendada
+1461;661;461;2026-12-15 08:00:00;Avaliação preventiva;;Agendada
+1462;662;462;2026-12-15 11:00:00;Acompanhamento clínico;;Agendada
+1463;663;463;2026-12-15 14:00:00;Avaliação preventiva;;Agendada
+1464;664;464;2026-12-15 17:00:00;Avaliação de rotina;;Agendada
+1465;665;465;2026-12-15 20:00:00;Acompanhamento clínico;;Agendada
+1466;666;466;2026-12-15 23:00:00;Avaliação de rotina;;Agendada
+1467;667;467;2026-12-16 02:00:00;Acompanhamento clínico;;Agendada
+1468;668;468;2026-12-16 05:00:00;Acompanhamento clínico;;Agendada
+1469;669;469;2026-12-16 08:00:00;Acompanhamento clínico;;Agendada
+1470;670;470;2026-12-16 11:00:00;Avaliação de rotina;;Agendada
+1471;671;471;2026-12-16 14:00:00;Avaliação preventiva;;Agendada
+1472;672;472;2026-12-16 17:00:00;Avaliação preventiva;;Agendada
+1473;673;473;2026-12-16 20:00:00;Avaliação de rotina;;Agendada
+1474;674;474;2026-12-16 23:00:00;Avaliação de rotina;;Agendada
+1475;675;475;2026-12-17 02:00:00;Avaliação de rotina;;Agendada
+1476;676;476;2026-12-17 05:00:00;Avaliação de rotina;;Agendada
+1477;677;477;2026-12-17 08:00:00;Avaliação preventiva;;Agendada
+1478;678;478;2026-12-17 11:00:00;Avaliação de rotina;;Agendada
+1479;679;479;2026-12-17 14:00:00;Avaliação preventiva;;Agendada
+1480;680;480;2026-12-17 17:00:00;Acompanhamento clínico;;Agendada
+1481;681;481;2026-12-17 20:00:00;Acompanhamento clínico;;Agendada
+1482;682;482;2026-12-17 23:00:00;Avaliação de rotina;;Agendada
+1483;683;483;2026-12-18 02:00:00;Avaliação de rotina;;Agendada
+1484;684;484;2026-12-18 05:00:00;Acompanhamento clínico;;Agendada
+1485;685;485;2026-12-18 08:00:00;Acompanhamento clínico;;Agendada
+1486;686;486;2026-12-18 11:00:00;Avaliação de rotina;;Agendada
+1487;687;487;2026-12-18 14:00:00;Avaliação de rotina;;Agendada
+1488;688;488;2026-12-18 17:00:00;Avaliação preventiva;;Agendada
+1489;689;489;2026-12-18 20:00:00;Avaliação preventiva;;Agendada
+1490;690;490;2026-12-18 23:00:00;Avaliação de rotina;;Agendada
+1491;691;491;2026-12-19 02:00:00;Avaliação de rotina;;Agendada
+1492;692;492;2026-12-19 05:00:00;Acompanhamento clínico;;Agendada
+1493;693;493;2026-12-19 08:00:00;Avaliação preventiva;;Agendada
+1494;694;494;2026-12-19 11:00:00;Avaliação de rotina;;Agendada
+1495;695;495;2026-12-19 14:00:00;Acompanhamento clínico;;Agendada
+1496;696;496;2026-12-19 17:00:00;Avaliação preventiva;;Agendada
+1497;697;497;2026-12-19 20:00:00;Acompanhamento clínico;;Agendada
+1498;698;498;2026-12-19 23:00:00;Avaliação de rotina;;Agendada
+1499;699;499;2026-12-20 02:00:00;Avaliação preventiva;;Agendada
+1500;700;500;2026-12-20 05:00:00;Acompanhamento clínico;;Agendada
