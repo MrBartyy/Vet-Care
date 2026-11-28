@@ -655,12 +655,14 @@ READ
 
 
 ![enter image description here](https://i.imgur.com/7aXvaiv.png)
+
     SELECT *
     FROM vetcare.tutor
     WHERE id_tutor >= 491 and id_tutor <= 501;
 
     
 ![enter image description here](https://i.imgur.com/cEzylCr.png)
+
     SELECT
     tutor.id_tutor,
     tutor.nome_tutor,
@@ -674,6 +676,7 @@ READ
 
     
 ![enter image description here](https://i.imgur.com/AMXiYf9.png)
+
     SELECT
     animal.nome_animal,
     animal.especie_animal,
@@ -688,6 +691,7 @@ READ
 
     
 ![enter image description here](https://i.imgur.com/pCJWHgD.png)
+
     SELECT
     consulta.id_consulta,
     tutor.nome_tutor,
@@ -707,6 +711,7 @@ READ
 
     
 ![enter image description here](https://i.imgur.com/npUwGos.png)
+
     SELECT
     consulta.id_consulta,
     procedimento.nome_procedimento,
@@ -732,42 +737,49 @@ As operações de atualização demonstraram a possibilidade de modificar inform
   
 
 ![enter image description here](https://i.imgur.com/QoB3cMy.png)
+
     UPDATE vetcare.tutor
     SET email_tutor = 'lucas.pergolato@example.com'
     WHERE id_tutor = 501
     RETURNING *;
     
 ![enter image description here](https://i.imgur.com/rWD8OJn.png)
+
     UPDATE vetcare.telefone_tutor
     SET numero_telefone = '(16) 99876-5432'
     WHERE id_telefone = 10001
     RETURNING *;
 
-![enter image description here](https://i.imgur.com/GVhQnv1.png)    
+![enter image description here](https://i.imgur.com/GVhQnv1.png)  
+
     UPDATE vetcare.animal
     SET nome_animal = 'Thor Max'
     WHERE id_animal = 10001
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/io3bor6.png)
+
     UPDATE vetcare.veterinario
     SET especialidade = 'Medicina Preventiva'
     WHERE id_veterinario = 10001
     RETURNING *;
     
 ![enter image description here](https://i.imgur.com/BSqnwuv.png)
+
     UPDATE vetcare.prontuario
     SET observacoes = 'Animal vacinado e em boas condições de saúde'
     WHERE id_animal = 10001
     RETURNING *;
     
 ![enter image description here](https://i.imgur.com/0eAumGk.png)
+
     UPDATE vetcare.procedimento
     SET valor = 180.00
     WHERE id_procedimento = 10001
     RETURNING *;
     
 ![enter image description here](https://i.imgur.com/OiVQ6YS.png)
+
     UPDATE vetcare.consulta_procedimento
     SET valor_unitario = 180.00
     WHERE id_consulta = 10001
@@ -775,6 +787,7 @@ As operações de atualização demonstraram a possibilidade de modificar inform
     RETURNING *;
     
 ![enter image description here](https://i.imgur.com/xzNYgnK.png)
+
     UPDATE vetcare.consulta
     SET
     status = 'Realizada',
@@ -795,36 +808,43 @@ Por fim, os registros utilizados na demonstração foram excluídos, respeitando
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/Chx45JJ.png)
+
     DELETE FROM vetcare.consulta
     WHERE id_consulta = 10001
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/Y3lODWY.png)
+
     DELETE FROM vetcare.prontuario
     WHERE id_animal = 10001
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/wsyZNPe.png)
+
     DELETE FROM vetcare.animal
     WHERE id_animal = 10001
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/tWUjfNA.png)
+
     DELETE FROM vetcare.telefone_tutor
     WHERE id_telefone = 10001
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/aLuykzh.png)
+
     DELETE FROM vetcare.tutor
     WHERE id_tutor = 501
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/gYdlk5J.png)
+
     DELETE FROM vetcare.veterinario
     WHERE id_veterinario = 10001
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/yOssHEP.png)
+
     DELETE FROM vetcare.procedimento
     WHERE id_procedimento = 10001
     RETURNING *;
