@@ -227,25 +227,25 @@ Criação das tables:
 
     CREATE TABLE vetcare.tutor(
 
-    id_tutor INT PRIMARY KEY,
+        id_tutor INT PRIMARY KEY,
 
-    nome_tutor VARCHAR(100) NOT NULL,
+        nome_tutor VARCHAR(100) NOT NULL,
 
-    cpf VARCHAR(14) NOT NULL,
+        cpf VARCHAR(14) NOT NULL,
 
-    email_tutor VARCHAR(120) NOT NULL,
+        email_tutor VARCHAR(120) NOT NULL,
 
-    rua VARCHAR(100) NOT NULL,
+        rua VARCHAR(100) NOT NULL,
 
-    numero VARCHAR(10) NOT NULL,
+        numero VARCHAR(10) NOT NULL,
 
-    bairro VARCHAR(80) NOT NULL,
+        bairro VARCHAR(80) NOT NULL,
 
-    cidade VARCHAR(80) NOT NULL,
+        cidade VARCHAR(80) NOT NULL,
 
-    uf CHAR(2) NOT NULL,
+        uf CHAR(2) NOT NULL,
 
-    cep VARCHAR(9) NOT NULL
+        cep VARCHAR(9) NOT NULL
 
     );
 
@@ -253,11 +253,11 @@ Criação das tables:
 
     CREATE TABLE vetcare.telefone_tutor (
 
-    id_telefone INT PRIMARY KEY,
+        id_telefone INT PRIMARY KEY,
 
-    id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
+        id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
 
-    numero_telefone VARCHAR(15) NOT NULL
+        numero_telefone VARCHAR(15) NOT NULL
 
     );
 
@@ -265,19 +265,19 @@ Criação das tables:
 
     CREATE TABLE vetcare.animal (
 
-    id_animal INT PRIMARY KEY,
+        id_animal INT PRIMARY KEY,
 
-    id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
+        id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
 
-    nome_animal VARCHAR(60) NOT NULL,
+        nome_animal VARCHAR(60) NOT NULL,
 
-    especie_animal VARCHAR(30) NOT NULL,
+        especie_animal VARCHAR(30) NOT NULL,
 
-    raca_animal VARCHAR(60) NOT NULL,
+        raca_animal VARCHAR(60) NOT NULL,
 
-    sexo_animal CHAR(1) NOT NULL CHECK (sexo_animal IN ('M','F')),
+        sexo_animal CHAR(1) NOT NULL CHECK (sexo_animal IN ('M','F')),
 
-    data_nasc DATE NOT NULL
+        data_nasc DATE NOT NULL
 
     );
 
@@ -285,13 +285,13 @@ Criação das tables:
 
     CREATE TABLE vetcare.veterinario(
 
-    id_veterinario INT PRIMARY KEY NOT NULL,
+        id_veterinario INT PRIMARY KEY NOT NULL,
 
-    nome_veterinario VARCHAR(150) NOT NULL,
+        nome_veterinario VARCHAR(150) NOT NULL,
 
-    crmv VARCHAR(20) NOT NULL UNIQUE,
+        crmv VARCHAR(20) NOT NULL UNIQUE,
 
-    especialidade VARCHAR (80) NOT NULL
+        especialidade VARCHAR (80) NOT NULL
 
     );
 
@@ -299,15 +299,15 @@ Criação das tables:
 
     CREATE TABLE vetcare.prontuario(
 
-    id_prontuario INT PRIMARY KEY NOT NULL,
+        id_prontuario INT PRIMARY KEY NOT NULL,
 
-    id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
+        id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
 
-    data_abertura DATE NOT NULL,
+        data_abertura DATE NOT NULL,
 
-    alergias TEXT,
+        alergias TEXT,
 
-    observacoes TEXT
+        observacoes TEXT
 
     );
 
@@ -315,19 +315,19 @@ Criação das tables:
 
     CREATE TABLE vetcare.consulta(
 
-    id_consulta INT PRIMARY KEY NOT NULL,
+        id_consulta INT PRIMARY KEY NOT NULL,
 
-    id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
+        id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
 
-    id_veterinario INT NOT NULL REFERENCES vetcare.veterinario(id_veterinario),
+        id_veterinario INT NOT NULL REFERENCES vetcare.veterinario(id_veterinario),
 
-    data_hora TIMESTAMPTZ NOT NULL,
+        data_hora TIMESTAMPTZ NOT NULL,
 
-    motivo VARCHAR(150) NOT NULL,
+        motivo VARCHAR(150) NOT NULL,
 
-    diagnostico TEXT,
+        diagnostico TEXT,
 
-    status VARCHAR(20) NOT NULL CHECK (status IN ('Agendada', 'Realizada', 'Cancelada'))
+        status VARCHAR(20) NOT NULL CHECK (status IN ('Agendada', 'Realizada', 'Cancelada'))
 
     );
 
@@ -335,13 +335,13 @@ Criação das tables:
 
     CREATE TABLE vetcare.procedimento(
 
-    id_procedimento INT PRIMARY KEY NOT NULL,
+        id_procedimento INT PRIMARY KEY NOT NULL,
 
-    nome_procedimento VARCHAR(100) NOT NULL,
+        nome_procedimento VARCHAR(100) NOT NULL,
 
-    descricao TEXT,
+        descricao TEXT,
 
-    valor DECIMAL(10,2) NOT NULL CHECK (valor >= 0)
+        valor DECIMAL(10,2) NOT NULL CHECK (valor >= 0)
 
     );
 
@@ -349,13 +349,13 @@ Criação das tables:
 
     CREATE TABLE vetcare.consulta_procedimento (
 
-    id_consulta INT NOT NULL REFERENCES vetcare.consulta(id_consulta),
+        id_consulta INT NOT NULL REFERENCES vetcare.consulta(id_consulta),
 
-    id_procedimento INT NOT NULL REFERENCES vetcare.procedimento(id_procedimento),
+        id_procedimento INT NOT NULL REFERENCES vetcare.procedimento(id_procedimento),
 
-    quantidade INT NOT NULL CHECK (quantidade > 0),
+        quantidade INT NOT NULL CHECK (quantidade > 0),
 
-    valor_unitario DECIMAL(10,2) NOT NULL CHECK (valor_unitario >= 0)
+        valor_unitario DECIMAL(10,2) NOT NULL CHECK (valor_unitario >= 0)
 
     );
 
@@ -523,25 +523,25 @@ CREATE
 
     VALUES (
 
-    501,
+        501,
 
-    'Lucas Pergolato',
+        'Lucas Pergolato',
 
-    '583.729.146-00',
+        '583.729.146-00',
 
-    'lucas@example.com',
+        'lucas@example.com',
 
-    'Rua das Flores',
+        'Rua das Flores',
 
-    '150',
+        '150',
 
-    'Centro',
+        'Centro',
 
-    'Franca',
+        'Franca',
 
-    'SP',
+        'SP',
 
-    '14400-100'
+        '14400-100'
 
     )
 
@@ -563,11 +563,11 @@ CREATE
 
     VALUES (
 
-    10001,
+        10001,
 
-    501,
+        501,
 
-    '(16) 99123-4567'
+        '(16) 99123-4567'
 
     )
 
@@ -595,19 +595,19 @@ CREATE
 
     VALUES (
 
-    10001,
+        10001,
 
-    501,
+        501,
 
-    'Thor',
+        'Thor',
 
-    'Canina',
+        'Canina',
 
-    'Golden Retriever',
+        'Golden Retriever',
 
-    'M',
+        'M',
 
-    '2022-05-15'
+        '2022-05-15'
 
     )
 
@@ -629,13 +629,13 @@ CREATE
 
     VALUES (
 
-    10001,
+        10001,
 
-    'Mariana Almeida',
+        'Mariana Almeida',
 
-    'CRMV-SP 98765',
+        'CRMV-SP 98765',
 
-    'Clínica Geral'
+        'Clínica Geral'
 
     )
 
@@ -659,15 +659,15 @@ CREATE
 
     VALUES (
 
-    10001,
+        10001,
 
-    10001,
+        10001,
 
-    CURRENT_DATE,
+        CURRENT_DATE,
 
-    'Nenhuma',
+        'Nenhuma',
 
-    'Animal cadastrado para acompanhamento clínico'
+        'Animal cadastrado para acompanhamento clínico'
 
     )
 
@@ -689,13 +689,13 @@ CREATE
 
     VALUES (
 
-    10001,
+        10001,
 
-    'Vacinação antirrábica',
+        'Vacinação antirrábica',
 
-    'Aplicação de vacina contra a raiva',
+        'Aplicação de vacina contra a raiva',
 
-    150.00
+        150.00
 
     )
 
@@ -721,21 +721,21 @@ CREATE
 
     )
 
-    VALUES (
+        VALUES (
 
-    10001,
+        10001,
 
-    10001,
+        10001,
 
-    10001,
+        10001,
 
-    '2026-11-30 14:00:00',
+        '2026-11-30 14:00:00',
 
-    'Vacinação de rotina',
+        'Vacinação de rotina',
 
-    NULL,
+        NULL,
 
-    'Agendada'
+        'Agendada'
 
     )
 
@@ -758,13 +758,13 @@ CREATE
 
     VALUES (
 
-    10001,
+        10001,
 
-    10001,
+        10001,
 
-    1,
+        1,
 
-    150.00
+        150.00
 
     )
 
