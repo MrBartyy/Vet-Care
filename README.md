@@ -491,503 +491,292 @@ Inicialmente, foram inseridos os registros referentes ao tutor, telefone, animal
 
 CREATE
 
-  
 
 ![enter image description here](https://i.imgur.com/sawgWsI.png)
 
-  
 
     INSERT INTO vetcare.tutor (
-
     id_tutor,
-
     nome_tutor,
-
     cpf,
-
     email_tutor,
-
     rua,
-
     numero,
-
     bairro,
-
     cidade,
-
     uf,
-
     cep
-
     )
-
     VALUES (
-
         501,
-
         'Lucas Pergolato',
-
         '583.729.146-00',
-
         'lucas@example.com',
-
         'Rua das Flores',
-
         '150',
-
         'Centro',
-
         'Franca',
-
         'SP',
-
         '14400-100'
-
     )
-
-    
-
     RETURNING *;
 
   
 ![enter image description here](https://i.imgur.com/e3Le6ck.png)
     INSERT INTO vetcare.telefone_tutor (
-
     id_telefone,
-
     id_tutor,
-
     numero_telefone
-
     )
-
     VALUES (
-
         10001,
-
         501,
-
         '(16) 99123-4567'
-
     )
-
     RETURNING *;
 
   ![enter image description here](https://i.imgur.com/usdkq56.png)
 
     INSERT INTO vetcare.animal (
-
     id_animal,
-
     id_tutor,
-
     nome_animal,
-
     especie_animal,
-
     raca_animal,
-
     sexo_animal,
-
     data_nasc
-
     )
-
     VALUES (
-
         10001,
-
         501,
-
         'Thor',
-
         'Canina',
-
         'Golden Retriever',
-
         'M',
-
         '2022-05-15'
-
     )
-
     RETURNING *;
 
   ![enter image description here](https://i.imgur.com/gqhdk0i.png)
 
     INSERT INTO vetcare.veterinario (
-
     id_veterinario,
-
     nome_veterinario,
-
     crmv,
-
     especialidade
-
     )
-
     VALUES (
-
         10001,
-
         'Mariana Almeida',
-
         'CRMV-SP 98765',
-
         'Clínica Geral'
-
     )
-
     RETURNING *;        
 
   ![enter image description here](https://i.imgur.com/ZTKLUlN.png)
 
     INSERT INTO vetcare.prontuario (
-
     id_prontuario,
-
     id_animal,
-
     data_abertura,
-
     alergias,
-
     observacoes
-
     )
-
     VALUES (
-
         10001,
-
         10001,
-
         CURRENT_DATE,
-
         'Nenhuma',
-
         'Animal cadastrado para acompanhamento clínico'
-
     )
-
     RETURNING *;
 
   ![enter image description here](https://i.imgur.com/68qSc7v.png)
 
     INSERT INTO vetcare.procedimento (
-
     id_procedimento,
-
     nome_procedimento,
-
     descricao,
-
     valor
-
     )
-
     VALUES (
-
         10001,
-
         'Vacinação antirrábica',
-
         'Aplicação de vacina contra a raiva',
-
         150.00
-
     )
-
     RETURNING *;
 
   ![enter image description here](https://i.imgur.com/Nv6awlp.png)
 
     INSERT INTO vetcare.consulta (
-
     id_consulta,
-
     id_animal,
-
     id_veterinario,
-
     data_hora,
-
     motivo,
-
     diagnostico,
-
     status
-
     )
-
         VALUES (
-
         10001,
-
         10001,
-
         10001,
-
         '2026-11-30 14:00:00',
-
         'Vacinação de rotina',
-
         NULL,
-
         'Agendada'
-
     )
-
     RETURNING *;
 
 ![enter image description here](https://i.imgur.com/TE0DDWE.png)
   
 
     INSERT INTO vetcare.consulta_procedimento (
-
     id_consulta,
-
     id_procedimento,
-
     quantidade,
-
     valor_unitario
-
     )
-
     VALUES (
-
         10001,
-
         10001,
-
         1,
-
         150.00
-
     )
-
 RETURNING *;
 
-Em seguida, foram realizadas consultas utilizando JOIN para verificar os registros cadastrados e os relacionamentos existentes entre as tabelas.
 
   
 
 READ
+    Em seguida, foram realizadas consultas utilizando JOIN para verificar os registros cadastrados e os relacionamentos existentes entre as tabelas.
 
-  
 
     SELECT *
-
     FROM vetcare.tutor
-
     WHERE id_tutor >= 491 and id_tutor <= 501;
 
     
 
     SELECT
-
     tutor.id_tutor,
-
     tutor.nome_tutor,
-
     tutor.cpf,
-
     tutor.email_tutor,
-
     telefone_tutor.numero_telefone
-
     FROM vetcare.tutor
-
     JOIN vetcare.telefone_tutor
-
     ON tutor.id_tutor = telefone_tutor.id_tutor
-
     WHERE tutor.id_tutor = 501;
 
     
 
     SELECT
-
     animal.nome_animal,
-
     animal.especie_animal,
-
     animal.raca_animal,
-
     prontuario.data_abertura,
-
     prontuario.alergias,
-
     prontuario.observacoes
-
     FROM vetcare.animal
-
     JOIN vetcare.prontuario
-
     ON animal.id_animal = prontuario.id_animal
-
     WHERE animal.id_animal = 10001;
 
     
 
     SELECT
-
     consulta.id_consulta,
-
     tutor.nome_tutor,
-
     animal.nome_animal,
-
     veterinario.nome_veterinario,
-
     consulta.data_hora,
-
     consulta.motivo,
-
     consulta.status
-
     FROM vetcare.consulta
-
     JOIN vetcare.animal
-
     ON consulta.id_animal = animal.id_animal
-
     JOIN vetcare.tutor
-
     ON animal.id_tutor = tutor.id_tutor
-
     JOIN vetcare.veterinario
-
     ON consulta.id_veterinario = veterinario.id_veterinario
-
     WHERE consulta.id_consulta = 10001;
 
     
 
     SELECT
-
     consulta.id_consulta,
-
     procedimento.nome_procedimento,
-
     consulta_procedimento.quantidade,
-
     consulta_procedimento.valor_unitario,
-
     consulta_procedimento.quantidade *
-
     consulta_procedimento.valor_unitario AS valor_total
-
     FROM vetcare.consulta_procedimento
-
     JOIN vetcare.consulta
-
     ON consulta_procedimento.id_consulta =
-
     consulta.id_consulta
-
     JOIN vetcare.procedimento
-
     ON consulta_procedimento.id_procedimento =
-
     procedimento.id_procedimento
-
     WHERE consulta.id_consulta = 10001;
 
   
 
-UPDATE
-
+### UPDATE
   
 
 As operações de atualização demonstraram a possibilidade de modificar informações cadastrais, registros clínicos, valores de procedimentos e o status dos atendimentos.
-
   
 
     UPDATE vetcare.tutor
-
     SET email_tutor = 'lucas.pergolato@example.com'
-
     WHERE id_tutor = 501
-
     RETURNING *;
-
     
 
     UPDATE vetcare.telefone_tutor
-
     SET numero_telefone = '(16) 99876-5432'
-
     WHERE id_telefone = 10001
-
     RETURNING *;
 
     
-
     UPDATE vetcare.animal
-
     SET nome_animal = 'Thor Max'
-
     WHERE id_animal = 10001
-
     RETURNING *;
 
-    
 
     UPDATE vetcare.veterinario
-
     SET especialidade = 'Medicina Preventiva'
-
     WHERE id_veterinario = 10001
-
     RETURNING *;
-
     
 
     UPDATE vetcare.prontuario
-
     SET observacoes = 'Animal vacinado e em boas condições de saúde'
-
     WHERE id_animal = 10001
-
     RETURNING *;
-
     
 
     UPDATE vetcare.procedimento
-
     SET valor = 180.00
-
     WHERE id_procedimento = 10001
-
     RETURNING *;
-
     
 
     UPDATE vetcare.consulta_procedimento
-
     SET valor_unitario = 180.00
-
     WHERE id_consulta = 10001
-
     AND id_procedimento = 10001
-
     RETURNING *;
-
     
 
     UPDATE vetcare.consulta
-
     SET
-
     status = 'Realizada',
-
     diagnostico = 'Animal saudável, vacinação realizada com sucesso'
-
     WHERE id_consulta = 10001
-
     RETURNING *;
 
   
