@@ -644,7 +644,7 @@ CREATE
         1,
         150.00
     )
-RETURNING *;
+    RETURNING *;
 
 
   
@@ -653,12 +653,14 @@ READ
     Em seguida, foram realizadas consultas utilizando JOIN para verificar os registros cadastrados e os relacionamentos existentes entre as tabelas.
 
 
+
+![enter image description here](https://i.imgur.com/7aXvaiv.png)
     SELECT *
     FROM vetcare.tutor
     WHERE id_tutor >= 491 and id_tutor <= 501;
 
     
-
+![enter image description here](https://i.imgur.com/cEzylCr.png)
     SELECT
     tutor.id_tutor,
     tutor.nome_tutor,
@@ -671,7 +673,7 @@ READ
     WHERE tutor.id_tutor = 501;
 
     
-
+![enter image description here](https://i.imgur.com/AMXiYf9.png)
     SELECT
     animal.nome_animal,
     animal.especie_animal,
@@ -685,7 +687,7 @@ READ
     WHERE animal.id_animal = 10001;
 
     
-
+![enter image description here](https://i.imgur.com/pCJWHgD.png)
     SELECT
     consulta.id_consulta,
     tutor.nome_tutor,
@@ -704,7 +706,7 @@ READ
     WHERE consulta.id_consulta = 10001;
 
     
-
+![enter image description here](https://i.imgur.com/npUwGos.png)
     SELECT
     consulta.id_consulta,
     procedimento.nome_procedimento,
@@ -729,49 +731,50 @@ READ
 As operações de atualização demonstraram a possibilidade de modificar informações cadastrais, registros clínicos, valores de procedimentos e o status dos atendimentos.
   
 
+![enter image description here](https://i.imgur.com/QoB3cMy.png)
     UPDATE vetcare.tutor
     SET email_tutor = 'lucas.pergolato@example.com'
     WHERE id_tutor = 501
     RETURNING *;
     
-
+![enter image description here](https://i.imgur.com/rWD8OJn.png)
     UPDATE vetcare.telefone_tutor
     SET numero_telefone = '(16) 99876-5432'
     WHERE id_telefone = 10001
     RETURNING *;
 
-    
+![enter image description here](https://i.imgur.com/GVhQnv1.png)    
     UPDATE vetcare.animal
     SET nome_animal = 'Thor Max'
     WHERE id_animal = 10001
     RETURNING *;
 
-
+![enter image description here](https://i.imgur.com/io3bor6.png)
     UPDATE vetcare.veterinario
     SET especialidade = 'Medicina Preventiva'
     WHERE id_veterinario = 10001
     RETURNING *;
     
-
+![enter image description here](https://i.imgur.com/BSqnwuv.png)
     UPDATE vetcare.prontuario
     SET observacoes = 'Animal vacinado e em boas condições de saúde'
     WHERE id_animal = 10001
     RETURNING *;
     
-
+![enter image description here](https://i.imgur.com/0eAumGk.png)
     UPDATE vetcare.procedimento
     SET valor = 180.00
     WHERE id_procedimento = 10001
     RETURNING *;
     
-
+![enter image description here](https://i.imgur.com/OiVQ6YS.png)
     UPDATE vetcare.consulta_procedimento
     SET valor_unitario = 180.00
     WHERE id_consulta = 10001
     AND id_procedimento = 10001
     RETURNING *;
     
-
+![enter image description here](https://i.imgur.com/xzNYgnK.png)
     UPDATE vetcare.consulta
     SET
     status = 'Realizada',
@@ -780,7 +783,252 @@ As operações de atualização demonstraram a possibilidade de modificar inform
     RETURNING *;
 
   
+### DELETE
 
+Por fim, os registros utilizados na demonstração foram excluídos, respeitando as dependências das chaves estrangeiras e preservando a integridade referencial do banco de dados.
+
+![enter image description here](https://i.imgur.com/Y6sXIyg.png)
+
+    DELETE FROM vetcare.consulta_procedimento
+    WHERE id_consulta = 178
+        AND id_procedimento = 178
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/Chx45JJ.png)
+    DELETE FROM vetcare.consulta
+    WHERE id_consulta = 10001
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/Y3lODWY.png)
+    DELETE FROM vetcare.prontuario
+    WHERE id_animal = 10001
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/wsyZNPe.png)
+    DELETE FROM vetcare.animal
+    WHERE id_animal = 10001
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/tWUjfNA.png)
+    DELETE FROM vetcare.telefone_tutor
+    WHERE id_telefone = 10001
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/aLuykzh.png)
+    DELETE FROM vetcare.tutor
+    WHERE id_tutor = 501
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/gYdlk5J.png)
+    DELETE FROM vetcare.veterinario
+    WHERE id_veterinario = 10001
+    RETURNING *;
+
+![enter image description here](https://i.imgur.com/yOssHEP.png)
+    DELETE FROM vetcare.procedimento
+    WHERE id_procedimento = 10001
+    RETURNING *;
   
 
+As operações foram documentadas por meio de comandos SQL e capturas de tela dos resultados apresentados no Supabase.
+
 ## Relatórios.
+
+Este conjunto reúne dez consultas SQL criadas para resolver necessidades reais da VetCare, desde o controle cadastral e clínico até a gestão administrativa e financeira. Cada query combina SELECT, WHERE, ORDER BY e JOIN respeitando a estrutura física do banco de dados.
+
+Quais tutores possuem mais de um animal cadastrado na clínica?
+Objetivo: identificar os tutores responsáveis por múltiplos animais, facilitando a organização dos atendimentos.
+
+    SELECT
+        tutor.id_tutor,
+        tutor.nome_tutor,
+        COUNT(animal.id_animal) AS total_animais
+    FROM vetcare.tutor
+    JOIN vetcare.animal
+        ON tutor.id_tutor = animal.id_tutor
+    WHERE animal.id_animal IS NOT NULL
+    GROUP BY tutor.id_tutor, tutor.nome_tutor
+    HAVING COUNT(animal.id_animal) > 1
+    ORDER BY total_animais DESC;
+
+Quais são as próximas consultas agendadas e quais veterinários serão responsáveis pelos atendimentos?
+Objetivo: auxiliar a recepção na organização da agenda de consultas.
+
+    SELECT
+        consulta.id_consulta,
+        consulta.data_hora,
+        animal.nome_animal,
+        tutor.nome_tutor,
+        veterinario.nome_veterinario,
+        consulta.motivo
+    FROM vetcare.consulta
+    JOIN vetcare.animal
+        ON consulta.id_animal = animal.id_animal
+    JOIN vetcare.tutor
+        ON animal.id_tutor = tutor.id_tutor
+    JOIN vetcare.veterinario
+        ON consulta.id_veterinario = veterinario.id_veterinario
+    WHERE consulta.status = 'Agendada'
+        AND consulta.data_hora >= CURRENT_TIMESTAMP
+    ORDER BY consulta.data_hora ASC;
+
+
+    SELECT
+        animal.id_animal,
+        animal.nome_animal,
+        veterinario.nome_veterinario,
+        consulta.data_hora,
+        consulta.motivo,
+        consulta.diagnostico
+    FROM vetcare.consulta
+    JOIN vetcare.animal
+        ON consulta.id_animal = animal.id_animal
+    JOIN vetcare.veterinario
+        ON consulta.id_veterinario = veterinario.id_veterinario
+    WHERE consulta.status = 'Realizada'
+    ORDER BY consulta.data_hora DESC;
+
+
+    SELECT
+        animal.id_animal,
+        animal.nome_animal,
+        animal.especie_animal,
+        animal.raca_animal,
+        prontuario.alergias,
+        prontuario.observacoes
+    FROM vetcare.animal
+    JOIN vetcare.prontuario
+        ON animal.id_animal = prontuario.id_animal
+    WHERE prontuario.alergias IS NOT NULL
+        AND prontuario.alergias <> 'Nenhuma'
+        AND prontuario.alergias <> ''
+    ORDER BY animal.nome_animal ASC;
+
+
+    SELECT
+        consulta.id_consulta,
+        tutor.nome_tutor,
+        animal.nome_animal,
+        telefone_tutor.numero_telefone,
+        tutor.email_tutor,
+        consulta.data_hora
+    FROM vetcare.consulta
+    JOIN vetcare.animal
+        ON consulta.id_animal = animal.id_animal
+    JOIN vetcare.tutor
+        ON animal.id_tutor = tutor.id_tutor
+    JOIN vetcare.telefone_tutor
+        ON tutor.id_tutor = telefone_tutor.id_tutor
+    WHERE consulta.status = 'Cancelada'
+    ORDER BY consulta.data_hora DESC;
+
+
+    SELECT
+        animal.id_animal,
+        animal.nome_animal,
+        animal.especie_animal,
+        animal.raca_animal,
+        animal.data_nasc,
+        EXTRACT(YEAR FROM AGE(
+            CURRENT_DATE, animal.data_nasc
+        ))::INT AS idade_animal,
+        tutor.nome_tutor,
+        tutor.email_tutor
+    FROM vetcare.animal
+    JOIN vetcare.tutor
+        ON animal.id_tutor = tutor.id_tutor
+    WHERE AGE(CURRENT_DATE, animal.data_nasc)
+        >= INTERVAL '7 years'
+    ORDER BY idade_animal DESC;
+
+
+    SELECT
+        veterinario.id_veterinario,
+        veterinario.nome_veterinario,
+        veterinario.especialidade,
+        COUNT(consulta.id_consulta) AS total_consultas
+    FROM vetcare.veterinario
+    JOIN vetcare.consulta
+        ON veterinario.id_veterinario =
+        consulta.id_veterinario
+    WHERE consulta.status = 'Realizada'
+    GROUP BY
+        veterinario.id_veterinario,
+        veterinario.nome_veterinario,
+        veterinario.especialidade
+    ORDER BY total_consultas DESC;
+
+
+    SELECT
+        procedimento.id_procedimento,
+        procedimento.nome_procedimento,
+        SUM(consulta_procedimento.quantidade) AS total_realizado
+    FROM vetcare.procedimento
+    JOIN vetcare.consulta_procedimento
+        ON procedimento.id_procedimento =
+        consulta_procedimento.id_procedimento
+    JOIN vetcare.consulta
+        ON consulta_procedimento.id_consulta =
+        consulta.id_consulta
+    WHERE consulta.status = 'Realizada'
+    GROUP BY
+        procedimento.id_procedimento,
+        procedimento.nome_procedimento
+    ORDER BY total_realizado DESC;
+
+
+    SELECT
+        consulta.id_consulta,
+        animal.nome_animal,
+        tutor.nome_tutor,
+        consulta.data_hora,
+        SUM(
+            consulta_procedimento.quantidade *
+            consulta_procedimento.valor_unitario
+        ) AS valor_total
+    FROM vetcare.consulta
+    JOIN vetcare.animal
+        ON consulta.id_animal = animal.id_animal
+    JOIN vetcare.tutor
+        ON animal.id_tutor = tutor.id_tutor
+    JOIN vetcare.consulta_procedimento
+        ON consulta.id_consulta =
+        consulta_procedimento.id_consulta
+    WHERE consulta.status = 'Realizada'
+    GROUP BY
+        consulta.id_consulta,
+        animal.nome_animal,
+        tutor.nome_tutor,
+        consulta.data_hora
+    ORDER BY valor_total DESC;
+
+
+    SELECT
+        TO_CHAR(
+            consulta.data_hora AT TIME ZONE 'America/Sao_Paulo',
+            'MM/YYYY'
+        ) AS mes_ano,
+        COUNT(DISTINCT consulta.id_consulta) AS total_consultas,
+        SUM(consulta_procedimento.quantidade) AS total_procedimentos,
+        SUM(
+            consulta_procedimento.quantidade *
+            consulta_procedimento.valor_unitario
+        ) AS valor_total
+    FROM vetcare.consulta
+    JOIN vetcare.consulta_procedimento
+        ON consulta.id_consulta =
+        consulta_procedimento.id_consulta
+    WHERE consulta.status = 'Realizada'
+    GROUP BY
+        TO_CHAR(
+            consulta.data_hora AT TIME ZONE 'America/Sao_Paulo',
+            'MM/YYYY'
+        ),
+        DATE_TRUNC(
+            'month',
+            consulta.data_hora AT TIME ZONE 'America/Sao_Paulo'
+        )
+    ORDER BY DATE_TRUNC(
+        'month',
+        consulta.data_hora AT TIME ZONE 'America/Sao_Paulo'
+    ) ASC;
