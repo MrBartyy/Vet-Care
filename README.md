@@ -221,143 +221,143 @@ Criação das tables:
 
   
 
-CREATE SCHEMA vetcare;
+    CREATE SCHEMA vetcare;
 
-  
+    
 
-CREATE TABLE vetcare.tutor(
+    CREATE TABLE vetcare.tutor(
 
-id_tutor INT PRIMARY KEY,
+    id_tutor INT PRIMARY KEY,
 
-nome_tutor VARCHAR(100) NOT NULL,
+    nome_tutor VARCHAR(100) NOT NULL,
 
-cpf VARCHAR(14) NOT NULL,
+    cpf VARCHAR(14) NOT NULL,
 
-email_tutor VARCHAR(120) NOT NULL,
+    email_tutor VARCHAR(120) NOT NULL,
 
-rua VARCHAR(100) NOT NULL,
+    rua VARCHAR(100) NOT NULL,
 
-numero VARCHAR(10) NOT NULL,
+    numero VARCHAR(10) NOT NULL,
 
-bairro VARCHAR(80) NOT NULL,
+    bairro VARCHAR(80) NOT NULL,
 
-cidade VARCHAR(80) NOT NULL,
+    cidade VARCHAR(80) NOT NULL,
 
-uf CHAR(2) NOT NULL,
+    uf CHAR(2) NOT NULL,
 
-cep VARCHAR(9) NOT NULL
+    cep VARCHAR(9) NOT NULL
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.telefone_tutor (
+    CREATE TABLE vetcare.telefone_tutor (
 
-id_telefone INT PRIMARY KEY,
+    id_telefone INT PRIMARY KEY,
 
-id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
+    id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
 
-numero_telefone VARCHAR(15) NOT NULL
+    numero_telefone VARCHAR(15) NOT NULL
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.animal (
+    CREATE TABLE vetcare.animal (
 
-id_animal INT PRIMARY KEY,
+    id_animal INT PRIMARY KEY,
 
-id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
+    id_tutor INT NOT NULL REFERENCES vetcare.tutor(id_tutor),
 
-nome_animal VARCHAR(60) NOT NULL,
+    nome_animal VARCHAR(60) NOT NULL,
 
-especie_animal VARCHAR(30) NOT NULL,
+    especie_animal VARCHAR(30) NOT NULL,
 
-raca_animal VARCHAR(60) NOT NULL,
+    raca_animal VARCHAR(60) NOT NULL,
 
-sexo_animal CHAR(1) NOT NULL CHECK (sexo_animal IN ('M','F')),
+    sexo_animal CHAR(1) NOT NULL CHECK (sexo_animal IN ('M','F')),
 
-data_nasc DATE NOT NULL
+    data_nasc DATE NOT NULL
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.veterinario(
+    CREATE TABLE vetcare.veterinario(
 
-id_veterinario INT PRIMARY KEY NOT NULL,
+    id_veterinario INT PRIMARY KEY NOT NULL,
 
-nome_veterinario VARCHAR(150) NOT NULL,
+    nome_veterinario VARCHAR(150) NOT NULL,
 
-crmv VARCHAR(20) NOT NULL UNIQUE,
+    crmv VARCHAR(20) NOT NULL UNIQUE,
 
-especialidade VARCHAR (80) NOT NULL
+    especialidade VARCHAR (80) NOT NULL
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.prontuario(
+    CREATE TABLE vetcare.prontuario(
 
-id_prontuario INT PRIMARY KEY NOT NULL,
+    id_prontuario INT PRIMARY KEY NOT NULL,
 
-id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
+    id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
 
-data_abertura DATE NOT NULL,
+    data_abertura DATE NOT NULL,
 
-alergias TEXT,
+    alergias TEXT,
 
-observacoes TEXT
+    observacoes TEXT
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.consulta(
+    CREATE TABLE vetcare.consulta(
 
-id_consulta INT PRIMARY KEY NOT NULL,
+    id_consulta INT PRIMARY KEY NOT NULL,
 
-id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
+    id_animal INT NOT NULL REFERENCES vetcare.animal(id_animal),
 
-id_veterinario INT NOT NULL REFERENCES vetcare.veterinario(id_veterinario),
+    id_veterinario INT NOT NULL REFERENCES vetcare.veterinario(id_veterinario),
 
-data_hora TIMESTAMPTZ NOT NULL,
+    data_hora TIMESTAMPTZ NOT NULL,
 
-motivo VARCHAR(150) NOT NULL,
+    motivo VARCHAR(150) NOT NULL,
 
-diagnostico TEXT,
+    diagnostico TEXT,
 
-status VARCHAR(20) NOT NULL CHECK (status IN ('Agendada', 'Realizada', 'Cancelada'))
+    status VARCHAR(20) NOT NULL CHECK (status IN ('Agendada', 'Realizada', 'Cancelada'))
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.procedimento(
+    CREATE TABLE vetcare.procedimento(
 
-id_procedimento INT PRIMARY KEY NOT NULL,
+    id_procedimento INT PRIMARY KEY NOT NULL,
 
-nome_procedimento VARCHAR(100) NOT NULL,
+    nome_procedimento VARCHAR(100) NOT NULL,
 
-descricao TEXT,
+    descricao TEXT,
 
-valor DECIMAL(10,2) NOT NULL CHECK (valor >= 0)
+    valor DECIMAL(10,2) NOT NULL CHECK (valor >= 0)
 
-);
+    );
 
-  
+    
 
-CREATE TABLE vetcare.consulta_procedimento (
+    CREATE TABLE vetcare.consulta_procedimento (
 
-id_consulta INT NOT NULL REFERENCES vetcare.consulta(id_consulta),
+    id_consulta INT NOT NULL REFERENCES vetcare.consulta(id_consulta),
 
-id_procedimento INT NOT NULL REFERENCES vetcare.procedimento(id_procedimento),
+    id_procedimento INT NOT NULL REFERENCES vetcare.procedimento(id_procedimento),
 
-quantidade INT NOT NULL CHECK (quantidade > 0),
+    quantidade INT NOT NULL CHECK (quantidade > 0),
 
-valor_unitario DECIMAL(10,2) NOT NULL CHECK (valor_unitario >= 0)
+    valor_unitario DECIMAL(10,2) NOT NULL CHECK (valor_unitario >= 0)
 
-);
+    );
 
   
   
@@ -497,275 +497,276 @@ CREATE
 
   
 
-INSERT INTO vetcare.tutor (
+    INSERT INTO vetcare.tutor (
 
-id_tutor,
+    id_tutor,
 
-nome_tutor,
+    nome_tutor,
 
-cpf,
+    cpf,
 
-email_tutor,
+    email_tutor,
 
-rua,
+    rua,
 
-numero,
+    numero,
 
-bairro,
+    bairro,
 
-cidade,
+    cidade,
 
-uf,
+    uf,
 
-cep
+    cep
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-501,
+    501,
 
-'Lucas Pergolato',
+    'Lucas Pergolato',
 
-'583.729.146-00',
+    '583.729.146-00',
 
-'lucas@example.com',
+    'lucas@example.com',
 
-'Rua das Flores',
+    'Rua das Flores',
 
-'150',
+    '150',
 
-'Centro',
+    'Centro',
 
-'Franca',
+    'Franca',
 
-'SP',
+    'SP',
 
-'14400-100'
+    '14400-100'
 
-)
+    )
 
-  
+    
 
-RETURNING *;
+    RETURNING *;
 
   
 ![enter image description here](https://i.imgur.com/e3Le6ck.png)
-INSERT INTO vetcare.telefone_tutor (
+    INSERT INTO vetcare.telefone_tutor (
 
-id_telefone,
+    id_telefone,
 
-id_tutor,
+    id_tutor,
 
-numero_telefone
+    numero_telefone
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-501,
+    501,
 
-'(16) 99123-4567'
+    '(16) 99123-4567'
 
-)
+    )
 
-RETURNING *;
+    RETURNING *;
 
   ![enter image description here](https://i.imgur.com/usdkq56.png)
 
-INSERT INTO vetcare.animal (
+    INSERT INTO vetcare.animal (
 
-id_animal,
+    id_animal,
 
-id_tutor,
+    id_tutor,
 
-nome_animal,
+    nome_animal,
 
-especie_animal,
+    especie_animal,
 
-raca_animal,
+    raca_animal,
 
-sexo_animal,
+    sexo_animal,
 
-data_nasc
+    data_nasc
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-501,
+    501,
 
-'Thor',
+    'Thor',
 
-'Canina',
+    'Canina',
 
-'Golden Retriever',
+    'Golden Retriever',
 
-'M',
+    'M',
 
-'2022-05-15'
+    '2022-05-15'
 
-)
+    )
 
-RETURNING *;
+    RETURNING *;
 
   ![enter image description here](https://i.imgur.com/gqhdk0i.png)
 
-INSERT INTO vetcare.veterinario (
+    INSERT INTO vetcare.veterinario (
 
-id_veterinario,
+    id_veterinario,
 
-nome_veterinario,
+    nome_veterinario,
 
-crmv,
+    crmv,
 
-especialidade
+    especialidade
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-'Mariana Almeida',
+    'Mariana Almeida',
 
-'CRMV-SP 98765',
+    'CRMV-SP 98765',
 
-'Clínica Geral'
+    'Clínica Geral'
 
-)
+    )
 
-RETURNING *;
+    RETURNING *;        
 
   ![enter image description here](https://i.imgur.com/ZTKLUlN.png)
 
-INSERT INTO vetcare.prontuario (
+    INSERT INTO vetcare.prontuario (
 
-id_prontuario,
+    id_prontuario,
 
-id_animal,
+    id_animal,
 
-data_abertura,
+    data_abertura,
 
-alergias,
+    alergias,
 
-observacoes
+    observacoes
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-10001,
+    10001,
 
-CURRENT_DATE,
+    CURRENT_DATE,
 
-'Nenhuma',
+    'Nenhuma',
 
-'Animal cadastrado para acompanhamento clínico'
+    'Animal cadastrado para acompanhamento clínico'
 
-)
+    )
 
-RETURNING *;
+    RETURNING *;
 
   ![enter image description here](https://i.imgur.com/68qSc7v.png)
 
-INSERT INTO vetcare.procedimento (
+    INSERT INTO vetcare.procedimento (
 
-id_procedimento,
+    id_procedimento,
 
-nome_procedimento,
+    nome_procedimento,
 
-descricao,
+    descricao,
 
-valor
+    valor
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-'Vacinação antirrábica',
+    'Vacinação antirrábica',
 
-'Aplicação de vacina contra a raiva',
+    'Aplicação de vacina contra a raiva',
 
-150.00
+    150.00
 
-)
+    )
 
-RETURNING *;
+    RETURNING *;
 
   ![enter image description here](https://i.imgur.com/Nv6awlp.png)
 
-INSERT INTO vetcare.consulta (
+    INSERT INTO vetcare.consulta (
 
-id_consulta,
+    id_consulta,
 
-id_animal,
+    id_animal,
 
-id_veterinario,
+    id_veterinario,
 
-data_hora,
+    data_hora,
 
-motivo,
+    motivo,
 
-diagnostico,
+    diagnostico,
 
-status
+    status
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-10001,
+    10001,
 
-10001,
+    10001,
 
-'2026-11-30 14:00:00',
+    '2026-11-30 14:00:00',
 
-'Vacinação de rotina',
+    'Vacinação de rotina',
 
-NULL,
+    NULL,
 
-'Agendada'
+    'Agendada'
 
-)
+    )
 
-RETURNING *;
+    RETURNING *;
+
 ![enter image description here](https://i.imgur.com/TE0DDWE.png)
   
 
-INSERT INTO vetcare.consulta_procedimento (
+    INSERT INTO vetcare.consulta_procedimento (
 
-id_consulta,
+    id_consulta,
 
-id_procedimento,
+    id_procedimento,
 
-quantidade,
+    quantidade,
 
-valor_unitario
+    valor_unitario
 
-)
+    )
 
-VALUES (
+    VALUES (
 
-10001,
+    10001,
 
-10001,
+    10001,
 
-1,
+    1,
 
-150.00
+    150.00
 
-)
+    )
 
 RETURNING *;
 
@@ -777,123 +778,123 @@ READ
 
   
 
-SELECT *
+    SELECT *
 
-FROM vetcare.tutor
+    FROM vetcare.tutor
 
-WHERE id_tutor >= 491 and id_tutor <= 501;
+    WHERE id_tutor >= 491 and id_tutor <= 501;
 
-  
+    
 
-SELECT
+    SELECT
 
-tutor.id_tutor,
+    tutor.id_tutor,
 
-tutor.nome_tutor,
+    tutor.nome_tutor,
 
-tutor.cpf,
+    tutor.cpf,
 
-tutor.email_tutor,
+    tutor.email_tutor,
 
-telefone_tutor.numero_telefone
+    telefone_tutor.numero_telefone
 
-FROM vetcare.tutor
+    FROM vetcare.tutor
 
-JOIN vetcare.telefone_tutor
+    JOIN vetcare.telefone_tutor
 
-ON tutor.id_tutor = telefone_tutor.id_tutor
+    ON tutor.id_tutor = telefone_tutor.id_tutor
 
-WHERE tutor.id_tutor = 501;
+    WHERE tutor.id_tutor = 501;
 
-  
+    
 
-SELECT
+    SELECT
 
-animal.nome_animal,
+    animal.nome_animal,
 
-animal.especie_animal,
+    animal.especie_animal,
 
-animal.raca_animal,
+    animal.raca_animal,
 
-prontuario.data_abertura,
+    prontuario.data_abertura,
 
-prontuario.alergias,
+    prontuario.alergias,
 
-prontuario.observacoes
+    prontuario.observacoes
 
-FROM vetcare.animal
+    FROM vetcare.animal
 
-JOIN vetcare.prontuario
+    JOIN vetcare.prontuario
 
-ON animal.id_animal = prontuario.id_animal
+    ON animal.id_animal = prontuario.id_animal
 
-WHERE animal.id_animal = 10001;
+    WHERE animal.id_animal = 10001;
 
-  
+    
 
-SELECT
+    SELECT
 
-consulta.id_consulta,
+    consulta.id_consulta,
 
-tutor.nome_tutor,
+    tutor.nome_tutor,
 
-animal.nome_animal,
+    animal.nome_animal,
 
-veterinario.nome_veterinario,
+    veterinario.nome_veterinario,
 
-consulta.data_hora,
+    consulta.data_hora,
 
-consulta.motivo,
+    consulta.motivo,
 
-consulta.status
+    consulta.status
 
-FROM vetcare.consulta
+    FROM vetcare.consulta
 
-JOIN vetcare.animal
+    JOIN vetcare.animal
 
-ON consulta.id_animal = animal.id_animal
+    ON consulta.id_animal = animal.id_animal
 
-JOIN vetcare.tutor
+    JOIN vetcare.tutor
 
-ON animal.id_tutor = tutor.id_tutor
+    ON animal.id_tutor = tutor.id_tutor
 
-JOIN vetcare.veterinario
+    JOIN vetcare.veterinario
 
-ON consulta.id_veterinario = veterinario.id_veterinario
+    ON consulta.id_veterinario = veterinario.id_veterinario
 
-WHERE consulta.id_consulta = 10001;
+    WHERE consulta.id_consulta = 10001;
 
-  
+    
 
-SELECT
+    SELECT
 
-consulta.id_consulta,
+    consulta.id_consulta,
 
-procedimento.nome_procedimento,
+    procedimento.nome_procedimento,
 
-consulta_procedimento.quantidade,
+    consulta_procedimento.quantidade,
 
-consulta_procedimento.valor_unitario,
+    consulta_procedimento.valor_unitario,
 
-consulta_procedimento.quantidade *
+    consulta_procedimento.quantidade *
 
-consulta_procedimento.valor_unitario AS valor_total
+    consulta_procedimento.valor_unitario AS valor_total
 
-FROM vetcare.consulta_procedimento
+    FROM vetcare.consulta_procedimento
 
-JOIN vetcare.consulta
+    JOIN vetcare.consulta
 
-ON consulta_procedimento.id_consulta =
+    ON consulta_procedimento.id_consulta =
 
-consulta.id_consulta
+    consulta.id_consulta
 
-JOIN vetcare.procedimento
+    JOIN vetcare.procedimento
 
-ON consulta_procedimento.id_procedimento =
+    ON consulta_procedimento.id_procedimento =
 
-procedimento.id_procedimento
+    procedimento.id_procedimento
 
-WHERE consulta.id_consulta = 10001;
+    WHERE consulta.id_consulta = 10001;
 
   
 
@@ -905,89 +906,89 @@ As operações de atualização demonstraram a possibilidade de modificar inform
 
   
 
-UPDATE vetcare.tutor
+    UPDATE vetcare.tutor
 
-SET email_tutor = 'lucas.pergolato@example.com'
+    SET email_tutor = 'lucas.pergolato@example.com'
 
-WHERE id_tutor = 501
+    WHERE id_tutor = 501
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.telefone_tutor
+    UPDATE vetcare.telefone_tutor
 
-SET numero_telefone = '(16) 99876-5432'
+    SET numero_telefone = '(16) 99876-5432'
 
-WHERE id_telefone = 10001
+    WHERE id_telefone = 10001
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.animal
+    UPDATE vetcare.animal
 
-SET nome_animal = 'Thor Max'
+    SET nome_animal = 'Thor Max'
 
-WHERE id_animal = 10001
+    WHERE id_animal = 10001
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.veterinario
+    UPDATE vetcare.veterinario
 
-SET especialidade = 'Medicina Preventiva'
+    SET especialidade = 'Medicina Preventiva'
 
-WHERE id_veterinario = 10001
+    WHERE id_veterinario = 10001
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.prontuario
+    UPDATE vetcare.prontuario
 
-SET observacoes = 'Animal vacinado e em boas condições de saúde'
+    SET observacoes = 'Animal vacinado e em boas condições de saúde'
 
-WHERE id_animal = 10001
+    WHERE id_animal = 10001
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.procedimento
+    UPDATE vetcare.procedimento
 
-SET valor = 180.00
+    SET valor = 180.00
 
-WHERE id_procedimento = 10001
+    WHERE id_procedimento = 10001
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.consulta_procedimento
+    UPDATE vetcare.consulta_procedimento
 
-SET valor_unitario = 180.00
+    SET valor_unitario = 180.00
 
-WHERE id_consulta = 10001
+    WHERE id_consulta = 10001
 
-AND id_procedimento = 10001
+    AND id_procedimento = 10001
 
-RETURNING *;
+    RETURNING *;
 
-  
+    
 
-UPDATE vetcare.consulta
+    UPDATE vetcare.consulta
 
-SET
+    SET
 
-status = 'Realizada',
+    status = 'Realizada',
 
-diagnostico = 'Animal saudável, vacinação realizada com sucesso'
+    diagnostico = 'Animal saudável, vacinação realizada com sucesso'
 
-WHERE id_consulta = 10001
+    WHERE id_consulta = 10001
 
-RETURNING *;
+    RETURNING *;
 
   
 
